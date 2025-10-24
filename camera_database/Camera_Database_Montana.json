@@ -1,0 +1,166 @@
+{
+  "id": "ultrar8-camera-database-montana",
+  "name": "Ultra R8 Camera Database - Montana",
+  "description": "Camera database for Montana (16 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-montana",
+      "displayName": "Camera Database - Montana",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_49700759_112778579_385",
+          "latitude": 49.7007598,
+          "longitude": -112.7785797,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.301906Z",
+          "direction": "242"
+        },
+        {
+          "id": "CAM_49696521_112824043_386",
+          "latitude": 49.6965217,
+          "longitude": -112.8240432,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.301909Z",
+          "direction": "89"
+        },
+        {
+          "id": "CAM_49696521_112824043_386",
+          "latitude": 49.6965217,
+          "longitude": -112.8240432,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.301909Z",
+          "direction": "269"
+        },
+        {
+          "id": "CAM_49696521_112824043_387",
+          "latitude": 49.6965217,
+          "longitude": -112.8240432,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.301913Z",
+          "direction": "356"
+        },
+        {
+          "id": "CAM_49696521_112824043_387",
+          "latitude": 49.6965217,
+          "longitude": -112.8240432,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.301913Z",
+          "direction": "176"
+        },
+        {
+          "id": "CAM_49692058_112890266_390",
+          "latitude": 49.6920585,
+          "longitude": -112.8902664,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.301925Z",
+          "direction": "142"
+        },
+        {
+          "id": "CAM_49692058_112890266_390",
+          "latitude": 49.6920585,
+          "longitude": -112.8902664,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.301925Z",
+          "direction": "322"
+        },
+        {
+          "id": "CAM_49692058_112890266_391",
+          "latitude": 49.6920585,
+          "longitude": -112.8902664,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.301929Z",
+          "direction": "50"
+        },
+        {
+          "id": "CAM_49692058_112890266_391",
+          "latitude": 49.6920585,
+          "longitude": -112.8902664,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.301929Z",
+          "direction": "230"
+        },
+        {
+          "id": "CAM_49691669_112889778_392",
+          "latitude": 49.6916694,
+          "longitude": -112.8897781,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh",
+          "timestamp": "2025-10-06T16:10:23.301932Z"
+        },
+        {
+          "id": "CAM_49693470_112810203_388",
+          "latitude": 49.69347,
+          "longitude": -112.8102035,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.301916Z",
+          "direction": "161"
+        },
+        {
+          "id": "CAM_49693470_112810203_388",
+          "latitude": 49.69347,
+          "longitude": -112.8102035,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.301916Z",
+          "direction": "341"
+        },
+        {
+          "id": "CAM_49693470_112810203_389",
+          "latitude": 49.69347,
+          "longitude": -112.8102035,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.301920Z",
+          "direction": "90"
+        },
+        {
+          "id": "CAM_49693470_112810203_389",
+          "latitude": 49.69347,
+          "longitude": -112.8102035,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.301920Z",
+          "direction": "270"
+        },
+        {
+          "id": "CAM_49683620_112805130_394",
+          "latitude": 49.6836204,
+          "longitude": -112.80513,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: N",
+          "timestamp": "2025-10-06T16:10:23.301938Z",
+          "direction": "341"
+        },
+        {
+          "id": "CAM_49662021_112794479_395",
+          "latitude": 49.6620216,
+          "longitude": -112.7944793,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 60 kmh | Monitors: N",
+          "timestamp": "2025-10-06T16:10:23.301941Z",
+          "direction": "341"
+        }
+      ]
+    }
+  ]
+}

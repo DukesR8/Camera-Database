@@ -1,0 +1,113 @@
+{
+  "id": "ultrar8-camera-database-british_columbia",
+  "name": "Ultra R8 Camera Database - British_Columbia",
+  "description": "Camera database for British_Columbia (10 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-british_columbia",
+      "displayName": "Camera Database - British_Columbia",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_53910301_122797119_19",
+          "latitude": 53.9103012,
+          "longitude": -122.7971191,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.300367Z",
+          "direction": "269"
+        },
+        {
+          "id": "CAM_37453178_126857902_11421",
+          "latitude": 37.4531784,
+          "longitude": 126.8579025,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.338830Z",
+          "direction": "279"
+        },
+        {
+          "id": "CAM_37453319_126857002_11420",
+          "latitude": 37.4533195,
+          "longitude": 126.8570022,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 160 mph | Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.338827Z",
+          "direction": "96"
+        },
+        {
+          "id": "CAM_37453876_126844833_11419",
+          "latitude": 37.4538764,
+          "longitude": 126.8448333,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.338823Z",
+          "direction": "359"
+        },
+        {
+          "id": "CAM_37453876_126844833_11419",
+          "latitude": 37.4538764,
+          "longitude": 126.8448333,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.338823Z",
+          "direction": "179"
+        },
+        {
+          "id": "CAM_37444980_126858161_11428",
+          "latitude": 37.4449806,
+          "longitude": 126.8581619,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 120 kmh | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.338851Z",
+          "direction": "40"
+        },
+        {
+          "id": "CAM_37444980_126858161_11428",
+          "latitude": 37.4449806,
+          "longitude": 126.8581619,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 120 kmh | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.338851Z",
+          "direction": "220"
+        },
+        {
+          "id": "CAM_37448207_126845687_11427",
+          "latitude": 37.4482078,
+          "longitude": 126.8456878,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.338848Z",
+          "direction": "90"
+        },
+        {
+          "id": "CAM_37441864_126846893_11429",
+          "latitude": 37.441864,
+          "longitude": 126.8468933,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.338855Z",
+          "direction": "359"
+        },
+        {
+          "id": "CAM_37441864_126846893_11429",
+          "latitude": 37.441864,
+          "longitude": 126.8468933,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.338855Z",
+          "direction": "179"
+        }
+      ]
+    }
+  ]
+}

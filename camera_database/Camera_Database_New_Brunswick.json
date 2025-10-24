@@ -1,0 +1,86 @@
+{
+  "id": "ultrar8-camera-database-new_brunswick",
+  "name": "Ultra R8 Camera Database - New_Brunswick",
+  "description": "Camera database for New_Brunswick (7 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-new_brunswick",
+      "displayName": "Camera Database - New_Brunswick",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_47588619_71238357_726",
+          "latitude": 47.5886192,
+          "longitude": -71.2383575,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 70 kmh | Monitors: S",
+          "timestamp": "2025-10-06T16:10:23.303033Z",
+          "direction": "173"
+        },
+        {
+          "id": "CAM_47474929_70528556_785",
+          "latitude": 47.4749298,
+          "longitude": -70.5285568,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 70 kmh | Monitors: S",
+          "timestamp": "2025-10-06T16:10:23.303237Z",
+          "direction": "200"
+        },
+        {
+          "id": "CAM_47439479_70520317_802",
+          "latitude": 47.4394798,
+          "longitude": -70.520317,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 70 kmh | Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.303291Z",
+          "direction": "44"
+        },
+        {
+          "id": "CAM_47685779_70205062_647",
+          "latitude": 47.6857795,
+          "longitude": -70.2050628,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.302776Z",
+          "direction": "113"
+        },
+        {
+          "id": "CAM_47659149_70154998_658",
+          "latitude": 47.6591491,
+          "longitude": -70.1549987,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.302811Z",
+          "direction": "332"
+        },
+        {
+          "id": "CAM_47196289_70243362_934",
+          "latitude": 47.196289,
+          "longitude": -70.2433624,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.303724Z",
+          "direction": "133"
+        },
+        {
+          "id": "CAM_47180038_70212829_943",
+          "latitude": 47.1800384,
+          "longitude": -70.2128295,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 50 kmh | Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.303754Z",
+          "direction": "313"
+        }
+      ]
+    }
+  ]
+}

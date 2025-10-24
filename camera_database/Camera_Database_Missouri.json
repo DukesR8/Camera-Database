@@ -1,0 +1,55 @@
+{
+  "id": "ultrar8-camera-database-missouri",
+  "name": "Ultra R8 Camera Database - Missouri",
+  "description": "Camera database for Missouri (4 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-missouri",
+      "displayName": "Camera Database - Missouri",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_38711170_90131950_10925",
+          "latitude": 38.7111701,
+          "longitude": -90.1319503,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.337250Z",
+          "direction": "45"
+        },
+        {
+          "id": "CAM_38711170_90131950_10925",
+          "latitude": 38.7111701,
+          "longitude": -90.1319503,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.337250Z",
+          "direction": "225"
+        },
+        {
+          "id": "CAM_38618560_90220108_11014",
+          "latitude": 38.6185607,
+          "longitude": -90.220108,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.337543Z"
+        },
+        {
+          "id": "CAM_38614440_90221191_11029",
+          "latitude": 38.6144409,
+          "longitude": -90.2211914,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.337584Z"
+        }
+      ]
+    }
+  ]
+}

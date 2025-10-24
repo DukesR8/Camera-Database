@@ -1,0 +1,30 @@
+{
+  "id": "ultrar8-camera-database-ontario",
+  "name": "Ultra R8 Camera Database - Ontario",
+  "description": "Camera database for Ontario (1 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-ontario",
+      "displayName": "Camera Database - Ontario",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_48251888_79050079_534",
+          "latitude": 48.2518882,
+          "longitude": -79.0500793,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.302415Z"
+        }
+      ]
+    }
+  ]
+}

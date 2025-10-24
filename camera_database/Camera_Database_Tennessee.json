@@ -1,0 +1,599 @@
+{
+  "id": "ultrar8-camera-database-tennessee",
+  "name": "Ultra R8 Camera Database - Tennessee",
+  "description": "Camera database for Tennessee (66 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-tennessee",
+      "displayName": "Camera Database - Tennessee",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_36133281_88502731_11843",
+          "latitude": 36.1332817,
+          "longitude": -88.5027313,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 56 mph | Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.340216Z",
+          "direction": "51"
+        },
+        {
+          "id": "CAM_36128608_88510032_11844",
+          "latitude": 36.1286087,
+          "longitude": -88.5100326,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.340219Z",
+          "direction": "227"
+        },
+        {
+          "id": "CAM_36123760_88517417_11845",
+          "latitude": 36.1237602,
+          "longitude": -88.5174179,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.340222Z",
+          "direction": "46"
+        },
+        {
+          "id": "CAM_35808799_88779876_11901",
+          "latitude": 35.8087997,
+          "longitude": -88.7798767,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340410Z",
+          "direction": "19"
+        },
+        {
+          "id": "CAM_35808799_88779876_11901",
+          "latitude": 35.8087997,
+          "longitude": -88.7798767,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340410Z",
+          "direction": "199"
+        },
+        {
+          "id": "CAM_35997360_88440452_11853",
+          "latitude": 35.9973602,
+          "longitude": -88.4404525,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 72 mph | Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.340248Z",
+          "direction": "127"
+        },
+        {
+          "id": "CAM_35995109_88436347_11854",
+          "latitude": 35.9951095,
+          "longitude": -88.4363479,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.340251Z",
+          "direction": "303"
+        },
+        {
+          "id": "CAM_35993141_88433097_11855",
+          "latitude": 35.9931411,
+          "longitude": -88.4330978,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 72 mph | Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.340254Z",
+          "direction": "305"
+        },
+        {
+          "id": "CAM_36601291_87281036_11799",
+          "latitude": 36.6012916,
+          "longitude": -87.2810363,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340076Z",
+          "direction": "40"
+        },
+        {
+          "id": "CAM_36601291_87281036_11799",
+          "latitude": 36.6012916,
+          "longitude": -87.2810363,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340076Z",
+          "direction": "220"
+        },
+        {
+          "id": "CAM_36563110_87312690_11806",
+          "latitude": 36.5631103,
+          "longitude": -87.3126907,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.340098Z",
+          "direction": "152"
+        },
+        {
+          "id": "CAM_36563041_87312553_11807",
+          "latitude": 36.5630416,
+          "longitude": -87.3125534,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340101Z",
+          "direction": "47"
+        },
+        {
+          "id": "CAM_36563041_87312553_11807",
+          "latitude": 36.5630416,
+          "longitude": -87.3125534,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340101Z",
+          "direction": "227"
+        },
+        {
+          "id": "CAM_36562850_87312339_11808",
+          "latitude": 36.5628509,
+          "longitude": -87.3123397,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.340104Z",
+          "direction": "296"
+        },
+        {
+          "id": "CAM_36554149_87324432_11817",
+          "latitude": 36.5541496,
+          "longitude": -87.3244323,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.340132Z",
+          "direction": "138"
+        },
+        {
+          "id": "CAM_36554149_87324432_11817",
+          "latitude": 36.5541496,
+          "longitude": -87.3244323,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.340132Z",
+          "direction": "318"
+        },
+        {
+          "id": "CAM_36554149_87324432_11818",
+          "latitude": 36.5541496,
+          "longitude": -87.3244323,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340136Z",
+          "direction": "48"
+        },
+        {
+          "id": "CAM_36554149_87324432_11818",
+          "latitude": 36.5541496,
+          "longitude": -87.3244323,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340136Z",
+          "direction": "228"
+        },
+        {
+          "id": "CAM_35158329_88579841_11971",
+          "latitude": 35.158329,
+          "longitude": -88.5798416,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.340643Z",
+          "direction": "150"
+        },
+        {
+          "id": "CAM_35158329_88579841_11971",
+          "latitude": 35.158329,
+          "longitude": -88.5798416,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW, SE",
+          "timestamp": "2025-10-06T16:10:23.340643Z",
+          "direction": "330"
+        },
+        {
+          "id": "CAM_35158329_88579841_11972",
+          "latitude": 35.158329,
+          "longitude": -88.5798416,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340646Z",
+          "direction": "62"
+        },
+        {
+          "id": "CAM_35158329_88579841_11972",
+          "latitude": 35.158329,
+          "longitude": -88.5798416,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340646Z",
+          "direction": "242"
+        },
+        {
+          "id": "CAM_35157920_88580360_11975",
+          "latitude": 35.1579208,
+          "longitude": -88.5803604,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.340656Z"
+        },
+        {
+          "id": "CAM_35157718_88579528_11976",
+          "latitude": 35.1577186,
+          "longitude": -88.5795288,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.340658Z"
+        },
+        {
+          "id": "CAM_35140949_88572036_11987",
+          "latitude": 35.1409492,
+          "longitude": -88.5720367,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340698Z",
+          "direction": "162"
+        },
+        {
+          "id": "CAM_35140949_88572036_11987",
+          "latitude": 35.1409492,
+          "longitude": -88.5720367,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340698Z",
+          "direction": "342"
+        },
+        {
+          "id": "CAM_35140991_88571952_11986",
+          "latitude": 35.1409912,
+          "longitude": -88.5719528,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.340694Z",
+          "direction": "279"
+        },
+        {
+          "id": "CAM_35271221_86146049_11926",
+          "latitude": 35.2712211,
+          "longitude": -86.1460495,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 24 mph | Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.340495Z",
+          "direction": "115"
+        },
+        {
+          "id": "CAM_35270980_86144943_11927",
+          "latitude": 35.2709808,
+          "longitude": -86.1449432,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 24 mph",
+          "timestamp": "2025-10-06T16:10:23.340498Z"
+        },
+        {
+          "id": "CAM_35270778_86143836_11928",
+          "latitude": 35.2707786,
+          "longitude": -86.1438369,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 24 mph | Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.340502Z",
+          "direction": "268"
+        },
+        {
+          "id": "CAM_35270778_86143218_11929",
+          "latitude": 35.2707786,
+          "longitude": -86.1432189,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 400 mph",
+          "timestamp": "2025-10-06T16:10:23.340505Z"
+        },
+        {
+          "id": "CAM_35264831_85174827_11930",
+          "latitude": 35.2648315,
+          "longitude": -85.1748275,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 32 mph | Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.340508Z",
+          "direction": "230"
+        },
+        {
+          "id": "CAM_35264289_85175598_11931",
+          "latitude": 35.2642898,
+          "longitude": -85.1755981,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 32 mph | Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.340511Z",
+          "direction": "26"
+        },
+        {
+          "id": "CAM_35221008_85222640_11943",
+          "latitude": 35.2210083,
+          "longitude": -85.2226409,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 24 mph | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340551Z",
+          "direction": "49"
+        },
+        {
+          "id": "CAM_35221008_85222640_11943",
+          "latitude": 35.2210083,
+          "longitude": -85.2226409,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 24 mph | Monitors: NE, SW",
+          "timestamp": "2025-10-06T16:10:23.340551Z",
+          "direction": "229"
+        },
+        {
+          "id": "CAM_35237728_85176437_11935",
+          "latitude": 35.2377281,
+          "longitude": -85.1764373,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340524Z",
+          "direction": "17"
+        },
+        {
+          "id": "CAM_35237728_85176437_11935",
+          "latitude": 35.2377281,
+          "longitude": -85.1764373,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.340524Z",
+          "direction": "197"
+        },
+        {
+          "id": "CAM_35232780_85175331_11936",
+          "latitude": 35.2327804,
+          "longitude": -85.1753311,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 400 mph",
+          "timestamp": "2025-10-06T16:10:23.340527Z"
+        },
+        {
+          "id": "CAM_35232688_85175079_11937",
+          "latitude": 35.2326889,
+          "longitude": -85.1750793,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 400 mph",
+          "timestamp": "2025-10-06T16:10:23.340530Z"
+        },
+        {
+          "id": "CAM_35231788_85169006_11940",
+          "latitude": 35.2317886,
+          "longitude": -85.1690063,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.340541Z",
+          "direction": "88"
+        },
+        {
+          "id": "CAM_35231998_85168197_11939",
+          "latitude": 35.2319984,
+          "longitude": -85.1681976,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph",
+          "timestamp": "2025-10-06T16:10:23.340536Z"
+        },
+        {
+          "id": "CAM_35232208_85167282_11938",
+          "latitude": 35.2322082,
+          "longitude": -85.1672821,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.340533Z",
+          "direction": "256"
+        },
+        {
+          "id": "CAM_35119571_85315818_12004",
+          "latitude": 35.1195716,
+          "longitude": -85.3158187,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 56 mph | Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.340756Z",
+          "direction": "208"
+        },
+        {
+          "id": "CAM_35141639_85248596_11985",
+          "latitude": 35.1416397,
+          "longitude": -85.2485961,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N",
+          "timestamp": "2025-10-06T16:10:23.340691Z",
+          "direction": "349"
+        },
+        {
+          "id": "CAM_35100128_85277801_12013",
+          "latitude": 35.1001281,
+          "longitude": -85.2778015,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.340849Z",
+          "direction": "230"
+        },
+        {
+          "id": "CAM_35097511_85280853_12014",
+          "latitude": 35.0975112,
+          "longitude": -85.2808532,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: S",
+          "timestamp": "2025-10-06T16:10:23.340852Z",
+          "direction": "194"
+        },
+        {
+          "id": "CAM_35096290_85282493_12015",
+          "latitude": 35.0962905,
+          "longitude": -85.2824935,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: N",
+          "timestamp": "2025-10-06T16:10:23.340855Z",
+          "direction": "20"
+        },
+        {
+          "id": "CAM_35122989_85239341_12003",
+          "latitude": 35.1229896,
+          "longitude": -85.2393417,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.340753Z",
+          "direction": "325"
+        },
+        {
+          "id": "CAM_35090679_85286636_12020",
+          "latitude": 35.0906791,
+          "longitude": -85.2866363,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 64 mph | Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.340872Z",
+          "direction": "25"
+        },
+        {
+          "id": "CAM_35064468_85296440_12041",
+          "latitude": 35.0644683,
+          "longitude": -85.2964401,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 400 mph",
+          "timestamp": "2025-10-06T16:10:23.340941Z"
+        },
+        {
+          "id": "CAM_35039920_85292503_12084",
+          "latitude": 35.0399208,
+          "longitude": -85.2925033,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.341076Z"
+        },
+        {
+          "id": "CAM_35040058_85291969_12083",
+          "latitude": 35.0400581,
+          "longitude": -85.2919693,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.341074Z"
+        },
+        {
+          "id": "CAM_35039581_85292190_12085",
+          "latitude": 35.0395812,
+          "longitude": -85.2921905,
+          "type": "RED_LIGHT_CAMERA",
+          "timestamp": "2025-10-06T16:10:23.341078Z"
+        },
+        {
+          "id": "CAM_35038829_85282890_12087",
+          "latitude": 35.0388298,
+          "longitude": -85.2828903,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.341084Z",
+          "direction": "24"
+        },
+        {
+          "id": "CAM_35017780_85279708_12114",
+          "latitude": 35.0177803,
+          "longitude": -85.2797088,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.341171Z",
+          "direction": "25"
+        },
+        {
+          "id": "CAM_35019309_85249107_12113",
+          "latitude": 35.0193099,
+          "longitude": -85.2491073,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph",
+          "timestamp": "2025-10-06T16:10:23.341168Z"
+        },
+        {
+          "id": "CAM_35013000_85228431_12117",
+          "latitude": 35.0130004,
+          "longitude": -85.2284317,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: SE",
+          "timestamp": "2025-10-06T16:10:23.341181Z",
+          "direction": "119"
+        },
+        {
+          "id": "CAM_35013099_85228240_12116",
+          "latitude": 35.0130996,
+          "longitude": -85.2282409,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.341178Z",
+          "direction": "203"
+        },
+        {
+          "id": "CAM_35045650_85137260_12082",
+          "latitude": 35.0456504,
+          "longitude": -85.1372604,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph | Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.341071Z",
+          "direction": "295"
+        },
+        {
+          "id": "CAM_34922340_85107971_12119",
+          "latitude": 34.9223403,
+          "longitude": -85.1079711,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: SW",
+          "timestamp": "2025-10-06T16:10:23.341188Z",
+          "direction": "218"
+        },
+        {
+          "id": "CAM_34921100_85107940_12120",
+          "latitude": 34.9211006,
+          "longitude": -85.1079406,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph",
+          "timestamp": "2025-10-06T16:10:23.341191Z"
+        },
+        {
+          "id": "CAM_34919990_85108070_12121",
+          "latitude": 34.9199905,
+          "longitude": -85.1080703,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 40 mph | Monitors: N",
+          "timestamp": "2025-10-06T16:10:23.341194Z",
+          "direction": "13"
+        },
+        {
+          "id": "CAM_34782928_84992507_12122",
+          "latitude": 34.7829284,
+          "longitude": -84.9925079,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph | Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.341197Z",
+          "direction": "105"
+        },
+        {
+          "id": "CAM_34777561_84981552_12123",
+          "latitude": 34.7775611,
+          "longitude": -84.9815521,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph | Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.341201Z",
+          "direction": "301"
+        },
+        {
+          "id": "CAM_34774871_84953048_12125",
+          "latitude": 34.7748718,
+          "longitude": -84.9530487,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph | Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.341208Z",
+          "direction": "85"
+        },
+        {
+          "id": "CAM_34774909_84947036_12124",
+          "latitude": 34.7749099,
+          "longitude": -84.9470367,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 48 mph | Monitors: W",
+          "timestamp": "2025-10-06T16:10:23.341204Z",
+          "direction": "271"
+        }
+      ]
+    }
+  ]
+}
