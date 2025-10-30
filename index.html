@@ -815,9 +815,10 @@
             const lon = camera.longitude || camera.location?.longitude;
             const type = camera.type || camera.alertType || 'Unknown';
             
-            // Extract speed from description (e.g., "Limit: 50 kmh")
-            const speedMatch = camera.description?.match(/Limit:\s*(\d+)/);
+            // Extract speed from description (e.g., "Limit: 50 kmh" or "Limit: 35 mph")
+            const speedMatch = camera.description?.match(/Limit:\s*(\d+)\s*(kmh|km\/h|kph|mph)?/i);
             const speed = speedMatch ? speedMatch[1] : '';
+            const speedUnit = speedMatch && speedMatch[2] ? speedMatch[2].toLowerCase() : '';
             
             const direction = camera.direction || '';
             const street = camera.street || camera.road || '';
@@ -839,7 +840,13 @@
                     </div>
                     ${speed ? `<div class="camera-info-row">
                         <span class="camera-info-label">Speed Limit</span>
-                        <span class="camera-info-value">${speed} km/h</span>
+                        <span class="camera-info-value">${
+                            speedUnit.includes('km') || speedUnit.includes('kph') 
+                                ? `${speed} km/h (${Math.round(speed * 0.621371)} mph)`
+                                : speedUnit === 'mph'
+                                    ? `${speed} mph (${Math.round(speed * 1.60934)} km/h)`
+                                    : speed
+                        }</span>
                     </div>` : ''}
                     ${direction ? `<div class="camera-info-row">
                         <span class="camera-info-label">Direction</span>
@@ -869,15 +876,29 @@
                         </select>
                     </div>
 
-                    <div class="form-group-inline">
-                        <div class="form-group">
-                            <label><i class="fas fa-tachometer-alt"></i> Speed Limit (km/h)</label>
-                            <input type="number" id="speedLimit" value="${speed}" placeholder="60">
+                    <div class="form-group">
+                        <label><i class="fas fa-tachometer-alt"></i> Speed Limit</label>
+                        <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.5rem;">
+                            <input type="number" id="speedLimit" value="${speed}" placeholder="60" oninput="updateSpeedConversionDynamic()">
+                            <select id="speedUnit" onchange="updateSpeedConversionDynamic()">
+                                <option value="mph" ${speedUnit === 'mph' || !speedUnit ? 'selected' : ''}>mph</option>
+                                <option value="kmh" ${speedUnit.includes('km') || speedUnit.includes('kph') ? 'selected' : ''}>km/h</option>
+                            </select>
                         </div>
-                        <div class="form-group">
-                            <label><i class="fas fa-compass"></i> Direction (0-360°)</label>
-                            <input type="number" id="direction" value="${direction}" placeholder="180" min="0" max="360">
-                        </div>
+                        <small style="color: var(--text-light); margin-top: 0.25rem; display: block;">
+                            <span id="speedLimitConversion">${
+                                speed && speedUnit === 'mph' 
+                                    ? Math.round(speed * 1.60934) + ' km/h'
+                                    : speed && (speedUnit.includes('km') || speedUnit.includes('kph'))
+                                        ? Math.round(speed * 0.621371) + ' mph'
+                                        : ''
+                            }</span>
+                        </small>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label><i class="fas fa-compass"></i> Direction (0-360°)</label>
+                        <input type="number" id="direction" value="${direction}" placeholder="180" min="0" max="360">
                     </div>
 
                     <div class="form-group">
@@ -987,15 +1008,23 @@
                         </select>
                     </div>
 
-                    <div class="form-group-inline">
-                        <div class="form-group">
-                            <label><i class="fas fa-tachometer-alt"></i> Speed Limit (km/h) *</label>
-                            <input type="number" id="newSpeedLimit" placeholder="60" required>
+                    <div class="form-group">
+                        <label><i class="fas fa-tachometer-alt"></i> Speed Limit *</label>
+                        <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.5rem;">
+                            <input type="number" id="newSpeedLimit" placeholder="60" required oninput="updateNewSpeedConversion()">
+                            <select id="newSpeedUnit" onchange="updateNewSpeedConversion()">
+                                <option value="mph" selected>mph</option>
+                                <option value="kmh">km/h</option>
+                            </select>
                         </div>
-                        <div class="form-group">
-                            <label><i class="fas fa-compass"></i> Direction (0-360°)</label>
-                            <input type="number" id="newDirection" placeholder="180" min="0" max="360">
-                        </div>
+                        <small style="color: var(--text-light); margin-top: 0.25rem; display: block;">
+                            <span id="newSpeedLimitConversion"></span>
+                        </small>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label><i class="fas fa-compass"></i> Direction (0-360°)</label>
+                        <input type="number" id="newDirection" placeholder="180" min="0" max="360">
                     </div>
 
                     <div class="form-group">
@@ -1084,6 +1113,7 @@
         function submitNewCamera() {
             const type = document.getElementById('newCameraType').value;
             const speed = document.getElementById('newSpeedLimit').value;
+            const speedUnit = document.getElementById('newSpeedUnit').value;
             const direction = document.getElementById('newDirection').value || '';
             const street = document.getElementById('newStreet').value;
             const city = document.getElementById('newCity').value;
@@ -1105,6 +1135,7 @@
             createGitHubIssue(title, ['new-camera', 'community-submission'], {
                 camera_type: type,
                 speed_limit: speed,
+                speed_unit: speedUnit,
                 direction: direction,
                 street: street,
                 city: city,
@@ -1129,6 +1160,7 @@
         function submitEdit() {
             const type = document.getElementById('cameraType').value;
             const speed = document.getElementById('speedLimit').value;
+            const speedUnit = document.getElementById('speedUnit').value;
             const direction = document.getElementById('direction').value;
             const street = document.getElementById('street').value;
             const city = document.getElementById('cityInput').value;
@@ -1178,6 +1210,7 @@ ${changesSummary}
 {
   "type": "${type}",
   "speed_limit": ${speed},
+  "speed_unit": "${speedUnit}",
   "direction": ${direction},
   "street": "${street}",
   "city": "${city}",
@@ -1274,8 +1307,8 @@ ${JSON.stringify(selectedCamera, null, 2)}
 
         // GitHub Configuration
         const GITHUB_CONFIG = {
-            owner: 'christophercosto-dev',           // Your GitHub username
-            repo: 'dukes-cameras'     // Your repository name
+            owner: 'DukesR8',           // Your GitHub username
+            repo: 'Camera-Database'     // Your repository name
         };
 
         // Open GitHub issue form (NO LOGIN REQUIRED!)
@@ -1316,8 +1349,8 @@ ${JSON.stringify(selectedCamera, null, 2)}
                 issueBody = encodeURIComponent(`### Camera Type
 ${formData.camera_type}
 
-### Speed Limit (km/h)
-${formData.speed_limit}
+### Speed Limit
+${formData.speed_limit} ${formData.speed_unit || 'mph'}
 
 ### Direction (0-360°)
 ${formData.direction || 'Not specified'}
@@ -1408,6 +1441,54 @@ ${formData.correction || formData.details || 'See description'}
             }
             if (mapClickHandler) {
                 map.off('click', mapClickHandler);
+            }
+        }
+
+        // Update speed conversion for edit form
+        function updateSpeedConversionDynamic() {
+            const speedInput = document.getElementById('speedLimit');
+            const unitSelect = document.getElementById('speedUnit');
+            const conversionDisplay = document.getElementById('speedLimitConversion');
+            
+            if (!speedInput || !unitSelect || !conversionDisplay) return;
+            
+            const speed = parseFloat(speedInput.value);
+            const unit = unitSelect.value;
+            
+            if (speed && !isNaN(speed)) {
+                if (unit === 'mph') {
+                    const kmh = Math.round(speed * 1.60934);
+                    conversionDisplay.textContent = `≈ ${kmh} km/h`;
+                } else { // kmh
+                    const mph = Math.round(speed * 0.621371);
+                    conversionDisplay.textContent = `≈ ${mph} mph`;
+                }
+            } else {
+                conversionDisplay.textContent = '';
+            }
+        }
+        
+        // Update speed conversion for new camera form
+        function updateNewSpeedConversion() {
+            const speedInput = document.getElementById('newSpeedLimit');
+            const unitSelect = document.getElementById('newSpeedUnit');
+            const conversionDisplay = document.getElementById('newSpeedLimitConversion');
+            
+            if (!speedInput || !unitSelect || !conversionDisplay) return;
+            
+            const speed = parseFloat(speedInput.value);
+            const unit = unitSelect.value;
+            
+            if (speed && !isNaN(speed)) {
+                if (unit === 'mph') {
+                    const kmh = Math.round(speed * 1.60934);
+                    conversionDisplay.textContent = `≈ ${kmh} km/h`;
+                } else { // kmh
+                    const mph = Math.round(speed * 0.621371);
+                    conversionDisplay.textContent = `≈ ${mph} mph`;
+                }
+            } else {
+                conversionDisplay.textContent = '';
             }
         }
 
