@@ -4,7 +4,7 @@
   "description": "Camera database for Washington (656 locations): Speed cameras and red light cameras.",
   "author": "Ultra",
   "version": "2.0",
-  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "createdAt": "2025-10-30T00:24:43.295377Z",
   "feeds": [
     {
       "id": "cameras-washington",
@@ -40,7 +40,7 @@
           "latitude": 49.8863792,
           "longitude": -119.4252929,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: SW",
+          "description": "Limit: 35 mph | Monitors: SW",
           "timestamp": "2025-10-06T16:10:23.301816Z",
           "direction": "224"
         },
@@ -49,7 +49,7 @@
           "latitude": 49.8819313,
           "longitude": -119.4430465,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.301841Z",
           "direction": "269"
         },
@@ -103,7 +103,7 @@
           "latitude": 47.7104911,
           "longitude": -117.4364318,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302727Z",
           "direction": "180"
         },
@@ -112,7 +112,7 @@
           "latitude": 47.7082595,
           "longitude": -117.4350509,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302730Z",
           "direction": "359"
         },
@@ -121,7 +121,7 @@
           "latitude": 47.6942482,
           "longitude": -117.3951721,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302746Z",
           "direction": "180"
         },
@@ -130,7 +130,7 @@
           "latitude": 47.6992912,
           "longitude": -117.425888,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302737Z",
           "direction": "180"
         },
@@ -148,7 +148,7 @@
           "latitude": 47.6874885,
           "longitude": -117.4541473,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 25 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302754Z",
           "direction": "125"
         },
@@ -238,7 +238,7 @@
           "latitude": 47.6415596,
           "longitude": -117.4167633,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302846Z",
           "direction": "359"
         },
@@ -247,7 +247,7 @@
           "latitude": 47.6234703,
           "longitude": -117.3631897,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302877Z",
           "direction": "180"
         },
@@ -256,7 +256,7 @@
           "latitude": 47.6215591,
           "longitude": -117.368637,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.302879Z"
         },
         {
@@ -264,7 +264,7 @@
           "latitude": 47.6188812,
           "longitude": -117.3685226,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302894Z",
           "direction": "359"
         },
@@ -273,7 +273,7 @@
           "latitude": 47.6180801,
           "longitude": -117.3685302,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.302909Z"
         },
         {
@@ -308,7 +308,7 @@
           "latitude": 49.0349807,
           "longitude": -122.2670974,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N, S",
+          "description": "Limit: 50 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302383Z",
           "direction": "163"
         },
@@ -317,7 +317,7 @@
           "latitude": 49.0349807,
           "longitude": -122.2670974,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N, S",
+          "description": "Limit: 50 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302383Z",
           "direction": "343"
         },
@@ -344,7 +344,7 @@
           "latitude": 49.2182884,
           "longitude": -122.6476974,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: W",
+          "description": "Limit: 60 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302162Z",
           "direction": "278"
         },
@@ -380,7 +380,7 @@
           "latitude": 49.2428817,
           "longitude": -122.7193908,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 80 kmh | Monitors: NW",
+          "description": "Limit: 50 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302060Z",
           "direction": "302"
         },
@@ -398,7 +398,7 @@
           "latitude": 49.2674484,
           "longitude": -122.7761612,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: NW",
+          "description": "Limit: 60 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302018Z",
           "direction": "302"
         },
@@ -425,7 +425,7 @@
           "latitude": 49.2773208,
           "longitude": -122.8019027,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: E",
+          "description": "Limit: 35 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.301991Z",
           "direction": "99"
         },
@@ -488,7 +488,7 @@
           "latitude": 49.1191482,
           "longitude": -122.6686477,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: S",
+          "description": "Limit: 60 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302338Z",
           "direction": "180"
         },
@@ -497,7 +497,7 @@
           "latitude": 49.1189918,
           "longitude": -122.6685333,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: N, S",
+          "description": "Limit: 60 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302348Z",
           "direction": "1"
         },
@@ -506,7 +506,7 @@
           "latitude": 49.1189918,
           "longitude": -122.6685333,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: N, S",
+          "description": "Limit: 60 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302348Z",
           "direction": "181"
         },
@@ -515,7 +515,7 @@
           "latitude": 49.1117897,
           "longitude": -122.6755218,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 70 kmh | Monitors: NE",
+          "description": "Limit: 45 mph | Monitors: NE",
           "timestamp": "2025-10-06T16:10:23.302354Z",
           "direction": "53"
         },
@@ -551,7 +551,7 @@
           "latitude": 49.1769981,
           "longitude": -122.8011016,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302250Z",
           "direction": "180"
         },
@@ -560,7 +560,7 @@
           "latitude": 49.1768417,
           "longitude": -122.801033,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 96 mph",
+          "description": "Limit: 60 mph",
           "timestamp": "2025-10-06T16:10:23.302256Z"
         },
         {
@@ -631,7 +631,7 @@
           "latitude": 49.1914901,
           "longitude": -122.8452682,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: N",
+          "description": "Limit: 60 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302208Z",
           "direction": "359"
         },
@@ -692,7 +692,7 @@
           "latitude": 49.1771507,
           "longitude": -122.8566513,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: W",
+          "description": "Limit: 30 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302238Z",
           "direction": "269"
         },
@@ -746,7 +746,7 @@
           "latitude": 49.1190681,
           "longitude": -122.8007965,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: W",
+          "description": "Limit: 60 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302344Z",
           "direction": "269"
         },
@@ -782,7 +782,7 @@
           "latitude": 49.1481285,
           "longitude": -122.8456878,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 96 mph",
+          "description": "Limit: 60 mph",
           "timestamp": "2025-10-06T16:10:23.302313Z"
         },
         {
@@ -790,7 +790,7 @@
           "latitude": 49.1480598,
           "longitude": -122.8456421,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: N",
+          "description": "Limit: 35 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302316Z",
           "direction": "359"
         },
@@ -799,7 +799,7 @@
           "latitude": 49.1624412,
           "longitude": -122.8679733,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 50 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302296Z",
           "direction": "359"
         },
@@ -880,7 +880,7 @@
           "latitude": 49.2810897,
           "longitude": -123.0443115,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: E",
+          "description": "Limit: 30 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.301976Z",
           "direction": "90"
         },
@@ -898,7 +898,7 @@
           "latitude": 49.2428283,
           "longitude": -123.0033187,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302063Z",
           "direction": "359"
         },
@@ -952,7 +952,7 @@
           "latitude": 49.2249908,
           "longitude": -122.9887466,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: NW",
+          "description": "Limit: 30 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302133Z",
           "direction": "296"
         },
@@ -961,7 +961,7 @@
           "latitude": 49.2580986,
           "longitude": -123.0340194,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: E",
+          "description": "Limit: 30 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302037Z",
           "direction": "90"
         },
@@ -970,7 +970,7 @@
           "latitude": 49.3240814,
           "longitude": -123.1220626,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: W",
+          "description": "Limit: 30 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.301947Z",
           "direction": "271"
         },
@@ -1033,7 +1033,7 @@
           "latitude": 49.1582489,
           "longitude": -122.9266128,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: SW",
+          "description": "Limit: 35 mph | Monitors: SW",
           "timestamp": "2025-10-06T16:10:23.302302Z",
           "direction": "230"
         },
@@ -1051,7 +1051,7 @@
           "latitude": 49.2323799,
           "longitude": -123.0232162,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: W",
+          "description": "Limit: 30 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302103Z",
           "direction": "264"
         },
@@ -1069,7 +1069,7 @@
           "latitude": 49.23423,
           "longitude": -123.0360489,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 30 kmh | Monitors: SE",
+          "description": "Limit: 20 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302088Z",
           "direction": "122"
         },
@@ -1078,7 +1078,7 @@
           "latitude": 49.2220916,
           "longitude": -123.0236435,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302145Z",
           "direction": "182"
         },
@@ -1087,7 +1087,7 @@
           "latitude": 49.0514297,
           "longitude": -122.8011779,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 50 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302376Z",
           "direction": "359"
         },
@@ -1096,7 +1096,7 @@
           "latitude": 49.2812881,
           "longitude": -123.0999069,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 30 kmh | Monitors: E",
+          "description": "Limit: 20 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.301967Z",
           "direction": "92"
         },
@@ -1114,7 +1114,7 @@
           "latitude": 49.24514,
           "longitude": -123.0649719,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: NW",
+          "description": "Limit: 30 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302057Z",
           "direction": "305"
         },
@@ -1141,7 +1141,7 @@
           "latitude": 49.2905998,
           "longitude": -123.1307525,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: SE",
+          "description": "Limit: 30 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.301957Z",
           "direction": "135"
         },
@@ -1186,7 +1186,7 @@
           "latitude": 49.2401008,
           "longitude": -123.0762329,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302073Z",
           "direction": "9"
         },
@@ -1204,7 +1204,7 @@
           "latitude": 49.2084617,
           "longitude": -123.040718,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: NW",
+          "description": "Limit: 35 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302189Z",
           "direction": "299"
         },
@@ -1213,7 +1213,7 @@
           "latitude": 49.2082901,
           "longitude": -123.0421066,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 60 kmh | Monitors: W",
+          "description": "Limit: 50 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302193Z",
           "direction": "274"
         },
@@ -1303,7 +1303,7 @@
           "latitude": 49.2496299,
           "longitude": -123.1391372,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302052Z",
           "direction": "182"
         },
@@ -1400,7 +1400,7 @@
           "latitude": 49.2190895,
           "longitude": -123.1284866,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302158Z",
           "direction": "14"
         },
@@ -1445,7 +1445,7 @@
           "latitude": 47.1146507,
           "longitude": -119.2618789,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 50 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.303826Z",
           "direction": "140"
         },
@@ -1454,7 +1454,7 @@
           "latitude": 47.1146507,
           "longitude": -119.2618789,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 50 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.303826Z",
           "direction": "320"
         },
@@ -1463,7 +1463,7 @@
           "latitude": 49.2085685,
           "longitude": -123.13031,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302186Z",
           "direction": "181"
         },
@@ -1499,7 +1499,7 @@
           "latitude": 49.1845397,
           "longitude": -123.1244125,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 50 kmh | Monitors: N",
+          "description": "Limit: 30 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302223Z",
           "direction": "359"
         },
@@ -1562,7 +1562,7 @@
           "latitude": 48.5111694,
           "longitude": -122.3415603,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 112 mph",
+          "description": "Limit: 113 mph",
           "timestamp": "2025-10-06T16:10:23.302388Z"
         },
         {
@@ -1633,7 +1633,7 @@
           "latitude": 49.2346382,
           "longitude": -124.0445785,
           "type": "SPEED_CAMERA",
-          "description": "Limit: 80 kmh | Monitors: SE",
+          "description": "Limit: 70 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302082Z",
           "direction": "151"
         },
@@ -1660,7 +1660,7 @@
           "latitude": 47.9218902,
           "longitude": -122.2335891,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302445Z",
           "direction": "269"
         },
@@ -1669,7 +1669,7 @@
           "latitude": 47.9218902,
           "longitude": -122.2355575,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302448Z"
         },
         {
@@ -1677,7 +1677,7 @@
           "latitude": 47.9218597,
           "longitude": -122.2371902,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302454Z"
         },
         {
@@ -1685,7 +1685,7 @@
           "latitude": 47.9218711,
           "longitude": -122.2398376,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 35 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302451Z",
           "direction": "89"
         },
@@ -1739,7 +1739,7 @@
           "latitude": 47.9290885,
           "longitude": -122.3014526,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302432Z"
         },
         {
@@ -1747,7 +1747,7 @@
           "latitude": 47.9285087,
           "longitude": -122.3004989,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 35 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302438Z",
           "direction": "354"
         },
@@ -1756,7 +1756,7 @@
           "latitude": 47.9297103,
           "longitude": -122.3025894,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 35 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302429Z",
           "direction": "129"
         },
@@ -1774,7 +1774,7 @@
           "latitude": 47.9147987,
           "longitude": -122.2970504,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: NW",
+          "description": "Limit: 55 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302460Z",
           "direction": "320"
         },
@@ -1801,7 +1801,7 @@
           "latitude": 47.8033103,
           "longitude": -122.2208633,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 45 mph",
           "timestamp": "2025-10-06T16:10:23.302529Z"
         },
         {
@@ -1809,7 +1809,7 @@
           "latitude": 47.8013687,
           "longitude": -122.2208404,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 45 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302532Z",
           "direction": "179"
         },
@@ -1818,7 +1818,7 @@
           "latitude": 47.8013687,
           "longitude": -122.2208404,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 45 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302532Z",
           "direction": "359"
         },
@@ -1827,7 +1827,7 @@
           "latitude": 47.7993087,
           "longitude": -122.2207794,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 45 mph",
           "timestamp": "2025-10-06T16:10:23.302544Z"
         },
         {
@@ -1835,7 +1835,7 @@
           "latitude": 47.7852516,
           "longitude": -122.2022476,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.302574Z"
         },
         {
@@ -1843,7 +1843,7 @@
           "latitude": 47.7830505,
           "longitude": -122.2021103,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302577Z",
           "direction": "177"
         },
@@ -1852,7 +1852,7 @@
           "latitude": 47.7830505,
           "longitude": -122.2021103,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302577Z",
           "direction": "357"
         },
@@ -1870,7 +1870,7 @@
           "latitude": 47.84663,
           "longitude": -122.3126678,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 30 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302478Z",
           "direction": "90"
         },
@@ -1879,7 +1879,7 @@
           "latitude": 47.84663,
           "longitude": -122.3126678,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 30 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302478Z",
           "direction": "270"
         },
@@ -1888,7 +1888,7 @@
           "latitude": 47.7814407,
           "longitude": -122.2020034,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.302580Z"
         },
         {
@@ -1914,7 +1914,7 @@
           "latitude": 47.8302612,
           "longitude": -122.2924575,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302488Z",
           "direction": "359"
         },
@@ -1923,7 +1923,7 @@
           "latitude": 47.8302612,
           "longitude": -122.2924575,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302488Z",
           "direction": "179"
         },
@@ -1932,7 +1932,7 @@
           "latitude": 47.7949714,
           "longitude": -122.2341079,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.302557Z"
         },
         {
@@ -1940,7 +1940,7 @@
           "latitude": 47.7970581,
           "longitude": -122.238388,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.302547Z"
         },
         {
@@ -1957,7 +1957,7 @@
           "latitude": 47.795021,
           "longitude": -122.2384185,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 30 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302550Z",
           "direction": "91"
         },
@@ -1966,7 +1966,7 @@
           "latitude": 47.795021,
           "longitude": -122.2384185,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 30 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302550Z",
           "direction": "271"
         },
@@ -1975,7 +1975,7 @@
           "latitude": 47.795021,
           "longitude": -122.2384185,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302554Z",
           "direction": "179"
         },
@@ -1984,7 +1984,7 @@
           "latitude": 47.795021,
           "longitude": -122.2384185,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302554Z",
           "direction": "359"
         },
@@ -1993,7 +1993,7 @@
           "latitude": 47.7941398,
           "longitude": -122.2384414,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.302559Z"
         },
         {
@@ -2037,7 +2037,7 @@
           "latitude": 47.7712516,
           "longitude": -122.2231674,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302583Z"
         },
         {
@@ -2045,7 +2045,7 @@
           "latitude": 47.7434806,
           "longitude": -122.1763992,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302670Z",
           "direction": "269"
         },
@@ -2054,7 +2054,7 @@
           "latitude": 47.7701606,
           "longitude": -122.2232132,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302586Z",
           "direction": "179"
         },
@@ -2063,7 +2063,7 @@
           "latitude": 47.7701606,
           "longitude": -122.2232132,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302586Z",
           "direction": "359"
         },
@@ -2079,7 +2079,7 @@
           "latitude": 47.7684211,
           "longitude": -122.2231674,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302592Z"
         },
         {
@@ -2087,7 +2087,7 @@
           "latitude": 47.7437515,
           "longitude": -122.1804885,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 35 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302667Z",
           "direction": "91"
         },
@@ -2121,7 +2121,7 @@
           "latitude": 47.7293815,
           "longitude": -122.1639633,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302702Z",
           "direction": "181"
         },
@@ -2139,7 +2139,7 @@
           "latitude": 47.7250213,
           "longitude": -122.1640701,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 40 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302711Z",
           "direction": "1"
         },
@@ -2148,7 +2148,7 @@
           "latitude": 47.76865,
           "longitude": -122.2418518,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302589Z",
           "direction": "166"
         },
@@ -2157,7 +2157,7 @@
           "latitude": 47.7681694,
           "longitude": -122.2424392,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.302595Z"
         },
         {
@@ -2165,7 +2165,7 @@
           "latitude": 47.7674598,
           "longitude": -122.2427597,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302597Z"
         },
         {
@@ -2173,7 +2173,7 @@
           "latitude": 47.7663688,
           "longitude": -122.2427063,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 35 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302601Z",
           "direction": "353"
         },
@@ -2182,7 +2182,7 @@
           "latitude": 47.8058891,
           "longitude": -122.3357391,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302522Z",
           "direction": "179"
         },
@@ -2191,7 +2191,7 @@
           "latitude": 47.7425308,
           "longitude": -122.2263336,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302673Z"
         },
         {
@@ -2208,7 +2208,7 @@
           "latitude": 47.8069305,
           "longitude": -122.3393402,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 30 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302519Z",
           "direction": "90"
         },
@@ -2217,7 +2217,7 @@
           "latitude": 47.7403488,
           "longitude": -122.2243576,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 35 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.302677Z",
           "direction": "147"
         },
@@ -2226,7 +2226,7 @@
           "latitude": 47.7403488,
           "longitude": -122.2243576,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 35 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.302677Z",
           "direction": "327"
         },
@@ -2235,7 +2235,7 @@
           "latitude": 47.7387809,
           "longitude": -122.2229232,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302689Z"
         },
         {
@@ -2279,7 +2279,7 @@
           "latitude": 47.8049011,
           "longitude": -122.3465576,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302526Z",
           "direction": "179"
         },
@@ -2288,7 +2288,7 @@
           "latitude": 47.7647209,
           "longitude": -122.285408,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302609Z",
           "direction": "193"
         },
@@ -2297,7 +2297,7 @@
           "latitude": 47.7619018,
           "longitude": -122.2849807,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 35 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302616Z",
           "direction": "336"
         },
@@ -2306,7 +2306,7 @@
           "latitude": 47.7651901,
           "longitude": -122.2919235,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302606Z"
         },
         {
@@ -2314,7 +2314,7 @@
           "latitude": 47.7643089,
           "longitude": -122.2919235,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302612Z",
           "direction": "359"
         },
@@ -2323,7 +2323,7 @@
           "latitude": 47.7643089,
           "longitude": -122.2919235,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302612Z",
           "direction": "179"
         },
@@ -2332,7 +2332,7 @@
           "latitude": 47.7267684,
           "longitude": -122.229248,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302705Z",
           "direction": "181"
         },
@@ -2341,7 +2341,7 @@
           "latitude": 47.7389793,
           "longitude": -122.2506713,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302686Z",
           "direction": "192"
         },
@@ -2375,7 +2375,7 @@
           "latitude": 47.7379608,
           "longitude": -122.250267,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.302692Z"
         },
         {
@@ -2383,7 +2383,7 @@
           "latitude": 47.7373085,
           "longitude": -122.2496566,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 30 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302695Z",
           "direction": "328"
         },
@@ -2392,7 +2392,7 @@
           "latitude": 47.7995986,
           "longitude": -122.3607483,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 30 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302538Z",
           "direction": "269"
         },
@@ -2419,7 +2419,7 @@
           "latitude": 47.7563705,
           "longitude": -122.2882614,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 25 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302631Z",
           "direction": "275"
         },
@@ -2428,7 +2428,7 @@
           "latitude": 47.7562103,
           "longitude": -122.2882385,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 25 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302634Z",
           "direction": "256"
         },
@@ -2437,7 +2437,7 @@
           "latitude": 47.7577095,
           "longitude": -122.2934723,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 25 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302622Z",
           "direction": "97"
         },
@@ -2446,7 +2446,7 @@
           "latitude": 47.7571296,
           "longitude": -122.2936706,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 25 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302625Z",
           "direction": "132"
         },
@@ -2455,7 +2455,7 @@
           "latitude": 47.7540283,
           "longitude": -122.2885589,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.302637Z",
           "direction": "337"
         },
@@ -2464,7 +2464,7 @@
           "latitude": 47.7564392,
           "longitude": -122.2931137,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.302628Z"
         },
         {
@@ -2499,7 +2499,7 @@
           "latitude": 47.7143211,
           "longitude": -122.2295074,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 15 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302724Z",
           "direction": "1"
         },
@@ -2508,7 +2508,7 @@
           "latitude": 47.6753387,
           "longitude": -122.1650085,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302786Z",
           "direction": "269"
         },
@@ -2553,7 +2553,7 @@
           "latitude": 47.7884788,
           "longitude": -122.3667526,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302572Z",
           "direction": "180"
         },
@@ -2562,7 +2562,7 @@
           "latitude": 47.6753196,
           "longitude": -122.170433,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 40 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302789Z",
           "direction": "90"
         },
@@ -2585,7 +2585,7 @@
           "latitude": 47.6695213,
           "longitude": -122.2023162,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302795Z",
           "direction": "180"
         },
@@ -2594,7 +2594,7 @@
           "latitude": 47.66679,
           "longitude": -122.1984787,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302802Z",
           "direction": "270"
         },
@@ -2621,7 +2621,7 @@
           "latitude": 47.6171684,
           "longitude": -122.1497268,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302918Z",
           "direction": "270"
         },
@@ -2630,7 +2630,7 @@
           "latitude": 47.7167282,
           "longitude": -122.3289184,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302718Z",
           "direction": "179"
         },
@@ -2648,7 +2648,7 @@
           "latitude": 47.7256393,
           "longitude": -122.3556289,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 20 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302708Z",
           "direction": "180"
         },
@@ -2657,7 +2657,7 @@
           "latitude": 47.7234687,
           "longitude": -122.3554992,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302714Z",
           "direction": "359"
         },
@@ -2666,7 +2666,7 @@
           "latitude": 47.6026496,
           "longitude": -122.1488723,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302994Z",
           "direction": "269"
         },
@@ -2675,7 +2675,7 @@
           "latitude": 47.6830902,
           "longitude": -122.292099,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 20 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302780Z",
           "direction": "270"
         },
@@ -2684,7 +2684,7 @@
           "latitude": 47.6986885,
           "longitude": -122.3231125,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302740Z",
           "direction": "180"
         },
@@ -2693,7 +2693,7 @@
           "latitude": 47.6830596,
           "longitude": -122.2964782,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 20 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302783Z",
           "direction": "89"
         },
@@ -2702,7 +2702,7 @@
           "latitude": 47.6966781,
           "longitude": -122.3230514,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 40 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302743Z",
           "direction": "359"
         },
@@ -2720,7 +2720,7 @@
           "latitude": 47.5697288,
           "longitude": -122.1005172,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 30 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.303066Z",
           "direction": "124"
         },
@@ -2747,7 +2747,7 @@
           "latitude": 47.5248603,
           "longitude": -122.0319824,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303166Z",
           "direction": "331"
         },
@@ -2756,7 +2756,7 @@
           "latitude": 47.5248413,
           "longitude": -122.0320892,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303169Z",
           "direction": "161"
         },
@@ -2810,7 +2810,7 @@
           "latitude": 47.6868896,
           "longitude": -122.3713913,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 20 mph",
           "timestamp": "2025-10-06T16:10:23.302770Z"
         },
         {
@@ -2818,7 +2818,7 @@
           "latitude": 47.6868896,
           "longitude": -122.3727493,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302761Z",
           "direction": "90"
         },
@@ -2827,7 +2827,7 @@
           "latitude": 47.6868896,
           "longitude": -122.3727493,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.302761Z",
           "direction": "270"
         },
@@ -2836,7 +2836,7 @@
           "latitude": 47.6868896,
           "longitude": -122.3738098,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.302767Z"
         },
         {
@@ -2853,7 +2853,7 @@
           "latitude": 47.6416206,
           "longitude": -122.301033,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 40 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302843Z",
           "direction": "139"
         },
@@ -2862,7 +2862,7 @@
           "latitude": 47.6412391,
           "longitude": -122.3021164,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302849Z",
           "direction": "180"
         },
@@ -2871,7 +2871,7 @@
           "latitude": 47.6391906,
           "longitude": -122.3019104,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 40 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302852Z",
           "direction": "348"
         },
@@ -2934,7 +2934,7 @@
           "latitude": 47.6080093,
           "longitude": -122.2990036,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 20 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.302962Z",
           "direction": "269"
         },
@@ -2968,7 +2968,7 @@
           "latitude": 47.6322288,
           "longitude": -122.3435974,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 64 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302858Z",
           "direction": "181"
         },
@@ -2977,7 +2977,7 @@
           "latitude": 47.6080017,
           "longitude": -122.3027801,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.302965Z",
           "direction": "180"
         },
@@ -2986,7 +2986,7 @@
           "latitude": 47.6080017,
           "longitude": -122.3027801,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 25 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.302968Z",
           "direction": "90"
         },
@@ -3040,7 +3040,7 @@
           "latitude": 47.6034011,
           "longitude": -122.302452,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302983Z",
           "direction": "358"
         },
@@ -3139,7 +3139,7 @@
           "latitude": 47.6017189,
           "longitude": -122.3127365,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303000Z",
           "direction": "269"
         },
@@ -3148,7 +3148,7 @@
           "latitude": 47.5930213,
           "longitude": -122.2979431,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303022Z",
           "direction": "183"
         },
@@ -3166,7 +3166,7 @@
           "latitude": 47.6022682,
           "longitude": -122.3184967,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 40 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.302997Z",
           "direction": "145"
         },
@@ -3175,7 +3175,7 @@
           "latitude": 47.6000518,
           "longitude": -122.3147964,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303003Z",
           "direction": "330"
         },
@@ -3211,7 +3211,7 @@
           "latitude": 47.5998191,
           "longitude": -122.3154525,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303007Z",
           "direction": "302"
         },
@@ -3220,7 +3220,7 @@
           "latitude": 47.5897293,
           "longitude": -122.2976684,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 60 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303029Z",
           "direction": "9"
         },
@@ -3364,7 +3364,7 @@
           "latitude": 47.4977493,
           "longitude": -122.1645202,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303212Z",
           "direction": "180"
         },
@@ -3373,7 +3373,7 @@
           "latitude": 47.4958381,
           "longitude": -122.1643676,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303219Z",
           "direction": "359"
         },
@@ -3382,7 +3382,7 @@
           "latitude": 47.5055084,
           "longitude": -122.1856308,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303197Z",
           "direction": "358"
         },
@@ -3391,7 +3391,7 @@
           "latitude": 47.5055084,
           "longitude": -122.1856308,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303197Z",
           "direction": "178"
         },
@@ -3400,7 +3400,7 @@
           "latitude": 47.4841384,
           "longitude": -122.1482772,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.303231Z"
         },
         {
@@ -3408,7 +3408,7 @@
           "latitude": 47.4815788,
           "longitude": -122.1481933,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.303234Z"
         },
         {
@@ -3434,7 +3434,7 @@
           "latitude": 47.5650291,
           "longitude": -122.3135681,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 20 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303069Z",
           "direction": "181"
         },
@@ -3443,7 +3443,7 @@
           "latitude": 47.5613708,
           "longitude": -122.3099594,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303078Z",
           "direction": "297"
         },
@@ -3470,7 +3470,7 @@
           "latitude": 47.5508117,
           "longitude": -122.2956237,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303105Z",
           "direction": "267"
         },
@@ -3488,7 +3488,7 @@
           "latitude": 47.5509185,
           "longitude": -122.2985687,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 40 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303098Z",
           "direction": "92"
         },
@@ -3497,7 +3497,7 @@
           "latitude": 47.752449,
           "longitude": -122.6536789,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: N",
+          "description": "Limit: 55 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.302646Z",
           "direction": "9"
         },
@@ -3506,7 +3506,7 @@
           "latitude": 47.7308006,
           "longitude": -122.6173172,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 45 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302698Z",
           "direction": "359"
         },
@@ -3515,7 +3515,7 @@
           "latitude": 47.7308006,
           "longitude": -122.6173172,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 45 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.302698Z",
           "direction": "179"
         },
@@ -3542,7 +3542,7 @@
           "latitude": 47.7512817,
           "longitude": -122.6539688,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.302658Z"
         },
         {
@@ -3550,7 +3550,7 @@
           "latitude": 47.5279197,
           "longitude": -122.2699813,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 20 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303152Z",
           "direction": "179"
         },
@@ -3559,7 +3559,7 @@
           "latitude": 47.5248298,
           "longitude": -122.2699737,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303172Z"
         },
         {
@@ -3576,7 +3576,7 @@
           "latitude": 47.5246391,
           "longitude": -122.2699737,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303175Z"
         },
         {
@@ -3584,7 +3584,7 @@
           "latitude": 47.5233116,
           "longitude": -122.269989,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303178Z",
           "direction": "90"
         },
@@ -3593,7 +3593,7 @@
           "latitude": 47.5233116,
           "longitude": -122.269989,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303178Z",
           "direction": "270"
         },
@@ -3602,7 +3602,7 @@
           "latitude": 47.5233116,
           "longitude": -122.269989,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303181Z",
           "direction": "359"
         },
@@ -3638,7 +3638,7 @@
           "latitude": 47.4599304,
           "longitude": -122.1859283,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303263Z",
           "direction": "180"
         },
@@ -3656,7 +3656,7 @@
           "latitude": 47.4583282,
           "longitude": -122.1858978,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303273Z",
           "direction": "359"
         },
@@ -3665,7 +3665,7 @@
           "latitude": 47.49757,
           "longitude": -122.2623062,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 40 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303216Z",
           "direction": "310"
         },
@@ -3674,7 +3674,7 @@
           "latitude": 47.4997406,
           "longitude": -122.2662506,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SE",
+          "description": "Limit: 40 mph | Monitors: SE",
           "timestamp": "2025-10-06T16:10:23.303200Z",
           "direction": "130"
         },
@@ -3728,7 +3728,7 @@
           "latitude": 47.5509681,
           "longitude": -122.3630523,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303095Z",
           "direction": "180"
         },
@@ -3744,7 +3744,7 @@
           "latitude": 47.5452308,
           "longitude": -122.3611831,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 40 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303108Z",
           "direction": "359"
         },
@@ -3753,7 +3753,7 @@
           "latitude": 47.5451507,
           "longitude": -122.3617172,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 40 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303111Z",
           "direction": "342"
         },
@@ -3771,7 +3771,7 @@
           "latitude": 47.4589805,
           "longitude": -122.2122802,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SW",
+          "description": "Limit: 25 mph | Monitors: SW",
           "timestamp": "2025-10-06T16:10:23.303267Z",
           "direction": "207"
         },
@@ -3780,7 +3780,7 @@
           "latitude": 47.458889,
           "longitude": -122.2122879,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303270Z",
           "direction": "19"
         },
@@ -3861,7 +3861,7 @@
           "latitude": 47.4359703,
           "longitude": -122.1862793,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303298Z"
         },
         {
@@ -3869,7 +3869,7 @@
           "latitude": 47.5411415,
           "longitude": -122.3765411,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303117Z",
           "direction": "181"
         },
@@ -3878,7 +3878,7 @@
           "latitude": 47.4349708,
           "longitude": -122.1863327,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303301Z",
           "direction": "1"
         },
@@ -3887,7 +3887,7 @@
           "latitude": 47.4349708,
           "longitude": -122.1863327,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 30 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303301Z",
           "direction": "181"
         },
@@ -3896,7 +3896,7 @@
           "latitude": 47.4340782,
           "longitude": -122.1863632,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303304Z"
         },
         {
@@ -3904,7 +3904,7 @@
           "latitude": 47.5382499,
           "longitude": -122.3765869,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303140Z",
           "direction": "359"
         },
@@ -3913,7 +3913,7 @@
           "latitude": 47.5406799,
           "longitude": -122.3901291,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 20 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303133Z",
           "direction": "181"
         },
@@ -3922,7 +3922,7 @@
           "latitude": 47.5391082,
           "longitude": -122.3909301,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 20 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303136Z",
           "direction": "17"
         },
@@ -3931,7 +3931,7 @@
           "latitude": 47.474121,
           "longitude": -122.2767715,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303240Z",
           "direction": "91"
         },
@@ -3940,7 +3940,7 @@
           "latitude": 47.474121,
           "longitude": -122.2767715,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303240Z",
           "direction": "271"
         },
@@ -3967,7 +3967,7 @@
           "latitude": 47.5174407,
           "longitude": -122.3577118,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303188Z",
           "direction": "269"
         },
@@ -3976,7 +3976,7 @@
           "latitude": 47.5173416,
           "longitude": -122.360527,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 40 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303194Z",
           "direction": "90"
         },
@@ -3985,7 +3985,7 @@
           "latitude": 47.5174407,
           "longitude": -122.3688202,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 40 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303184Z",
           "direction": "270"
         },
@@ -3994,7 +3994,7 @@
           "latitude": 47.4050598,
           "longitude": -122.1653289,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303361Z",
           "direction": "180"
         },
@@ -4003,7 +4003,7 @@
           "latitude": 47.5174293,
           "longitude": -122.3731002,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 40 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303191Z",
           "direction": "91"
         },
@@ -4012,7 +4012,7 @@
           "latitude": 47.4231414,
           "longitude": -122.2064209,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.303314Z"
         },
         {
@@ -4020,7 +4020,7 @@
           "latitude": 47.4004707,
           "longitude": -122.1653518,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 35 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303368Z",
           "direction": "358"
         },
@@ -4029,7 +4029,7 @@
           "latitude": 47.4231414,
           "longitude": -122.2075424,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303311Z",
           "direction": "90"
         },
@@ -4038,7 +4038,7 @@
           "latitude": 47.4231414,
           "longitude": -122.2075424,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 40 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303311Z",
           "direction": "270"
         },
@@ -4047,7 +4047,7 @@
           "latitude": 47.4231109,
           "longitude": -122.2089691,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.303316Z"
         },
         {
@@ -4091,7 +4091,7 @@
           "latitude": 47.3724403,
           "longitude": -122.1538086,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303429Z"
         },
         {
@@ -4117,7 +4117,7 @@
           "latitude": 47.3724288,
           "longitude": -122.1557388,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303432Z",
           "direction": "90"
         },
@@ -4126,7 +4126,7 @@
           "latitude": 47.3724288,
           "longitude": -122.1557388,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303432Z",
           "direction": "270"
         },
@@ -4135,7 +4135,7 @@
           "latitude": 47.3723907,
           "longitude": -122.1577835,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303439Z"
         },
         {
@@ -4261,7 +4261,7 @@
           "latitude": 47.3605308,
           "longitude": -122.1761398,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303459Z"
         },
         {
@@ -4269,7 +4269,7 @@
           "latitude": 47.3597717,
           "longitude": -122.1761169,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303462Z",
           "direction": "179"
         },
@@ -4278,7 +4278,7 @@
           "latitude": 47.3597717,
           "longitude": -122.1761169,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303462Z",
           "direction": "359"
         },
@@ -4368,7 +4368,7 @@
           "latitude": 47.3428306,
           "longitude": -122.1655578,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303481Z"
         },
         {
@@ -4376,7 +4376,7 @@
           "latitude": 47.3907318,
           "longitude": -122.254898,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303393Z",
           "direction": "180"
         },
@@ -4385,7 +4385,7 @@
           "latitude": 47.3896217,
           "longitude": -122.254982,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 35 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303397Z",
           "direction": "331"
         },
@@ -4394,7 +4394,7 @@
           "latitude": 47.3410491,
           "longitude": -122.1655426,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303486Z",
           "direction": "359"
         },
@@ -4403,7 +4403,7 @@
           "latitude": 47.3410491,
           "longitude": -122.1655426,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 35 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303486Z",
           "direction": "179"
         },
@@ -4412,7 +4412,7 @@
           "latitude": 47.3389701,
           "longitude": -122.1655578,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303491Z"
         },
         {
@@ -4420,7 +4420,7 @@
           "latitude": 47.3548088,
           "longitude": -122.1969375,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303466Z"
         },
         {
@@ -4464,7 +4464,7 @@
           "latitude": 47.3535614,
           "longitude": -122.1970062,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303469Z",
           "direction": "1"
         },
@@ -4473,7 +4473,7 @@
           "latitude": 47.3535614,
           "longitude": -122.1970062,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303469Z",
           "direction": "181"
         },
@@ -4518,7 +4518,7 @@
           "latitude": 47.3518905,
           "longitude": -122.1970596,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303473Z"
         },
         {
@@ -4526,7 +4526,7 @@
           "latitude": 47.4010391,
           "longitude": -122.3025665,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303365Z",
           "direction": "180"
         },
@@ -4544,7 +4544,7 @@
           "latitude": 47.3979187,
           "longitude": -122.3017883,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 25 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303371Z",
           "direction": "333"
         },
@@ -4679,7 +4679,7 @@
           "latitude": 47.3642196,
           "longitude": -122.3132934,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303452Z",
           "direction": "180"
         },
@@ -4688,7 +4688,7 @@
           "latitude": 47.362339,
           "longitude": -122.313179,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 20 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303456Z",
           "direction": "359"
         },
@@ -4697,7 +4697,7 @@
           "latitude": 47.3187484,
           "longitude": -122.2618103,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303498Z"
         },
         {
@@ -4705,7 +4705,7 @@
           "latitude": 47.3187294,
           "longitude": -122.2631225,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 25 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303504Z",
           "direction": "268"
         },
@@ -4714,7 +4714,7 @@
           "latitude": 47.2936706,
           "longitude": -122.2173996,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 25 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303544Z",
           "direction": "90"
         },
@@ -4723,7 +4723,7 @@
           "latitude": 47.2936897,
           "longitude": -122.2182769,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303539Z"
         },
         {
@@ -4731,7 +4731,7 @@
           "latitude": 47.2936706,
           "longitude": -122.2193908,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303541Z"
         },
         {
@@ -4739,7 +4739,7 @@
           "latitude": 47.3187217,
           "longitude": -122.2675781,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303507Z"
         },
         {
@@ -4747,7 +4747,7 @@
           "latitude": 47.290081,
           "longitude": -122.2154235,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303556Z"
         },
         {
@@ -4755,7 +4755,7 @@
           "latitude": 47.3476905,
           "longitude": -122.3219375,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.303475Z"
         },
         {
@@ -4763,7 +4763,7 @@
           "latitude": 47.2900695,
           "longitude": -122.2160492,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303560Z",
           "direction": "89"
         },
@@ -4772,7 +4772,7 @@
           "latitude": 47.2900695,
           "longitude": -122.2160492,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303560Z",
           "direction": "269"
         },
@@ -4781,7 +4781,7 @@
           "latitude": 47.2900581,
           "longitude": -122.2193603,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303562Z"
         },
         {
@@ -4789,7 +4789,7 @@
           "latitude": 47.2799987,
           "longitude": -122.2133789,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 25 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303572Z",
           "direction": "180"
         },
@@ -4798,7 +4798,7 @@
           "latitude": 47.3437805,
           "longitude": -122.3319702,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 40 mph",
           "timestamp": "2025-10-06T16:10:23.303478Z"
         },
         {
@@ -4806,7 +4806,7 @@
           "latitude": 47.2758102,
           "longitude": -122.21772,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303575Z"
         },
         {
@@ -4814,7 +4814,7 @@
           "latitude": 47.2756385,
           "longitude": -122.2201538,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 35 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303578Z",
           "direction": "89"
         },
@@ -4832,7 +4832,7 @@
           "latitude": 47.2692489,
           "longitude": -122.2200317,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303594Z"
         },
         {
@@ -4867,7 +4867,7 @@
           "latitude": 47.2650985,
           "longitude": -122.22406,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NE, SW",
+          "description": "Limit: 35 mph | Monitors: NE, SW",
           "timestamp": "2025-10-06T16:10:23.303598Z",
           "direction": "38"
         },
@@ -4876,7 +4876,7 @@
           "latitude": 47.2650985,
           "longitude": -122.22406,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NE, SW",
+          "description": "Limit: 35 mph | Monitors: NE, SW",
           "timestamp": "2025-10-06T16:10:23.303598Z",
           "direction": "218"
         },
@@ -4885,7 +4885,7 @@
           "latitude": 47.2631111,
           "longitude": -122.2264709,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303600Z"
         },
         {
@@ -4893,7 +4893,7 @@
           "latitude": 47.2541999,
           "longitude": -122.213211,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 25 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303603Z",
           "direction": "343"
         },
@@ -4902,7 +4902,7 @@
           "latitude": 47.2533607,
           "longitude": -122.2129211,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303606Z"
         },
         {
@@ -4928,7 +4928,7 @@
           "latitude": 47.2932281,
           "longitude": -122.3360519,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: SW",
+          "description": "Limit: 15 mph | Monitors: SW",
           "timestamp": "2025-10-06T16:10:23.303547Z",
           "direction": "234"
         },
@@ -4937,7 +4937,7 @@
           "latitude": 47.2926292,
           "longitude": -122.3350677,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303551Z",
           "direction": "200"
         },
@@ -4946,7 +4946,7 @@
           "latitude": 47.2923393,
           "longitude": -122.334671,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 35 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303554Z",
           "direction": "358"
         },
@@ -4955,7 +4955,7 @@
           "latitude": 47.3011283,
           "longitude": -122.3528137,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 5 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303522Z",
           "direction": "330"
         },
@@ -4964,7 +4964,7 @@
           "latitude": 47.3007888,
           "longitude": -122.3534011,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW",
+          "description": "Limit: 35 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303525Z",
           "direction": "310"
         },
@@ -4973,7 +4973,7 @@
           "latitude": 47.3006706,
           "longitude": -122.354721,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303532Z"
         },
         {
@@ -4981,7 +4981,7 @@
           "latitude": 47.3006782,
           "longitude": -122.3562317,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 35 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303529Z",
           "direction": "90"
         },
@@ -4990,7 +4990,7 @@
           "latitude": 47.3152618,
           "longitude": -122.388237,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303511Z",
           "direction": "90"
         },
@@ -4999,7 +4999,7 @@
           "latitude": 47.3152618,
           "longitude": -122.388237,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303511Z",
           "direction": "270"
         },
@@ -5008,7 +5008,7 @@
           "latitude": 47.2980194,
           "longitude": -122.3609619,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303536Z",
           "direction": "359"
         },
@@ -5017,7 +5017,7 @@
           "latitude": 47.2980194,
           "longitude": -122.3609619,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N, S",
+          "description": "Limit: 25 mph | Monitors: N, S",
           "timestamp": "2025-10-06T16:10:23.303536Z",
           "direction": "179"
         },
@@ -5026,7 +5026,7 @@
           "latitude": 47.2523307,
           "longitude": -122.2770309,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 40 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303609Z",
           "direction": "176"
         },
@@ -5035,7 +5035,7 @@
           "latitude": 47.2500305,
           "longitude": -122.2751236,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303612Z",
           "direction": "269"
         },
@@ -5044,7 +5044,7 @@
           "latitude": 47.2499885,
           "longitude": -122.2821502,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 25 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303616Z",
           "direction": "90"
         },
@@ -5053,7 +5053,7 @@
           "latitude": 47.2356681,
           "longitude": -122.2811432,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 25 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303650Z",
           "direction": "267"
         },
@@ -5062,7 +5062,7 @@
           "latitude": 47.2356681,
           "longitude": -122.2829666,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303653Z"
         },
         {
@@ -5070,7 +5070,7 @@
           "latitude": 47.2356491,
           "longitude": -122.2845764,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 35 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303656Z",
           "direction": "267"
         },
@@ -5079,7 +5079,7 @@
           "latitude": 47.2356414,
           "longitude": -122.2853317,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303659Z"
         },
         {
@@ -5087,7 +5087,7 @@
           "latitude": 47.23563,
           "longitude": -122.2868423,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 25 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303662Z",
           "direction": "88"
         },
@@ -5096,7 +5096,7 @@
           "latitude": 47.2355194,
           "longitude": -122.3012008,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: E",
+          "description": "Limit: 40 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303665Z",
           "direction": "91"
         },
@@ -5132,7 +5132,7 @@
           "latitude": 47.2389411,
           "longitude": -122.3510589,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 45 mph",
           "timestamp": "2025-10-06T16:10:23.303640Z"
         },
         {
@@ -5140,7 +5140,7 @@
           "latitude": 47.2389602,
           "longitude": -122.3521728,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303637Z",
           "direction": "90"
         },
@@ -5149,7 +5149,7 @@
           "latitude": 47.2389602,
           "longitude": -122.3521728,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.303637Z",
           "direction": "270"
         },
@@ -5158,7 +5158,7 @@
           "latitude": 47.2389717,
           "longitude": -122.353363,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 45 mph",
           "timestamp": "2025-10-06T16:10:23.303633Z"
         },
         {
@@ -5209,7 +5209,7 @@
           "latitude": 47.2327499,
           "longitude": -122.350563,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 30 mph",
           "timestamp": "2025-10-06T16:10:23.303668Z"
         },
         {
@@ -5217,7 +5217,7 @@
           "latitude": 47.2321586,
           "longitude": -122.3495636,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 25 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.303672Z",
           "direction": "130"
         },
@@ -5226,7 +5226,7 @@
           "latitude": 47.2321586,
           "longitude": -122.3495636,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: NW, SE",
+          "description": "Limit: 25 mph | Monitors: NW, SE",
           "timestamp": "2025-10-06T16:10:23.303672Z",
           "direction": "310"
         },
@@ -5235,7 +5235,7 @@
           "latitude": 47.2316703,
           "longitude": -122.3486709,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 25 mph",
           "timestamp": "2025-10-06T16:10:23.303675Z"
         },
         {
@@ -5297,7 +5297,7 @@
           "latitude": 47.2382888,
           "longitude": -122.3976593,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: NW",
+          "description": "Limit: 55 mph | Monitors: NW",
           "timestamp": "2025-10-06T16:10:23.303646Z",
           "direction": "321"
         },
@@ -5333,7 +5333,7 @@
           "latitude": 47.2711296,
           "longitude": -122.5047607,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph | Monitors: W",
+          "description": "Limit: 30 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303582Z",
           "direction": "269"
         },
@@ -5342,7 +5342,7 @@
           "latitude": 47.2710609,
           "longitude": -122.5068893,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph | Monitors: E",
+          "description": "Limit: 30 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.303592Z",
           "direction": "90"
         },
@@ -5486,7 +5486,7 @@
           "latitude": 47.2111091,
           "longitude": -122.434021,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 35 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303691Z",
           "direction": "180"
         },
@@ -5495,7 +5495,7 @@
           "latitude": 47.2096405,
           "longitude": -122.4339294,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: N",
+          "description": "Limit: 20 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303694Z",
           "direction": "359"
         },
@@ -5684,7 +5684,7 @@
           "latitude": 47.1765708,
           "longitude": -122.5062713,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: W",
+          "description": "Limit: 45 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.303764Z",
           "direction": "269"
         },
@@ -5729,7 +5729,7 @@
           "latitude": 47.1674385,
           "longitude": -122.5205917,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 32 mph | Monitors: S",
+          "description": "Limit: 30 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303767Z",
           "direction": "191"
         },
@@ -5765,7 +5765,7 @@
           "latitude": 47.1027793,
           "longitude": -122.6464691,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303830Z"
         },
         {
@@ -5773,7 +5773,7 @@
           "latitude": 47.1005592,
           "longitude": -122.6449737,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 400 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.303832Z"
         },
         {
@@ -5817,7 +5817,7 @@
           "latitude": 47.0906791,
           "longitude": -122.646141,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: S",
+          "description": "Limit: 55 mph | Monitors: S",
           "timestamp": "2025-10-06T16:10:23.303852Z",
           "direction": "185"
         },
@@ -5826,7 +5826,7 @@
           "latitude": 47.0906791,
           "longitude": -122.646141,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: N",
+          "description": "Limit: 55 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.303855Z",
           "direction": "341"
         }

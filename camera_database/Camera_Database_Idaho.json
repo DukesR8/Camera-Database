@@ -4,7 +4,7 @@
   "description": "Camera database for Idaho (2 locations): Speed cameras and red light cameras.",
   "author": "Ultra",
   "version": "2.0",
-  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "createdAt": "2025-10-29T20:31:17.082467Z",
   "feeds": [
     {
       "id": "cameras-idaho",
@@ -22,7 +22,7 @@
           "latitude": 43.626461,
           "longitude": -116.2611312,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph | Monitors: W, E",
+          "description": "Limit: 20 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.308897Z",
           "direction": "90"
         },
@@ -31,7 +31,7 @@
           "latitude": 43.626461,
           "longitude": -116.2611312,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph | Monitors: W, E",
+          "description": "Limit: 25 mph | Monitors: W, E",
           "timestamp": "2025-10-06T16:10:23.308897Z",
           "direction": "270"
         }

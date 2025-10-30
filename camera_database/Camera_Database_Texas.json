@@ -4,7 +4,7 @@
   "description": "Camera database for Texas (30 locations): Speed cameras and red light cameras.",
   "author": "Ultra",
   "version": "2.0",
-  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "createdAt": "2025-10-29T16:25:22.959378Z",
   "feeds": [
     {
       "id": "cameras-texas",
@@ -202,7 +202,7 @@
           "latitude": 25.8076095,
           "longitude": -100.2942199,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.349778Z"
         },
         {
@@ -210,7 +210,7 @@
           "latitude": 25.806919,
           "longitude": -100.2940292,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.349781Z"
         },
         {
@@ -218,7 +218,7 @@
           "latitude": 25.7766399,
           "longitude": -100.3280334,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.349843Z"
         },
         {
@@ -226,7 +226,7 @@
           "latitude": 25.7855606,
           "longitude": -100.2924194,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh",
+          "description": "Limit: 60 mph",
           "timestamp": "2025-10-06T16:10:23.349822Z"
         },
         {
@@ -234,7 +234,7 @@
           "latitude": 25.7850608,
           "longitude": -100.2795333,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 50 kmh",
+          "description": "Limit: 50 mph",
           "timestamp": "2025-10-06T16:10:23.349827Z"
         },
         {
@@ -242,7 +242,7 @@
           "latitude": 25.7851696,
           "longitude": -100.2781677,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 50 kmh",
+          "description": "Limit: 50 mph",
           "timestamp": "2025-10-06T16:10:23.349825Z"
         },
         {
@@ -250,7 +250,7 @@
           "latitude": 25.7817802,
           "longitude": -100.2736129,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 50 kmh",
+          "description": "Limit: 50 mph",
           "timestamp": "2025-10-06T16:10:23.349838Z"
         },
         {
@@ -258,7 +258,7 @@
           "latitude": 25.776308,
           "longitude": -100.2921371,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 60 kmh",
+          "description": "Limit: 60 mph",
           "timestamp": "2025-10-06T16:10:23.349845Z"
         },
         {
@@ -266,7 +266,7 @@
           "latitude": 25.7808609,
           "longitude": -100.2731094,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 50 kmh",
+          "description": "Limit: 50 mph",
           "timestamp": "2025-10-06T16:10:23.349841Z"
         },
         {
@@ -274,7 +274,7 @@
           "latitude": 25.6561698,
           "longitude": -100.3404388,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 50 kmh",
+          "description": "Limit: 50 mph",
           "timestamp": "2025-10-06T16:10:23.350102Z"
         }
       ]

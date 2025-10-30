@@ -4,7 +4,7 @@
   "description": "Camera database for Kentucky (82 locations): Speed cameras and red light cameras.",
   "author": "Ultra",
   "version": "2.0",
-  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "createdAt": "2025-10-29T16:25:24.652083Z",
   "feeds": [
     {
       "id": "cameras-kentucky",
@@ -22,7 +22,7 @@
           "latitude": 38.7896385,
           "longitude": -83.9754791,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: E",
+          "description": "Limit: 55 mph | Monitors: E",
           "timestamp": "2025-10-06T16:10:23.336806Z",
           "direction": "71"
         },
@@ -31,7 +31,7 @@
           "latitude": 38.790081,
           "longitude": -83.9676437,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph",
+          "description": "Limit: 55 mph",
           "timestamp": "2025-10-06T16:10:23.336800Z"
         },
         {
@@ -39,7 +39,7 @@
           "latitude": 38.7899208,
           "longitude": -83.9608688,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 56 mph | Monitors: W",
+          "description": "Limit: 55 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.336803Z",
           "direction": "271"
         },
@@ -707,7 +707,7 @@
           "latitude": 36.1879692,
           "longitude": -83.3000564,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 80 mph",
+          "description": "Limit: 89 mph",
           "timestamp": "2025-10-06T16:10:23.340204Z"
         },
         {
@@ -715,7 +715,7 @@
           "latitude": 36.1766204,
           "longitude": -83.2743911,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 88 mph | Monitors: N",
+          "description": "Limit: 89 mph | Monitors: N",
           "timestamp": "2025-10-06T16:10:23.340213Z",
           "direction": "356"
         },

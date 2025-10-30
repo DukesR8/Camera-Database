@@ -4,7 +4,7 @@
   "description": "Camera database for Minnesota (4 locations): Speed cameras and red light cameras.",
   "author": "Ultra",
   "version": "2.0",
-  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "createdAt": "2025-10-29T23:00:34.339352Z",
   "feeds": [
     {
       "id": "cameras-minnesota",
@@ -49,7 +49,7 @@
           "latitude": 44.8908386,
           "longitude": -93.1092376,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 48 mph",
+          "description": "Limit: 35 mph",
           "timestamp": "2025-10-06T16:10:23.305841Z"
         }
       ]
