@@ -31,7 +31,7 @@
           "latitude": 37.4531784,
           "longitude": 126.8579025,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 64 mph | Monitors: W",
+          "description": "Limit: 60 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.338830Z",
           "direction": "279"
         },
@@ -67,7 +67,7 @@
           "latitude": 37.4449806,
           "longitude": 126.8581619,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 120 kmh | Monitors: NE, SW",
+          "description": "Limit: 70 kmh | Monitors: NE, SW",
           "timestamp": "2025-10-06T16:10:23.338851Z",
           "direction": "40"
         },
@@ -76,7 +76,7 @@
           "latitude": 37.4449806,
           "longitude": 126.8581619,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 120 kmh | Monitors: NE, SW",
+          "description": "Limit: 70 kmh | Monitors: NE, SW",
           "timestamp": "2025-10-06T16:10:23.338851Z",
           "direction": "220"
         },
