@@ -1,0 +1,41 @@
+{
+  "id": "ultrar8-camera-database-idaho",
+  "name": "Ultra R8 Camera Database - Idaho",
+  "description": "Camera database for Idaho (2 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-29T20:31:17.082467Z",
+  "feeds": [
+    {
+      "id": "cameras-idaho",
+      "displayName": "Camera Database - Idaho",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_43626461_116261131_2511",
+          "latitude": 43.626461,
+          "longitude": -116.2611312,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 20 mph | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.308897Z",
+          "direction": "90"
+        },
+        {
+          "id": "CAM_43626461_116261131_2511",
+          "latitude": 43.626461,
+          "longitude": -116.2611312,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 25 mph | Monitors: W, E",
+          "timestamp": "2025-10-06T16:10:23.308897Z",
+          "direction": "270"
+        }
+      ]
+    }
+  ]
+}

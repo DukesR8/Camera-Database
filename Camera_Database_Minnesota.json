@@ -1,0 +1,58 @@
+{
+  "id": "ultrar8-camera-database-minnesota",
+  "name": "Ultra R8 Camera Database - Minnesota",
+  "description": "Camera database for Minnesota (4 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-29T23:00:34.339352Z",
+  "feeds": [
+    {
+      "id": "cameras-minnesota",
+      "displayName": "Camera Database - Minnesota",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_45549598_94205596_1227",
+          "latitude": 45.5495986,
+          "longitude": -94.2055969,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.304692Z",
+          "direction": "90"
+        },
+        {
+          "id": "CAM_45549690_94205322_1226",
+          "latitude": 45.5496902,
+          "longitude": -94.2053222,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.304688Z",
+          "direction": "2"
+        },
+        {
+          "id": "CAM_45549690_94205322_1226",
+          "latitude": 45.5496902,
+          "longitude": -94.2053222,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: N, S",
+          "timestamp": "2025-10-06T16:10:23.304688Z",
+          "direction": "182"
+        },
+        {
+          "id": "CAM_44890838_93109237_1573",
+          "latitude": 44.8908386,
+          "longitude": -93.1092376,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 35 mph",
+          "timestamp": "2025-10-06T16:10:23.305841Z"
+        }
+      ]
+    }
+  ]
+}

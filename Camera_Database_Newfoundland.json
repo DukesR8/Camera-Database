@@ -1,0 +1,66 @@
+{
+  "id": "ultrar8-camera-database-newfoundland",
+  "name": "Ultra R8 Camera Database - Newfoundland",
+  "description": "Camera database for Newfoundland (5 locations): Speed cameras and red light cameras.",
+  "author": "Ultra",
+  "version": "2.0",
+  "createdAt": "2025-10-06T16:10:23.351569Z",
+  "feeds": [
+    {
+      "id": "cameras-newfoundland",
+      "displayName": "Camera Database - Newfoundland",
+      "headers": {},
+      "isEnabled": true,
+      "userConfirmsRights": true,
+      "dartIntelligenceEnabled": false,
+      "isRiskScoreFeed": false,
+      "isHeatMapFeed": false,
+      "feedFormat": "json",
+      "staticAlerts": [
+        {
+          "id": "CAM_47564380_52754409_739",
+          "latitude": 47.5643806,
+          "longitude": -52.7544097,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 30 kmh",
+          "timestamp": "2025-10-06T16:10:23.303072Z"
+        },
+        {
+          "id": "CAM_47542018_52727611_752",
+          "latitude": 47.5420188,
+          "longitude": -52.7276115,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Limit: 30 kmh",
+          "timestamp": "2025-10-06T16:10:23.303114Z"
+        },
+        {
+          "id": "CAM_41832828_71360397_3792",
+          "latitude": 41.8328285,
+          "longitude": 71.3603973,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NW",
+          "timestamp": "2025-10-06T16:10:23.313466Z",
+          "direction": "325"
+        },
+        {
+          "id": "CAM_41832820_71360519_3793",
+          "latitude": 41.8328208,
+          "longitude": 71.3605194,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: NE",
+          "timestamp": "2025-10-06T16:10:23.313470Z",
+          "direction": "29"
+        },
+        {
+          "id": "CAM_28050989_28050989_14046",
+          "latitude": 28.0509891,
+          "longitude": 28.0509891,
+          "type": "RED_LIGHT_CAMERA",
+          "description": "Monitors: E",
+          "timestamp": "2025-10-06T16:10:23.347849Z",
+          "direction": "90"
+        }
+      ]
+    }
+  ]
+}
