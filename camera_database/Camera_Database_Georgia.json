@@ -390,7 +390,7 @@
           "latitude": 34.1208,
           "longitude": -84.7605667,
           "type": "RED_LIGHT_CAMERA",
-          "description": "Limit: 72 mph | Monitors: W",
+          "description": "Limit: 45 mph | Monitors: W",
           "timestamp": "2025-10-06T16:10:23.341649Z",
           "direction": "253"
         },
