@@ -1,0 +1,134 @@
+name: Process Camera Submissions
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  process-submission:
+    runs-on: ubuntu-latest
+    if: |
+      contains(github.event.issue.labels.*.name, 'camera-removed') ||
+      contains(github.event.issue.labels.*.name, 'camera-edit')
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create removal/edit documentation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python3 - <<'EOF'
+          import os
+          import re
+          
+          issue_number = os.environ['ISSUE_NUMBER']
+          issue_title = os.environ['ISSUE_TITLE']
+          issue_body = os.environ['ISSUE_BODY']
+          
+          print(f"Processing issue #{issue_number}: {issue_title}")
+          
+          # Extract fields from GitHub issue form
+          def extract_field(body, field_name):
+              pattern = f"### {field_name}\\s*\\n+(.+?)(?=\\n###|\\Z)"
+              match = re.search(pattern, body, re.DOTALL | re.IGNORECASE)
+              if match:
+                  value = match.group(1).strip()
+                  if value.lower() in ['_no response_', 'no response', 'n/a']:
+                      return None
+                  return value
+              return None
+          
+          is_removal = 'removed' in issue_title.lower() or '[REMOVED]' in issue_title.upper()
+          
+          if is_removal:
+              camera_id = extract_field(issue_body, 'Camera ID')
+              coordinates = extract_field(issue_body, 'Coordinates')
+              camera_description = extract_field(issue_body, 'Camera Description') or 'No description provided'
+              removal_reason = extract_field(issue_body, 'Why is this camera no longer valid?') or 'Not specified'
+              details = extract_field(issue_body, 'Additional Details') or ''
+              
+              print("=" * 60)
+              print("CAMERA REMOVAL REQUEST")
+              print("=" * 60)
+              print(f"Issue: #{issue_number}")
+              print(f"Camera ID: {camera_id or 'Not provided'}")
+              print(f"Coordinates: {coordinates or 'Not provided'}")
+              print(f"Description: {camera_description}")
+              print(f"Reason: {removal_reason}")
+              print(f"Details: {details}")
+              print("=" * 60)
+              print()
+              print("TO REMOVE THIS CAMERA:")
+              print(f"1. Search for camera: grep -r \"{camera_id or coordinates}\" *.json")
+              print("2. Edit the regional JSON file and DELETE the camera block")
+              print("3. Run: python3 rebuild_camera_bundles.py")
+              print("4. Commit: git add . && git commit -m 'Removed camera from issue #" + issue_number + "'")
+              print("5. Push: git push")
+              print()
+              
+              # Comment on issue with instructions
+              import subprocess
+              comment = f"""✅ **Camera Removal Request Received**
+
+Thank you for reporting this camera removal!
+
+**Camera Details:**
+- **ID:** {camera_id or 'Not provided'}
+- **Coordinates:** {coordinates or 'Not provided'}  
+- **Location:** {camera_description}
+- **Reason:** {removal_reason}
+
+**Next Steps:**
+The database maintainer will:
+1. Search for the camera in regional JSON files
+2. Remove the camera entry
+3. Rebuild the database bundles
+4. Close this issue once complete
+
+**Manual Removal Instructions:**
+```bash
+# Find the camera
+grep -r "{camera_id or coordinates}" Camera_Database_*.json
+
+# Edit the file and delete the camera JSON block
+# Then rebuild bundles
+python3 rebuild_camera_bundles.py
+
+# Commit and push
+git add .
+git commit -m "Removed camera: {camera_description[:50]} (Issue #{issue_number})"
+git push
+```
+
+This issue will remain open until the camera is removed from the database.
+"""
+              
+              subprocess.run([
+                  'gh', 'issue', 'comment', issue_number,
+                  '--body', comment
+              ], check=True)
+              
+              print(f"✅ Added comment to issue #{issue_number}")
+          
+          EOF
+
+      - name: Label issue for manual review
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['needs-manual-review']
+            });
