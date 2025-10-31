@@ -1131,7 +1131,7 @@
 
             const title = `[NEW CAMERA] ${street}, ${city}, ${state}`;
             
-            // Pass the form data to pre-fill GitHub form
+            // Pass the form data to pre-fill GitHub form (uses new-camera.yml template)
             createGitHubIssue(title, ['new-camera', 'community-submission'], {
                 camera_type: type,
                 speed_limit: speed,
@@ -1145,7 +1145,7 @@
                 longitude: lon,
                 notes: notes,
                 contact: contact
-            });
+            }, 'new-camera.yml');
 
             // Clean up
             if (window.tempMarker) {
@@ -1233,7 +1233,7 @@ ${JSON.stringify(selectedCamera, null, 2)}
                 coordinates: `${lat}, ${lon}`,
                 issue_type: 'Camera Update',
                 correction: changesSummary
-            });
+            }, 'camera-edit.yml');
         }
 
         // Report issue
@@ -1296,13 +1296,14 @@ ${JSON.stringify(selectedCamera, null, 2)}
             // Determine which template to use
             const isRemoval = issueType === 'camera_removed';
             const labels = isRemoval ? ['camera-removed', 'community-report'] : ['camera-edit', 'community-report'];
+            const template = isRemoval ? 'camera-removed.yml' : 'camera-edit.yml';
             
             createGitHubIssue(title, labels, {
                 camera_info: issueReport,
                 coordinates: `${lat}, ${lon}`,
                 issue_type: issueType.replace('_', ' '),
                 correction: description
-            });
+            }, template);
         }
 
         // GitHub Configuration
@@ -1313,7 +1314,7 @@ ${JSON.stringify(selectedCamera, null, 2)}
 
         // Open GitHub issue form (NO LOGIN REQUIRED!)
         // Creates a properly formatted issue that GitHub Actions can parse
-        function createGitHubIssue(title, labels, formData = null) {
+        function createGitHubIssue(title, labels, formData = null, template = null) {
             // Validate configuration
             if (GITHUB_CONFIG.owner === 'YOUR_GITHUB_USERNAME' || GITHUB_CONFIG.repo === 'YOUR_REPO_NAME') {
                 document.getElementById('sidebarContent').innerHTML = `
@@ -1396,7 +1397,12 @@ ${formData.correction || formData.details || 'See description'}
             }
             
             // Create the GitHub new issue URL with pre-filled title and body
-            const githubUrl = `https://github.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/issues/new?title=${encodeURIComponent(title)}&body=${issueBody}&labels=${issueLabels}`;
+            let githubUrl = `https://github.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/issues/new?title=${encodeURIComponent(title)}&body=${issueBody}&labels=${issueLabels}`;
+            
+            // Add template parameter if specified (needed for issue templates)
+            if (template) {
+                githubUrl += `&template=${encodeURIComponent(template)}`;
+            }
             
             // Show instructions to user
             document.getElementById('sidebarContent').innerHTML = `
