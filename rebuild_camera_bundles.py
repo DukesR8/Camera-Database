@@ -16,7 +16,7 @@ def rebuild_bundles():
     """Rebuild bundle files from all regional files"""
     
     # Find all regional database files
-    regional_files = glob.glob('camera_database/Camera_Database_*.json')
+    regional_files = glob.glob('Camera_Database_*.json')
     
     # Exclude the bundle files themselves
     regional_files = [f for f in regional_files if 'Bundle' not in f]
