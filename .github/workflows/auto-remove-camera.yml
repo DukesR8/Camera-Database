@@ -1,15 +1,15 @@
 name: Auto Remove Camera
 
 on:
-  issues:
-    types: [labeled]
+  issue_comment:
+    types: [created]
 
 jobs:
   remove-camera:
-    # Only run when 'approved' label is added to a 'camera-removed' issue
+    # Only run when someone comments "approve" on a camera-removed issue
     if: |
-      github.event.label.name == 'approved' &&
-      contains(github.event.issue.labels.*.name, 'camera-removed')
+      contains(github.event.issue.labels.*.name, 'camera-removed') &&
+      (github.event.comment.body == 'approve' || github.event.comment.body == 'commit')
     
     runs-on: ubuntu-latest
     
@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.10'
           
-            - name: Parse issue body
+      - name: Parse issue body
         id: parse
         run: |
           # Extract Camera ID (handle multiline)
@@ -124,11 +124,12 @@ jobs:
           
           git push
           
-      - name: Comment on issue
+      - name: Comment success and close issue
         uses: actions/github-script@v6
         with:
           script: |
-            github.rest.issues.createComment({
+            // Comment on the issue
+            await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
@@ -140,19 +141,13 @@ jobs:
               
               The camera has been automatically removed from the database and all bundles have been rebuilt.
               
-              Changes committed: ${context.sha}
-              
               Thank you for contributing to the database! 🎉`
             });
             
-      - name: Add completion label
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.issues.addLabels({
+            // Close the issue
+            await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              labels: ['completed']
+              state: 'closed'
             });
-
