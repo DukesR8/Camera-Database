@@ -2,14 +2,15 @@ name: Auto Remove Camera
 
 on:
   issues:
-    types: [labeled, closed]
+    types: [labeled]
 
 jobs:
   remove-camera:
-    # Only run if issue has 'camera-removed' label AND 'approved' label or is closed
+    # Only run when 'approved' label is added to a 'camera-removed' issue
     if: |
-      contains(github.event.issue.labels.*.name, 'camera-removed') && 
-      (contains(github.event.issue.labels.*.name, 'approved') || github.event.action == 'closed')
+      github.event.action == 'labeled' &&
+      github.event.label.name == 'approved' &&
+      contains(github.event.issue.labels.*.name, 'camera-removed')
     
     runs-on: ubuntu-latest
     
