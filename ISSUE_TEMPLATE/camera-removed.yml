@@ -1,0 +1,66 @@
+name: 🗑️ Camera Removed
+description: Report a camera that no longer exists
+title: "[REMOVED] "
+labels: ["camera-removed", "community-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Report a Removed Camera
+        
+        Let us know if a camera has been physically removed or no longer exists.
+        
+        **Please provide either:**
+        - Camera ID (from database), OR
+        - Exact coordinates, OR  
+        - Detailed location description
+        
+  - type: input
+    id: camera_id
+    attributes:
+      label: Camera ID (if known)
+      description: The camera ID from the database (e.g., CAM_56719249_111359466_3)
+      placeholder: "CAM_56719249_111359466_3"
+    validations:
+      required: false
+
+  - type: input
+    id: coordinates
+    attributes:
+      label: Coordinates
+      description: "Latitude, Longitude (required if no Camera ID)"
+      placeholder: "53.544389, -113.490927"
+    validations:
+      required: false
+
+  - type: textarea
+    id: camera_description
+    attributes:
+      label: Camera Description
+      description: Describe the camera's location to help us identify it
+      placeholder: "Red light camera at Main St and 1st Ave, northbound lane, Edmonton, AB"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: removal_reason
+    attributes:
+      label: Why is this camera no longer valid?
+      options:
+        - Physically removed
+        - Never existed (false report)
+        - Duplicate entry
+        - Moved to different location
+        - Temporarily disabled
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional Details
+      description: When did you notice it was removed? Any other information?
+      placeholder: "Noticed removed on Oct 15, 2025. Construction work in area."
+    validations:
+      required: false
