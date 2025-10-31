@@ -118,7 +118,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add Camera_Database_*.json camera_database/Camera_Database_Bundle*.json
+          git add Camera_Database_*.json Camera_Database_Bundle*.json
           
           git commit -m "🗑️ Auto-remove camera ${{ steps.parse.outputs.camera_id }} - Issue #${{ github.event.issue.number }}"
           
