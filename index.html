@@ -3,22 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dukes R8 Camera Database - Professional Editor</title>
+    <title>Dukes R8 Camera Database - Editor</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
     <style>
         :root {
-            --primary: #2563eb;
-            --primary-dark: #1d4ed8;
+            --primary: #3b82f6;
+            --primary-dark: #2563eb;
+            --primary-light: #60a5fa;
             --secondary: #64748b;
             --success: #10b981;
             --danger: #ef4444;
             --warning: #f59e0b;
-            --bg-dark: #0f172a;
-            --bg-light: #f8fafc;
-            --border: #e2e8f0;
-            --text-dark: #1e293b;
-            --text-light: #64748b;
+            --accent: #8b5cf6;
+            
+            /* Light mode colors */
+            --light-bg-primary: #ffffff;
+            --light-bg-secondary: #f8fafc;
+            --light-bg-tertiary: #f1f5f9;
+            --light-border: #e2e8f0;
+            --light-text-primary: #1e293b;
+            --light-text-secondary: #64748b;
+            --light-shadow: rgba(0, 0, 0, 0.1);
+            
+            /* Dark mode colors (default) */
+            --dark-bg-primary: #0f172a;
+            --dark-bg-secondary: #1e293b;
+            --dark-bg-tertiary: #334155;
+            --dark-border: #334155;
+            --dark-text-primary: #f1f5f9;
+            --dark-text-secondary: #94a3b8;
+            --dark-shadow: rgba(0, 0, 0, 0.5);
+        }
+        
+        /* Default to dark mode */
+        body {
+            --bg-primary: var(--dark-bg-primary);
+            --bg-secondary: var(--dark-bg-secondary);
+            --bg-tertiary: var(--dark-bg-tertiary);
+            --border: var(--dark-border);
+            --text-primary: var(--dark-text-primary);
+            --text-secondary: var(--dark-text-secondary);
+            --shadow: var(--dark-shadow);
+        }
+        
+        /* Light mode override */
+        body.light-mode {
+            --bg-primary: var(--light-bg-primary);
+            --bg-secondary: var(--light-bg-secondary);
+            --bg-tertiary: var(--light-bg-tertiary);
+            --border: var(--light-border);
+            --text-primary: var(--light-text-primary);
+            --text-secondary: var(--light-text-secondary);
+            --shadow: var(--light-shadow);
         }
 
         * {
@@ -32,18 +69,51 @@
             height: 100vh;
             display: flex;
             flex-direction: column;
-            background: var(--bg-light);
-            color: var(--text-dark);
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        
+        /* Theme toggle button */
+        .theme-toggle {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 0.65rem 1rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+        
+        .theme-toggle:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: translateY(-1px);
+        }
+        
+        .theme-toggle i {
+            font-size: 1rem;
         }
 
         /* Header */
         header {
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
             color: white;
             padding: 1.5rem 2rem;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 12px var(--shadow);
             position: relative;
             z-index: 1000;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        /* Light mode header */
+        body.light-mode header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
         }
 
         .header-content {
@@ -86,9 +156,9 @@
         }
 
         .btn-add-camera {
-            background: white;
+            background: var(--bg-primary);
             color: var(--primary);
-            border: none;
+            border: 2px solid var(--primary);
             padding: 0.75rem 1.5rem;
             border-radius: 8px;
             font-weight: 600;
@@ -108,10 +178,11 @@
 
         /* Location Selector Bar */
         .location-bar {
-            background: white;
+            background: var(--bg-secondary);
             border-bottom: 1px solid var(--border);
             padding: 1rem 2rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 1px 3px var(--shadow);
+            transition: background-color 0.3s ease;
         }
 
         .location-content {
@@ -132,7 +203,7 @@
         .location-group label {
             font-size: 0.8rem;
             font-weight: 600;
-            color: var(--text-light);
+            color: var(--text-secondary);
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
@@ -142,7 +213,8 @@
             border: 2px solid var(--border);
             border-radius: 8px;
             font-size: 0.95rem;
-            background: white;
+            background: var(--bg-primary);
+            color: var(--text-primary);
             cursor: pointer;
             transition: all 0.2s;
             font-weight: 500;
@@ -152,6 +224,63 @@
             outline: none;
             border-color: var(--primary);
             box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+        
+        /* Autocomplete dropdown */
+        .autocomplete-container {
+            position: relative;
+            flex: 1;
+        }
+        
+        .autocomplete-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: var(--bg-secondary);
+            border: 2px solid var(--border);
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 4px 12px var(--shadow);
+        }
+        
+        .autocomplete-dropdown.active {
+            display: block;
+        }
+        
+        .autocomplete-item {
+            padding: 0.75rem 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            color: var(--text-primary);
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .autocomplete-item:last-child {
+            border-bottom: none;
+        }
+        
+        .autocomplete-item:hover {
+            background: var(--bg-tertiary);
+        }
+        
+        .autocomplete-item i {
+            color: var(--primary);
+            font-size: 0.9rem;
+        }
+        
+        .autocomplete-loading {
+            padding: 0.75rem 1rem;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
         }
 
         .btn-filter {
@@ -201,11 +330,12 @@
         /* Sidebar */
         .sidebar {
             width: 450px;
-            background: white;
+            background: var(--bg-secondary);
             border-left: 1px solid var(--border);
             overflow-y: auto;
             display: none;
-            box-shadow: -4px 0 6px -1px rgba(0, 0, 0, 0.1);
+            box-shadow: -4px 0 12px var(--shadow);
+            transition: background-color 0.3s ease;
         }
 
         .sidebar.active {
@@ -271,7 +401,7 @@
             display: block;
             font-weight: 600;
             margin-bottom: 0.5rem;
-            color: var(--text-dark);
+            color: var(--text-primary);
             font-size: 0.9rem;
         }
 
@@ -283,6 +413,8 @@
             border: 2px solid var(--border);
             border-radius: 8px;
             font-size: 0.95rem;
+            background: var(--bg-primary);
+            color: var(--text-primary);
             transition: all 0.2s;
             font-family: inherit;
         }
@@ -400,7 +532,7 @@
 
         /* Camera Info Display */
         .camera-info {
-            background: white;
+            background: var(--bg-tertiary);
             border: 2px solid var(--border);
             border-radius: 12px;
             padding: 1.25rem;
@@ -541,9 +673,13 @@
         <div class="header-content">
             <div class="header-left">
                 <h1><i class="fas fa-camera"></i> Dukes R8 Camera Database</h1>
-                <p>Professional speed camera database editor and management system</p>
+                <p>Camera database editor and management system</p>
             </div>
             <div class="header-right">
+                <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+                    <i class="fas fa-sun" id="theme-icon"></i>
+                    <span id="theme-text">Light Mode</span>
+                </button>
                 <div class="stats-badge">
                     <i class="fas fa-database"></i>
                     <span id="totalCameras">Loading...</span>
@@ -560,8 +696,12 @@
         <div class="location-content">
             <div class="location-group" style="flex: 2;">
                 <label><i class="fas fa-search"></i> Search Location</label>
-                <input type="text" id="searchInput" placeholder="Search by coordinates, description..." 
-                       style="padding: 0.75rem 1rem; border: 2px solid var(--border); border-radius: 8px; font-size: 0.95rem;">
+                <div class="autocomplete-container">
+                    <input type="text" id="searchInput" placeholder="Type a city, state, or address..." 
+                           style="padding: 0.75rem 1rem; border: 2px solid var(--border); border-radius: 8px; font-size: 0.95rem; background: var(--bg-primary); color: var(--text-primary); transition: all 0.2s; width: 100%;" 
+                           autocomplete="off">
+                    <div id="autocomplete-dropdown" class="autocomplete-dropdown"></div>
+                </div>
             </div>
             <div class="location-group">
                 <label><i class="fas fa-camera"></i> Camera Type</label>
@@ -601,19 +741,195 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
+        // Theme Toggle Function
+        function toggleTheme() {
+            const body = document.body;
+            const themeIcon = document.getElementById('theme-icon');
+            const themeText = document.getElementById('theme-text');
+            
+            body.classList.toggle('light-mode');
+            
+            if (body.classList.contains('light-mode')) {
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+                localStorage.setItem('theme', 'light');
+            } else {
+                themeIcon.className = 'fas fa-sun';
+                themeText.textContent = 'Light Mode';
+                localStorage.setItem('theme', 'dark');
+            }
+            
+            // Update map tiles to match theme
+            if (typeof updateMapTiles === 'function') {
+                updateMapTiles();
+            }
+        }
+        
+        // Initialize theme on page load (default to dark mode)
+        function initTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const body = document.body;
+            const themeIcon = document.getElementById('theme-icon');
+            const themeText = document.getElementById('theme-text');
+            
+            // Default to dark mode
+            if (savedTheme === 'light') {
+                body.classList.add('light-mode');
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+            } else {
+                themeIcon.className = 'fas fa-sun';
+                themeText.textContent = 'Light Mode';
+            }
+        }
+        
+        // Call initTheme immediately
+        initTheme();
+        
         // Initialize map
         const map = L.map('map').setView([39.8283, -98.5795], 4); // Center on USA
 
-        // Add tile layer with professional styling
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors',
-            maxZoom: 19
+        // Add tile layer with theme-aware styling - Dark mode uses Voyager theme with colored streets
+        let tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+            attribution: '© OpenStreetMap contributors © CARTO',
+            maxZoom: 19,
+            subdomains: 'abcd'
         }).addTo(map);
+        
+        // Update map tiles when theme changes
+        function updateMapTiles() {
+            if (document.body.classList.contains('light-mode')) {
+                map.removeLayer(tileLayer);
+                tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                    attribution: '© OpenStreetMap contributors © CARTO',
+                    maxZoom: 19,
+                    subdomains: 'abcd'
+                }).addTo(map);
+            } else {
+                map.removeLayer(tileLayer);
+                tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                    attribution: '© OpenStreetMap contributors © CARTO',
+                    maxZoom: 19,
+                    subdomains: 'abcd'
+                }).addTo(map);
+            }
+        }
 
         let cameras = [];
         let allCameras = [];
         let markers = [];
         let selectedCamera = null;
+        let autocompleteTimeout;
+        
+        // Autocomplete functionality
+        const searchInput = document.getElementById('searchInput');
+        const autocompleteDropdown = document.getElementById('autocomplete-dropdown');
+        
+        searchInput.addEventListener('input', function(e) {
+            const query = e.target.value.trim();
+            
+            // Clear previous timeout
+            if (autocompleteTimeout) {
+                clearTimeout(autocompleteTimeout);
+            }
+            
+            // Hide dropdown if query is too short
+            if (query.length < 3) {
+                autocompleteDropdown.classList.remove('active');
+                return;
+            }
+            
+            // Show loading
+            autocompleteDropdown.innerHTML = '<div class="autocomplete-loading"><i class="fas fa-spinner fa-spin"></i> Searching...</div>';
+            autocompleteDropdown.classList.add('active');
+            
+            // Debounce API calls
+            autocompleteTimeout = setTimeout(async () => {
+                try {
+                    const response = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=5&addressdetails=1`);
+                    const results = await response.json();
+                    
+                    if (results.length === 0) {
+                        autocompleteDropdown.innerHTML = '<div class="autocomplete-loading">No results found</div>';
+                        return;
+                    }
+                    
+                    // Display results
+                    autocompleteDropdown.innerHTML = results.map(result => {
+                        const icon = result.type === 'city' || result.type === 'town' ? 'fa-city' : 
+                                     result.type === 'state' ? 'fa-map' : 'fa-map-marker-alt';
+                        return `
+                            <div class="autocomplete-item" data-lat="${result.lat}" data-lon="${result.lon}" data-name="${result.display_name}">
+                                <i class="fas ${icon}"></i>
+                                <span>${result.display_name}</span>
+                            </div>
+                        `;
+                    }).join('');
+                    
+                    // Add click handlers to results
+                    document.querySelectorAll('.autocomplete-item').forEach(item => {
+                        item.addEventListener('click', function() {
+                            const lat = parseFloat(this.dataset.lat);
+                            const lon = parseFloat(this.dataset.lon);
+                            const name = this.dataset.name;
+                            
+                            // Set input value
+                            searchInput.value = name;
+                            
+                            // Hide dropdown
+                            autocompleteDropdown.classList.remove('active');
+                            
+                            // Zoom to location
+                            map.setView([lat, lon], 12);
+                            
+                            // Filter cameras near this location
+                            filterCamerasNearLocation(lat, lon, 50); // 50km radius
+                        });
+                    });
+                    
+                } catch (error) {
+                    console.error('Autocomplete error:', error);
+                    autocompleteDropdown.innerHTML = '<div class="autocomplete-loading">Error loading results</div>';
+                }
+            }, 300);
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.autocomplete-container')) {
+                autocompleteDropdown.classList.remove('active');
+            }
+        });
+        
+        // Filter cameras near a location
+        function filterCamerasNearLocation(lat, lon, radiusKm) {
+            cameras = allCameras.filter(camera => {
+                const camLat = camera.location?.latitude || camera.latitude;
+                const camLon = camera.location?.longitude || camera.longitude;
+                const distance = getDistanceFromLatLonInKm(lat, lon, camLat, camLon);
+                return distance <= radiusKm;
+            });
+            displayCamerasOnMap();
+            updateStats(cameras.length);
+        }
+        
+        // Calculate distance between two points
+        function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
+            const R = 6371; // Radius of the earth in km
+            const dLat = deg2rad(lat2 - lat1);
+            const dLon = deg2rad(lon2 - lon1);
+            const a = 
+                Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * 
+                Math.sin(dLon/2) * Math.sin(dLon/2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+            const d = R * c; // Distance in km
+            return d;
+        }
+        
+        function deg2rad(deg) {
+            return deg * (Math.PI/180);
+        }
         let regions = {};
         let cities = {};
 
@@ -1269,16 +1585,25 @@ ${JSON.stringify(selectedCamera, null, 2)}
             const labels = isRemoval ? ['camera-removed', 'community-report'] : ['camera-edit', 'community-report'];
             const template = isRemoval ? 'camera-removed.yml' : 'camera-edit.yml';
             
+            // DEBUG: Log what we're about to send
+            console.log('=== REPORT ISSUE DEBUG ===');
+            console.log('Issue Type:', issueType);
+            console.log('Is Removal:', isRemoval);
+            console.log('Description:', description);
+            
             if (isRemoval) {
                 // Camera removal - use removal-specific format
-                createGitHubIssue(title, labels, {
+                console.log('✅ USING REMOVAL FORMAT');
+                const removalData = {
                     camera_id: cameraId,
                     coordinates: `${lat}, ${lon}`,
                     camera_description: `${type.toUpperCase()} camera at ${street}, ${city}, ${state}`,
                     removal_reason: description,
                     details: `Camera ID: ${cameraId}\nType: ${type}\nSpeed: ${speed}\nDirection: ${direction}\nReported by: ${contact || 'Anonymous'}`,
                     contact: contact
-                }, template);
+                };
+                console.log('Removal Data:', removalData);
+                createGitHubIssue(title, labels, removalData, template);
             } else {
                 // Other issue types - use edit format
                 const issueReport = `## Camera Issue Report
@@ -1325,40 +1650,23 @@ ${JSON.stringify(selectedCamera, null, 2)}
             repo: 'Camera-Database'     // Your repository name
         };
 
-        // Open GitHub issue form (NO LOGIN REQUIRED!)
-        // Creates a properly formatted issue that GitHub Actions can parse
-        function createGitHubIssue(title, labels, formData = null, template = null) {
-            // Validate configuration
-            if (GITHUB_CONFIG.owner === 'YOUR_GITHUB_USERNAME' || GITHUB_CONFIG.repo === 'YOUR_REPO_NAME') {
-                document.getElementById('sidebarContent').innerHTML = `
-                    <div style="text-align: center; padding: 3rem 2rem;">
-                        <div style="font-size: 4rem; color: var(--danger); margin-bottom: 1rem;">⚠️</div>
-                        <h3 style="color: var(--danger); margin-bottom: 1rem;">Configuration Required</h3>
-                        <p style="color: var(--text-dark); margin-bottom: 1rem; line-height: 1.8;">
-                            <strong>GitHub integration not configured!</strong>
-                        </p>
-                        <p style="color: var(--text-light); margin-bottom: 1.5rem; line-height: 1.6; text-align: left;">
-                            To enable submissions, edit <code>index.html</code> around line 1218 and update:<br><br>
-                            <code style="background: #f1f5f9; padding: 0.5rem; display: block; border-radius: 4px; margin-top: 0.5rem;">
-                            const GITHUB_CONFIG = {<br>
-                            &nbsp;&nbsp;owner: 'YourGitHubUsername',<br>
-                            &nbsp;&nbsp;repo: 'YourRepoName'<br>
-                            };
-                            </code>
-                        </p>
-                        <button class="btn btn-secondary" onclick="closeSidebar()">
-                            <i class="fas fa-times"></i> Close
-                        </button>
-                    </div>
-                `;
-                return;
-            }
+        // Submit issue via serverless backend (ANONYMOUS - NO LOGIN REQUIRED!)
+        // Creates GitHub issues via API without requiring user to log in
+        async function createGitHubIssue(title, labels, formData = null, template = null) {
+            console.log('=== CREATE GITHUB ISSUE DEBUG ===');
+            console.log('Title:', title);
+            console.log('Labels:', labels);
+            console.log('FormData:', formData);
+            console.log('Has removal_reason?', formData && formData.removal_reason);
+            console.log('Has camera_info?', formData && formData.camera_info);
+            console.log('Has camera_type?', formData && formData.camera_type);
 
             // Build the issue body with formatted data
             let issueBody = '';
             let issueLabels = labels.join(',');
             
             if (formData && formData.camera_type) {
+                console.log('>>> Using NEW CAMERA format');
                 // New camera submission - format the data for GitHub Actions to parse
                 issueBody = encodeURIComponent(`### Camera Type
 ${formData.camera_type}
@@ -1394,6 +1702,7 @@ ${formData.notes || 'None'}
 ${formData.contact || 'Anonymous'}
 `);
             } else if (formData && formData.removal_reason) {
+                console.log('>>> Using REMOVAL format');
                 // Camera removal - format for camera-removed.yml template
                 issueBody = encodeURIComponent(`### Camera ID (if known)
 ${formData.camera_id || 'Not available'}
@@ -1411,6 +1720,7 @@ ${formData.removal_reason}
 ${formData.details || 'None'}
 `);
             } else if (formData && formData.camera_info) {
+                console.log('>>> Using EDIT/ISSUE format');
                 // Edit or issue report
                 issueBody = encodeURIComponent(`### Camera Location/Description
 ${formData.camera_info}
@@ -1426,42 +1736,87 @@ ${formData.correction || formData.details || 'See description'}
 `);
             }
             
-            // Create the GitHub new issue URL with pre-filled title and body
-            let githubUrl = `https://github.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/issues/new?title=${encodeURIComponent(title)}&body=${issueBody}&labels=${issueLabels}`;
-            
-            // Add template parameter if specified (needed for issue templates)
-            if (template) {
-                githubUrl += `&template=${encodeURIComponent(template)}`;
-            }
-            
-            // Show instructions to user
+            // Show loading state
             const isRemovalRequest = formData && formData.removal_reason;
             const emoji = isRemovalRequest ? '🗑️' : '📋';
-            const actionText = isRemovalRequest ? 'Camera Removal Request' : 'GitHub Submission';
+            const actionText = isRemovalRequest ? 'Camera Removal' : 'Camera Submission';
             
             document.getElementById('sidebarContent').innerHTML = `
                 <div style="text-align: center; padding: 3rem 2rem;">
                     <div style="font-size: 4rem; color: var(--primary); margin-bottom: 1rem;">${emoji}</div>
-                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Opening ${actionText}</h3>
-                    <p style="color: var(--text-light); margin-bottom: 1.5rem; line-height: 1.8;">
-                        <strong>You're being redirected to GitHub</strong><br>
-                        All your data is pre-filled!<br><br>
-                        Just click "Submit new issue" (no login required!)<br><br>
-                        ${isRemovalRequest ? 'The camera will be reviewed and removed from the database.' : 'A Pull Request will be automatically created for review.'}
-                    </p>
-                    <a href="${githubUrl}" target="_blank" class="btn btn-primary" style="display: inline-flex; text-decoration: none;">
-                        <i class="fas fa-external-link-alt"></i> Submit to GitHub
-                    </a>
-                    <button class="btn btn-secondary" onclick="closeSidebar()" style="margin-top: 1rem;">
-                        <i class="fas fa-times"></i> Cancel
-                    </button>
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Submitting ${actionText}...</h3>
+                    <div class="spinner" style="margin: 2rem auto;"></div>
+                    <p style="color: var(--text-light);">Please wait, creating issue...</p>
                 </div>
             `;
+
+            // Decode the issue body for the API
+            const decodedBody = decodeURIComponent(issueBody);
             
-            // Auto-open in 1 second
-            setTimeout(() => {
-                window.open(githubUrl, '_blank');
-            }, 1000);
+            try {
+                // Submit to serverless backend
+                const API_ENDPOINT = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+                    ? 'http://localhost:3000/api/submit-camera'
+                    : '/api/submit-camera';
+                
+                const response = await fetch(API_ENDPOINT, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        title: title,
+                        labels: labels,
+                        body: decodedBody
+                    })
+                });
+
+                const result = await response.json();
+
+                if (response.ok && result.success) {
+                    // Success!
+                    document.getElementById('sidebarContent').innerHTML = `
+                        <div style="text-align: center; padding: 3rem 2rem;">
+                            <div style="font-size: 4rem; color: var(--success); margin-bottom: 1rem;">✅</div>
+                            <h3 style="color: var(--success); margin-bottom: 1rem;">Submission Successful!</h3>
+                            <p style="color: var(--text-dark); margin-bottom: 1.5rem; line-height: 1.8;">
+                                <strong>Issue #${result.issueNumber} created</strong><br><br>
+                                Your ${isRemovalRequest ? 'camera removal request' : 'submission'} has been received and will be reviewed soon.<br><br>
+                                Thank you for contributing to the database!
+                            </p>
+                            <a href="${result.issueUrl}" target="_blank" class="btn btn-primary" style="display: inline-flex; text-decoration: none; margin-bottom: 1rem;">
+                                <i class="fas fa-external-link-alt"></i> View Issue on GitHub
+                            </a>
+                            <button class="btn btn-secondary" onclick="closeSidebar()">
+                                <i class="fas fa-times"></i> Close
+                            </button>
+                        </div>
+                    `;
+                } else {
+                    throw new Error(result.error || 'Submission failed');
+                }
+            } catch (error) {
+                console.error('Submission error:', error);
+                
+                // Show error
+                document.getElementById('sidebarContent').innerHTML = `
+                    <div style="text-align: center; padding: 3rem 2rem;">
+                        <div style="font-size: 4rem; color: var(--danger); margin-bottom: 1rem;">❌</div>
+                        <h3 style="color: var(--danger); margin-bottom: 1rem;">Submission Failed</h3>
+                        <p style="color: var(--text-dark); margin-bottom: 1.5rem; line-height: 1.8;">
+                            There was an error submitting your ${isRemovalRequest ? 'removal request' : 'submission'}.<br><br>
+                            <strong>Error:</strong> ${error.message || 'Unknown error'}<br><br>
+                            Please try again or contact support.
+                        </p>
+                        <button class="btn btn-primary" onclick="location.reload()">
+                            <i class="fas fa-redo"></i> Try Again
+                        </button>
+                        <button class="btn btn-secondary" onclick="closeSidebar()" style="margin-top: 1rem;">
+                            <i class="fas fa-times"></i> Close
+                        </button>
+                    </div>
+                `;
+            }
         }
 
         // Update stats
