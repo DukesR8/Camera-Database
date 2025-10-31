@@ -1260,11 +1260,28 @@ ${JSON.stringify(selectedCamera, null, 2)}
             const type = selectedCamera.type || 'Unknown';
             const speed = selectedCamera.speed_limit || 'Unknown';
             const direction = selectedCamera.direction || 'Unknown';
+            const cameraId = selectedCamera.id || '';
 
-            const title = `[ISSUE] ${issueType.replace('_', ' ')} - ${street}, ${city}`;
+            const title = `[${issueType === 'camera_removed' ? 'REMOVED' : 'ISSUE'}] ${issueType.replace('_', ' ')} - ${street}, ${city}`;
 
-            // Create detailed issue report
-            const issueReport = `## Camera Issue Report
+            // Determine which template to use
+            const isRemoval = issueType === 'camera_removed';
+            const labels = isRemoval ? ['camera-removed', 'community-report'] : ['camera-edit', 'community-report'];
+            const template = isRemoval ? 'camera-removed.yml' : 'camera-edit.yml';
+            
+            if (isRemoval) {
+                // Camera removal - use removal-specific format
+                createGitHubIssue(title, labels, {
+                    camera_id: cameraId,
+                    coordinates: `${lat}, ${lon}`,
+                    camera_description: `${type.toUpperCase()} camera at ${street}, ${city}, ${state}`,
+                    removal_reason: description,
+                    details: `Camera ID: ${cameraId}\nType: ${type}\nSpeed: ${speed}\nDirection: ${direction}\nReported by: ${contact || 'Anonymous'}`,
+                    contact: contact
+                }, template);
+            } else {
+                // Other issue types - use edit format
+                const issueReport = `## Camera Issue Report
 
 ### Issue Type
 **${issueType.replace('_', ' ').toUpperCase()}**
@@ -1293,17 +1310,13 @@ ${JSON.stringify(selectedCamera, null, 2)}
 ---
 **Date:** ${new Date().toISOString()}`;
 
-            // Determine which template to use
-            const isRemoval = issueType === 'camera_removed';
-            const labels = isRemoval ? ['camera-removed', 'community-report'] : ['camera-edit', 'community-report'];
-            const template = isRemoval ? 'camera-removed.yml' : 'camera-edit.yml';
-            
-            createGitHubIssue(title, labels, {
-                camera_info: issueReport,
-                coordinates: `${lat}, ${lon}`,
-                issue_type: issueType.replace('_', ' '),
-                correction: description
-            }, template);
+                createGitHubIssue(title, labels, {
+                    camera_info: issueReport,
+                    coordinates: `${lat}, ${lon}`,
+                    issue_type: issueType.replace('_', ' '),
+                    correction: description
+                }, template);
+            }
         }
 
         // GitHub Configuration
@@ -1380,6 +1393,23 @@ ${formData.notes || 'None'}
 ### Your Contact (Optional)
 ${formData.contact || 'Anonymous'}
 `);
+            } else if (formData && formData.removal_reason) {
+                // Camera removal - format for camera-removed.yml template
+                issueBody = encodeURIComponent(`### Camera ID (if known)
+${formData.camera_id || 'Not available'}
+
+### Coordinates
+${formData.coordinates}
+
+### Camera Description
+${formData.camera_description}
+
+### Why is this camera no longer valid?
+${formData.removal_reason}
+
+### Additional Details
+${formData.details || 'None'}
+`);
             } else if (formData && formData.camera_info) {
                 // Edit or issue report
                 issueBody = encodeURIComponent(`### Camera Location/Description
@@ -1405,15 +1435,19 @@ ${formData.correction || formData.details || 'See description'}
             }
             
             // Show instructions to user
+            const isRemovalRequest = formData && formData.removal_reason;
+            const emoji = isRemovalRequest ? '🗑️' : '📋';
+            const actionText = isRemovalRequest ? 'Camera Removal Request' : 'GitHub Submission';
+            
             document.getElementById('sidebarContent').innerHTML = `
                 <div style="text-align: center; padding: 3rem 2rem;">
-                    <div style="font-size: 4rem; color: var(--primary); margin-bottom: 1rem;">📋</div>
-                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Opening GitHub Submission</h3>
+                    <div style="font-size: 4rem; color: var(--primary); margin-bottom: 1rem;">${emoji}</div>
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Opening ${actionText}</h3>
                     <p style="color: var(--text-light); margin-bottom: 1.5rem; line-height: 1.8;">
                         <strong>You're being redirected to GitHub</strong><br>
                         All your data is pre-filled!<br><br>
                         Just click "Submit new issue" (no login required!)<br><br>
-                        A Pull Request will be automatically created for review.
+                        ${isRemovalRequest ? 'The camera will be reviewed and removed from the database.' : 'A Pull Request will be automatically created for review.'}
                     </p>
                     <a href="${githubUrl}" target="_blank" class="btn btn-primary" style="display: inline-flex; text-decoration: none;">
                         <i class="fas fa-external-link-alt"></i> Submit to GitHub
