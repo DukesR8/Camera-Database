@@ -70,7 +70,7 @@ def rebuild_bundles():
     }
     
     # Write unsorted bundle
-    bundle_path = 'camera_database/Camera_Database_Bundle.json'
+    bundle_path = 'Camera_Database_Bundle.json'
     print(f"\n💾 Writing {bundle_path}...")
     with open(bundle_path, 'w', encoding='utf-8') as f:
         json.dump(bundle, f, indent=2, ensure_ascii=False)
@@ -101,7 +101,7 @@ def rebuild_bundles():
     }
     
     # Write sorted bundle
-    sorted_bundle_path = 'camera_database/Camera_Database_Bundle_Sorted.json'
+    sorted_bundle_path = 'Camera_Database_Bundle_Sorted.json'
     print(f"💾 Writing {sorted_bundle_path}...")
     with open(sorted_bundle_path, 'w', encoding='utf-8') as f:
         json.dump(bundle_sorted, f, indent=2, ensure_ascii=False)
