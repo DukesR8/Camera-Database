@@ -1,0 +1,158 @@
+name: Auto Remove Camera
+
+on:
+  issues:
+    types: [labeled, closed]
+
+jobs:
+  remove-camera:
+    # Only run if issue has 'camera-removed' label AND 'approved' label or is closed
+    if: |
+      contains(github.event.issue.labels.*.name, 'camera-removed') && 
+      (contains(github.event.issue.labels.*.name, 'approved') || github.event.action == 'closed')
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Parse issue body
+        id: parse
+        run: |
+          # Extract Camera ID
+          CAMERA_ID=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=Camera ID \(if known\)\s{0,10})CAM_[^\s]+' | head -1)
+          
+          # Extract coordinates
+          COORDS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=Coordinates\s{0,10})[0-9\.\-]+,\s*[0-9\.\-]+' | head -1)
+          
+          echo "camera_id=$CAMERA_ID" >> $GITHUB_OUTPUT
+          echo "coordinates=$COORDS" >> $GITHUB_OUTPUT
+          
+          echo "Found Camera ID: $CAMERA_ID"
+          echo "Found Coordinates: $COORDS"
+          
+      - name: Remove camera from database
+        id: remove
+        run: |
+          python3 - <<'EOF'
+          import json
+          import glob
+          import os
+          import sys
+          
+          camera_id = "${{ steps.parse.outputs.camera_id }}"
+          coords_str = "${{ steps.parse.outputs.coordinates }}"
+          
+          print(f"🔍 Searching for camera: {camera_id}")
+          print(f"   Coordinates: {coords_str}")
+          
+          # Find all regional database files
+          regional_files = glob.glob('Camera_Database_*.json')
+          regional_files = [f for f in regional_files if 'Bundle' not in f]
+          
+          print(f"📁 Found {len(regional_files)} regional files")
+          
+          found = False
+          removed_from = None
+          
+          # Search for camera by ID
+          for regional_file in regional_files:
+              try:
+                  with open(regional_file, 'r', encoding='utf-8') as f:
+                      data = json.load(f)
+                  
+                  if 'feeds' in data and len(data['feeds']) > 0:
+                      feed = data['feeds'][0]
+                      if 'staticAlerts' in feed:
+                          cameras = feed['staticAlerts']
+                          
+                          # Find camera by ID
+                          for idx, camera in enumerate(cameras):
+                              if camera.get('id') == camera_id:
+                                  print(f"✅ Found camera in {regional_file}")
+                                  print(f"   Type: {camera.get('type')}")
+                                  print(f"   Location: {camera.get('latitude')}, {camera.get('longitude')}")
+                                  
+                                  # Remove camera
+                                  cameras.pop(idx)
+                                  
+                                  # Write back
+                                  with open(regional_file, 'w', encoding='utf-8') as f:
+                                      json.dump(data, f, indent=2, ensure_ascii=False)
+                                  
+                                  found = True
+                                  removed_from = regional_file
+                                  break
+                  
+                  if found:
+                      break
+                      
+              except Exception as e:
+                  print(f"⚠️  Error processing {regional_file}: {e}")
+          
+          if not found:
+              print(f"❌ Camera {camera_id} not found in any regional file!")
+              sys.exit(1)
+          
+          print(f"✅ Camera removed from {removed_from}")
+          
+          # Save info for next step
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"removed_from={removed_from}\n")
+          EOF
+          
+      - name: Rebuild camera bundles
+        run: |
+          python3 rebuild_camera_bundles.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add Camera_Database_*.json
+          
+          git commit -m "🗑️ Auto-remove camera ${{ steps.parse.outputs.camera_id }} - Issue #${{ github.event.issue.number }}"
+          
+          git push
+          
+      - name: Comment on issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `✅ **Camera Removed Successfully!**
+              
+              🗑️ **Camera ID**: \`${{ steps.parse.outputs.camera_id }}\`
+              📍 **Coordinates**: ${{ steps.parse.outputs.coordinates }}
+              📁 **Removed from**: ${{ steps.remove.outputs.removed_from }}
+              
+              The camera has been automatically removed from the database and all bundles have been rebuilt.
+              
+              Changes committed: ${context.sha}
+              
+              Thank you for contributing to the database! 🎉`
+            });
+            
+      - name: Add completion label
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['completed']
+            });
+
