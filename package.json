@@ -1,0 +1,9 @@
+{
+  "name": "dukes-camera-database",
+  "version": "1.0.0",
+  "description": "Anonymous camera submission system for Dukes R8",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
+
