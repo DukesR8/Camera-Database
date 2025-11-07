@@ -3,7 +3,7 @@
   "source": "Waze",
   "fetched_at": "2025-11-07 00:22:17 UTC",
   "license": "Waze Data",
-  "accuracy": "Full geometry - Waze crowdsourced data",
+  "accuracy": "Full geometry -crowdsourced data",
   "bounds": {
     "min_lat": 56.637512,
     "max_lat": 56.797704,
