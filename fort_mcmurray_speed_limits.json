@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "source": "Waze",
+  "source": "crowdsourced data",
   "fetched_at": "2025-11-07 00:22:17 UTC",
-  "license": "Waze Data",
+  "license": "crowdsourced data",
   "accuracy": "Full geometry -crowdsourced data",
   "bounds": {
     "min_lat": 56.637512,
