@@ -1,0 +1,1361 @@
+[
+  {
+    "id": "ffd7ca7a3c79cd9b",
+    "latitude": 48.435986,
+    "longitude": -122.3354557,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b83accb67005ca42",
+    "latitude": 48.2936897,
+    "longitude": -122.656069,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "90",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "629d6197a2892f20",
+    "latitude": 48.0935616,
+    "longitude": -121.9615109,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "353",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d28deda05d4e78b3",
+    "latitude": 48.0232981,
+    "longitude": -122.0526008,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "175",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b30b295a27efa43d",
+    "latitude": 48.2409533,
+    "longitude": -122.3743635,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "60",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c754d9d1c94177d6",
+    "latitude": 48.7700353,
+    "longitude": -122.4594264,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "90",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5500829105900f6c",
+    "latitude": 48.7845269,
+    "longitude": -122.4803664,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "65",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "944f616c4d0f68f7",
+    "latitude": 48.1517686,
+    "longitude": -122.1138687,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "010203f1136a321d",
+    "latitude": 48.0535576,
+    "longitude": -122.1129117,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "557aec0d4dc42881",
+    "latitude": 48.1515667,
+    "longitude": -122.1194046,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "65",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0d29a86c1942a907",
+    "latitude": 48.1461799,
+    "longitude": -122.1616535,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "eeda9caf8bd3a906",
+    "latitude": 48.1456877,
+    "longitude": -122.1618733,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "145",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "dfa936fd20f8f146",
+    "latitude": 48.1326308,
+    "longitude": -122.1622553,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3e9f4f8855e9fb7f",
+    "latitude": 48.151778,
+    "longitude": -122.112844,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "275",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "07851e5a5bef3e2e",
+    "latitude": 48.0604124,
+    "longitude": -122.1770782,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "140",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8ecd7cd907ca24ab",
+    "latitude": 48.1151082,
+    "longitude": -122.1805124,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "315",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "bc72f6a86713deb9",
+    "latitude": 48.0873978,
+    "longitude": -122.1732737,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "315",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "49777c1d204731fe",
+    "latitude": 48.0737042,
+    "longitude": -122.1765027,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "43296360501d5c45",
+    "latitude": 48.0333144,
+    "longitude": -122.1105485,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "145",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8a990c2bfa95387b",
+    "latitude": 48.0797535,
+    "longitude": -122.1746573,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "345",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f3b800099c741062",
+    "latitude": 48.0537522,
+    "longitude": -122.1595573,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "215",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "eeb062a63ad89d9a",
+    "latitude": 48.0516757,
+    "longitude": -122.1674538,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: City of Marysville",
+    "direction": "70",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1e6809b998022e14",
+    "latitude": 48.0006896,
+    "longitude": -122.1129295,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "285",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e9f16a4dccca11cb",
+    "latitude": 48.0118071,
+    "longitude": -122.0618308,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "300",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "dbe6cc9a3e49aba3",
+    "latitude": 48.1511122,
+    "longitude": -122.1134797,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "145",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "86126bbeb9198e48",
+    "latitude": 48.1461854,
+    "longitude": -122.1828018,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "330",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "2193c5142ebd22e4",
+    "latitude": 48.130055,
+    "longitude": -122.1835167,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "165",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d6fbbaa5487cab89",
+    "latitude": 48.1455848,
+    "longitude": -122.1832315,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "140",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "933397834bd87b89",
+    "latitude": 48.0745296,
+    "longitude": -122.1402444,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "245",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b69fb4612ec7f9de",
+    "latitude": 48.0742761,
+    "longitude": -122.1386961,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "55",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a9863644c0663ac7",
+    "latitude": 48.0716507,
+    "longitude": -122.1403668,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "165",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ef9c3fc92052c337",
+    "latitude": 48.1487332,
+    "longitude": -122.140779,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "355",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9101290bf0fd62fd",
+    "latitude": 48.1511071,
+    "longitude": -122.1407316,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "150",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "86f525986979ee6e",
+    "latitude": 48.7716026,
+    "longitude": -122.460912,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "130",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "58877ae948a5c26f",
+    "latitude": 48.7713421,
+    "longitude": -122.4595004,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "180",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c38d99cc79500fe2",
+    "latitude": 48.0772909,
+    "longitude": -122.1873894,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "200",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "52cdd63657046576",
+    "latitude": 48.1525544,
+    "longitude": -122.1853573,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6cbe286108ce0e3c",
+    "latitude": 48.1530536,
+    "longitude": -122.1938212,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "150",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "14c45a73163c0405",
+    "latitude": 48.1522317,
+    "longitude": -122.1858238,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "70;50",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3735423b164eaa48",
+    "latitude": 48.1513373,
+    "longitude": -122.1936449,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c8eb460b12d07e0c",
+    "latitude": 48.1525541,
+    "longitude": -122.1854035,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "250",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "2b32c82ebbd5ef13",
+    "latitude": 48.0758203,
+    "longitude": -122.1826398,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "22ecfed651fb4c79",
+    "latitude": 48.7849736,
+    "longitude": -122.4786145,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "210",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f12ecbb4f6306409",
+    "latitude": 48.2390638,
+    "longitude": -122.3470969,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "314",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9b84af27cc645371",
+    "latitude": 48.2330526,
+    "longitude": -122.3300608,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "343",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "dd6c126b39062dd5",
+    "latitude": 48.7847753,
+    "longitude": -122.4813609,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "130",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "796ea256b58da704",
+    "latitude": 48.7851751,
+    "longitude": -122.4815004,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "65",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7c341c531d7fb63d",
+    "latitude": 48.0835872,
+    "longitude": -121.9837632,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "70",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9febafef3c6ee524",
+    "latitude": 48.1881063,
+    "longitude": -122.1983362,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "235",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c7bea1a17a8ede83",
+    "latitude": 48.1878299,
+    "longitude": -122.2007984,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "55",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b01a9efd6737950d",
+    "latitude": 48.5078707,
+    "longitude": -122.2441094,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "130",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a734fa6571832d02",
+    "latitude": 48.5073668,
+    "longitude": -122.2575919,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "60",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7ce74acddebd3ec3",
+    "latitude": 48.051759,
+    "longitude": -122.1828754,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "50",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a4ec63a24d12559e",
+    "latitude": 48.0519335,
+    "longitude": -122.1864923,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "80",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "dc578c45ddd51192",
+    "latitude": 48.0519794,
+    "longitude": -122.1807528,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7364462322d9f49b",
+    "latitude": 48.498535,
+    "longitude": -122.2466905,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "50",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "48d64d05c0c97a50",
+    "latitude": 48.2065128,
+    "longitude": -122.1299363,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "215;300",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e5209a7038d3086c",
+    "latitude": 48.001708,
+    "longitude": -122.2008649,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "310",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "63a061762623f141",
+    "latitude": 48.2371723,
+    "longitude": -114.333169,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "200",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b15de2ec710e32dd",
+    "latitude": 48.237114,
+    "longitude": -114.3318394,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "160",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "111c61be2da5f738",
+    "latitude": 48.4357361,
+    "longitude": -122.3316128,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "60",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f8342398e1173532",
+    "latitude": 48.3993854,
+    "longitude": -122.3286199,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "65",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c28b12101ad97e20",
+    "latitude": 48.3994928,
+    "longitude": -122.3313073,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "adf791891579cd96",
+    "latitude": 48.4435668,
+    "longitude": -122.3352522,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "310",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3d19a1ab5e0311aa",
+    "latitude": 48.4435748,
+    "longitude": -122.3356472,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "125",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b5249bb108814555",
+    "latitude": 48.006021,
+    "longitude": -118.2703679,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": null,
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6ae8d1f7493a6139",
+    "latitude": 48.0012958,
+    "longitude": -117.0468133,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Spokane County Sheriff's Office; Manufacturer: Flock Safety",
+    "direction": "250",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "226bc85fe535bdb7",
+    "latitude": 48.0488088,
+    "longitude": -122.1849051,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "5;135",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7f2a333cb313da68",
+    "latitude": 48.1407737,
+    "longitude": -122.1874285,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "dc74768a06d34e64",
+    "latitude": 48.2353597,
+    "longitude": -114.3330857,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's",
+    "direction": "330",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "00da03eb80943824",
+    "latitude": 48.2354328,
+    "longitude": -114.3318527,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's",
+    "direction": "30",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "729608fdf50630b2",
+    "latitude": 48.1005703,
+    "longitude": -122.191971,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "560c14da56a0ff58",
+    "latitude": 48.0963733,
+    "longitude": -122.1906927,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "160",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6a90b10a2e116eed",
+    "latitude": 48.0966246,
+    "longitude": -122.1911821,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "105",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8f5c88f55d7a6f4b",
+    "latitude": 48.0999475,
+    "longitude": -122.1823737,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "60",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5199414c9cdf9612",
+    "latitude": 48.1339211,
+    "longitude": -122.173661,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "140",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c4ab52b805c8d698",
+    "latitude": 48.1339476,
+    "longitude": -122.1753134,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "130",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "43f77ad4dcc6a958",
+    "latitude": 48.0857293,
+    "longitude": -122.1620586,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "90",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ad70a09c51c12e4c",
+    "latitude": 48.0858165,
+    "longitude": -122.1624654,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7667a084f160a4b7",
+    "latitude": 48.0760504,
+    "longitude": -122.1926792,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d57708081768b47c",
+    "latitude": 48.1063409,
+    "longitude": -123.3998662,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "325-35",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "087dde2692f9659b",
+    "latitude": 48.08545,
+    "longitude": -122.1940004,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "-40;75",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "383ba99450b1f0a3",
+    "latitude": 48.5257921,
+    "longitude": -122.226139,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "25",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b4cfa654198672c2",
+    "latitude": 48.509574,
+    "longitude": -122.2259265,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "150",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b1828863d606d6e6",
+    "latitude": 48.0770518,
+    "longitude": -123.1318234,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "125",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e5dff9e46556ae7f",
+    "latitude": 48.0771414,
+    "longitude": -123.129738,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a246410906195ca2",
+    "latitude": 48.200175,
+    "longitude": -122.1200071,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "50",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "70d3bc178ec4f90c",
+    "latitude": 48.1499351,
+    "longitude": -122.1851282,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "70",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "526f88bae6898709",
+    "latitude": 48.1771294,
+    "longitude": -122.1926462,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "285",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3d30f52e69327b54",
+    "latitude": 48.1760162,
+    "longitude": -122.1920915,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "135",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "bebfee2a4340f652",
+    "latitude": 48.1845584,
+    "longitude": -122.11826,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "180",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d3b99102a9598d78",
+    "latitude": 48.0529122,
+    "longitude": -122.1768806,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "120",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ffa7eea195654bf8",
+    "latitude": 48.6764331,
+    "longitude": -122.4884955,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "140",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "68b2b38da3b299db",
+    "latitude": 49.2599834,
+    "longitude": -123.2493634,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "350",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ec4dc3f89c37868d",
+    "latitude": 49.2597101,
+    "longitude": -123.2501356,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5748085eb7c731c1",
+    "latitude": 48.2935667,
+    "longitude": -122.6559354,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "180",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "12aabdb2f0233731",
+    "latitude": 48.2941533,
+    "longitude": -122.6548299,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "190",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ad37590fe20c56d2",
+    "latitude": 48.2928868,
+    "longitude": -122.6564432,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "75",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6de29ac367a5c342",
+    "latitude": 48.1515471,
+    "longitude": -122.1858939,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "256",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b946910128d93360",
+    "latitude": 48.1514398,
+    "longitude": -122.1857968,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "181",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9258fcda715d2fcb",
+    "latitude": 48.2400743,
+    "longitude": -122.3573272,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9555bf57f7420d8a",
+    "latitude": 48.2399233,
+    "longitude": -122.3309716,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "257",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "79cde773447347ff",
+    "latitude": 48.0744498,
+    "longitude": -122.1825898,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "-90",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "700fc81366b2dce5",
+    "latitude": 48.1878015,
+    "longitude": -122.110679,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "31",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "46179d11f4e5b1bb",
+    "latitude": 48.1879104,
+    "longitude": -122.1137047,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "225",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ce204707a5e61a9d",
+    "latitude": 48.1486461,
+    "longitude": -122.108548,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "160",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "911a7969bb3da91f",
+    "latitude": 48.0932264,
+    "longitude": -122.1622721,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6aaf57360e744485",
+    "latitude": 48.2395561,
+    "longitude": -122.3443548,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "144",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0d043778970bcd40",
+    "latitude": 48.2402106,
+    "longitude": -122.3444241,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "313",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f677bc11b576c1d0",
+    "latitude": 48.2415549,
+    "longitude": -122.3301887,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "181",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "06bf526e2a5fe209",
+    "latitude": 48.4482991,
+    "longitude": -122.3318326,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "33",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "45cec168444cd63b",
+    "latitude": 48.4484695,
+    "longitude": -122.3317884,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "157",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "128ec5821e36da74",
+    "latitude": 48.0865914,
+    "longitude": -121.9884324,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "68",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8e94eb773c2e85fb",
+    "latitude": 48.2595681,
+    "longitude": -122.3250969,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "189",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "85e4d5de23b4f07f",
+    "latitude": 48.04683,
+    "longitude": -122.1776905,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "11",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "88294f8fbd899a65",
+    "latitude": 48.0773961,
+    "longitude": -123.131897,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "60",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5e8311033b3e7ae0",
+    "latitude": 48.4481997,
+    "longitude": -122.3367746,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "266",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "704433ed241824fb",
+    "latitude": 48.4489974,
+    "longitude": -122.338328,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "276",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "267b5caf39697dfd",
+    "latitude": 48.447561,
+    "longitude": -122.3367825,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "242",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "bebd10da6e802985",
+    "latitude": 48.437384,
+    "longitude": -122.3435537,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "136-181",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3652a40c9320b11d",
+    "latitude": 48.4365875,
+    "longitude": -122.3432575,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "243-288",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a0972f9f6671b53f",
+    "latitude": 48.4361133,
+    "longitude": -122.3444723,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "36-81",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "45e89c3a40b90055",
+    "latitude": 48.0908615,
+    "longitude": -122.1929816,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "85;265",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3ee995177ce3488f",
+    "latitude": 49.2684538,
+    "longitude": -123.2503175,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "223",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5dad52add5fc448a",
+    "latitude": 49.2687451,
+    "longitude": -123.2504401,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "149",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "cfde0e615d655307",
+    "latitude": 49.2649545,
+    "longitude": -123.2448507,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "154",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5eab004dd05f388d",
+    "latitude": 49.2687591,
+    "longitude": -123.2504463,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b8a45d4658ca94ab",
+    "latitude": 49.2662737,
+    "longitude": -123.2583836,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "145",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "80a109406285012e",
+    "latitude": 49.2661695,
+    "longitude": -123.2489788,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "17e2f3a4b82a207b",
+    "latitude": 49.2662588,
+    "longitude": -123.2490727,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "142",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b48dc79d05587eca",
+    "latitude": 49.2663627,
+    "longitude": -123.2581285,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e02438bd9467f83b",
+    "latitude": 48.2002667,
+    "longitude": -122.1202595,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "248",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "05305c66fda4cb48",
+    "latitude": 48.0776116,
+    "longitude": -123.129878,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "293",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0037cc64174089d8",
+    "latitude": 48.2961362,
+    "longitude": -118.2054555,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "97df3453dc49eb37",
+    "latitude": 48.1762109,
+    "longitude": -122.1920937,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "168",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "211a3de62a797d65",
+    "latitude": 48.1767638,
+    "longitude": -122.1924624,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "326",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "306f6863c14ffb24",
+    "latitude": 49.1593048,
+    "longitude": -123.9447856,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "122",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8486873489a750ee",
+    "latitude": 48.2351809,
+    "longitude": -122.1880417,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "63",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5f8cca5f03d167d7",
+    "latitude": 49.2657312,
+    "longitude": -123.2505492,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: University of British Columbia; Manufacturer: Genetec",
+    "direction": "120",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "c2d0f1857b62ff1f",
+    "latitude": 48.0799872,
+    "longitude": -121.9561883,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "232",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "75c329acccb93489",
+    "latitude": 48.0919037,
+    "longitude": -121.9623608,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "159",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1555e71520153baa",
+    "latitude": 48.1037597,
+    "longitude": -122.7915269,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "359",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "49f34b0ff4172a1b",
+    "latitude": 48.1037597,
+    "longitude": -122.7915269,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "178",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "901b63402345999a",
+    "latitude": 48.0804936,
+    "longitude": -122.1858897,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "260",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e28850285b6dab8d",
+    "latitude": 48.0804921,
+    "longitude": -122.1858822,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "191",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "96c1dc37594074eb",
+    "latitude": 48.0810147,
+    "longitude": -122.1858789,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "270",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0c54ec1a2e8ea1a2",
+    "latitude": 48.0905748,
+    "longitude": -121.9803863,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "139",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "49f2875a67c4f06d",
+    "latitude": 48.5033646,
+    "longitude": -122.2299749,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "225",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9b08ae5986b9c84e",
+    "latitude": 48.503331,
+    "longitude": -122.2213138,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "238",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8f296c0881ac0054",
+    "latitude": 48.2462804,
+    "longitude": -122.3255872,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "276",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "9c9f8483f299f5d0",
+    "latitude": 48.145012,
+    "longitude": -122.1913364,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "91;256",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]

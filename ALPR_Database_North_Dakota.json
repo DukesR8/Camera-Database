@@ -1,0 +1,227 @@
+[
+  {
+    "id": "99f7e0dbf1ad40e3",
+    "latitude": 47.8906604,
+    "longitude": -97.0732076,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "338-23",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1b37c5329af71e1b",
+    "latitude": 48.2040699,
+    "longitude": -101.311343,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "0",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d3bb5dc212c28083",
+    "latitude": 48.2041997,
+    "longitude": -101.3120515,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "270",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "66528f8300900a0f",
+    "latitude": 48.2057999,
+    "longitude": -101.3153776,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "270",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a1b5c24540e0d322",
+    "latitude": 48.2064463,
+    "longitude": -101.3154528,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "180",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8da28b1a0231b851",
+    "latitude": 46.8320714,
+    "longitude": -100.8122333,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "280",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f61b6df5c3330a0d",
+    "latitude": 46.83129,
+    "longitude": -100.8150474,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "70",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0e5eeff18124e2ff",
+    "latitude": 46.8313854,
+    "longitude": -100.8122613,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "280",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a01d729bf90b7100",
+    "latitude": 47.8882854,
+    "longitude": -97.0842919,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "65",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "57ec36ca630b4663",
+    "latitude": 46.7952928,
+    "longitude": -100.784824,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "330",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "10214500a3d21443",
+    "latitude": 46.7969234,
+    "longitude": -100.7821028,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "255",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b32f912e84552597",
+    "latitude": 47.8875924,
+    "longitude": -97.0842506,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "343",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "87ede6c0975d2f40",
+    "latitude": 47.8869764,
+    "longitude": -97.08424,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "230",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8c4bde3dc8c0bd2c",
+    "latitude": 47.891586,
+    "longitude": -97.074173,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "123-168",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "17edb3eac76f08d2",
+    "latitude": 47.8906084,
+    "longitude": -97.0693673,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "220-265",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "fe909409f284261b",
+    "latitude": 47.9220294,
+    "longitude": -97.0674271,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "241-291",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "016c72595b7c8d91",
+    "latitude": 47.9213056,
+    "longitude": -97.0670694,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "161-211",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8437af4f8656558e",
+    "latitude": 47.9213068,
+    "longitude": -97.0671186,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "143-193",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "516eb5538e3d196f",
+    "latitude": 47.9212571,
+    "longitude": -97.0672357,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "352-42",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a11158eef4deb7e3",
+    "latitude": 47.9212517,
+    "longitude": -97.0673269,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Genetec",
+    "direction": "331-21",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f376138745bc2072",
+    "latitude": 45.3118742,
+    "longitude": -97.0472079,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "171",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d6d61428c233d363",
+    "latitude": 46.7968489,
+    "longitude": -100.7873194,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "131",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a03d4b618f611c26",
+    "latitude": 47.8954401,
+    "longitude": -97.0723831,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "270",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8cddd6866ef1d3d7",
+    "latitude": 46.9059779,
+    "longitude": -97.0576913,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "240",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "2c1ca13facb6494e",
+    "latitude": 46.905665,
+    "longitude": -97.0530112,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "150",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]

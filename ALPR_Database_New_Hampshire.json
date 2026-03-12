@@ -1,0 +1,155 @@
+[
+  {
+    "id": "cf54c0de63f0084e",
+    "latitude": 43.0851792,
+    "longitude": -71.473617,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "355;175",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7a2f4acbc7e5e5c2",
+    "latitude": 43.0851603,
+    "longitude": -71.4737755,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "355;175",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1be2dab55fe53577",
+    "latitude": 43.085255,
+    "longitude": -71.4742728,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "920cdf761b37a3b6",
+    "latitude": 43.0852622,
+    "longitude": -71.4741872,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "67d6e7c4c8656d75",
+    "latitude": 43.0852699,
+    "longitude": -71.4741248,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f3b92931331e1c06",
+    "latitude": 43.0852803,
+    "longitude": -71.4740497,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "0823d93a15c4fe98",
+    "latitude": 43.0852891,
+    "longitude": -71.4739746,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "cae9c011ed309302",
+    "latitude": 43.0852962,
+    "longitude": -71.4739129,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "335",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "fe50e66dc6e4a684",
+    "latitude": 43.0854966,
+    "longitude": -71.4735805,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "4fd76cf7b645a46d",
+    "latitude": 43.0855057,
+    "longitude": -71.4735221,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "276b578a07640676",
+    "latitude": 43.0855151,
+    "longitude": -71.4734459,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1fe7cf7bbb307470",
+    "latitude": 43.085523,
+    "longitude": -71.4733682,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "4b1b571a070e893b",
+    "latitude": 43.0855312,
+    "longitude": -71.4733077,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a721b583b2ddaee9",
+    "latitude": 43.0855409,
+    "longitude": -71.473233,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: New Hampshire Bureau of Turnpikes",
+    "direction": "155",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d67359c744132354",
+    "latitude": 43.0134801,
+    "longitude": -71.0060348,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Exeter High School",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ce53fd588e343f62",
+    "latitude": 43.0455691,
+    "longitude": -71.4599109,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "0;0;0;0;0;0;0;0",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5a8bd8fbdeb19eed",
+    "latitude": 43.0455,
+    "longitude": -71.4612122,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "0",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "711b6e5e7b27a3ac",
+    "latitude": 39.7958668,
+    "longitude": -79.5410337,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "31",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ac83fadffc1ad2e8",
+    "latitude": 39.797018,
+    "longitude": -79.5433385,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "36",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "49a73b3bb5aa3701",
+    "latitude": 39.6492537,
+    "longitude": -79.8952936,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Simon Property Group; Manufacturer: Flock Safety",
+    "direction": "315-360",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6d40f3b3b3e81074",
+    "latitude": 39.9042157,
+    "longitude": -79.7519834,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "305-350",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1165b74a8229151d",
+    "latitude": 39.6767367,
+    "longitude": -79.9596412,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "87;187",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "5d4f04f2d5dc418f",
+    "latitude": 39.6496169,
+    "longitude": -79.8946471,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "9",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "1981e169012f6299",
+    "latitude": 39.6260212,
+    "longitude": -79.9936647,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "167",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]

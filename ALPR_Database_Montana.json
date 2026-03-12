@@ -1,0 +1,56 @@
+[
+  {
+    "id": "3808e79f476ed636",
+    "latitude": 45.7554595,
+    "longitude": -108.581118,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "18a602a3903f96c2",
+    "latitude": 45.7555164,
+    "longitude": -108.5836274,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Lowe's; Manufacturer: Flock Safety",
+    "direction": "340",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f9ab5b2d0953772e",
+    "latitude": 45.7535246,
+    "longitude": -108.5837964,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "101",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "8d71dd71f0bec867",
+    "latitude": 45.7543469,
+    "longitude": -108.583639,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "308",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "92c1b1474ba77968",
+    "latitude": 45.7535028,
+    "longitude": -108.581425,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "245",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "e4524261baefe7da",
+    "latitude": 45.7543315,
+    "longitude": -108.5815704,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: The Home Depot; Manufacturer: Flock Safety",
+    "direction": "296",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]

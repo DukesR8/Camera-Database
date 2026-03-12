@@ -1,0 +1,146 @@
+[
+  {
+    "id": "5b5e8dbd404a85c4",
+    "latitude": 42.0732486,
+    "longitude": -80.1827144,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "53",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "3666167f6b204b40",
+    "latitude": 42.0565999,
+    "longitude": -80.0862621,
+    "type": "ALPR_CAMERA",
+    "description": null,
+    "direction": "45",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "67bc7c2028ecac11",
+    "latitude": 46.0690272,
+    "longitude": -81.7683989,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: United Chiefs and Councils of Manitoulin Anishnaabe Police Service",
+    "direction": null,
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "7968902c269e283d",
+    "latitude": 46.5224786,
+    "longitude": -80.9833416,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "20",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "adac59348526835f",
+    "latitude": 46.5019404,
+    "longitude": -80.986984,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "15",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "f6d0d88458701b69",
+    "latitude": 42.0570813,
+    "longitude": -80.0868026,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "52",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "47a032efa9015c57",
+    "latitude": 42.0737183,
+    "longitude": -80.1794595,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "306",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "bd6b8b21ae16833e",
+    "latitude": 42.0559124,
+    "longitude": -80.0854515,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "26",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "6a4997ffd06896b2",
+    "latitude": 42.0524977,
+    "longitude": -80.0831461,
+    "type": "ALPR_CAMERA",
+    "description": "Manufacturer: Flock Safety",
+    "direction": "313;228",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d3c0ddd0e9a2b6f5",
+    "latitude": 46.5372318,
+    "longitude": -80.9071181,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "0",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "d588ac8fc916450f",
+    "latitude": 46.5220462,
+    "longitude": -80.9443441,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "285",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "bb05560edd2bea6e",
+    "latitude": 46.5219035,
+    "longitude": -80.9441653,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "200",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "b46418b8db36158e",
+    "latitude": 46.5371639,
+    "longitude": -80.9076462,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "255",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "4cb4680a9f28c1c9",
+    "latitude": 46.5369271,
+    "longitude": -80.9076958,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "185",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "ebcd58f234266bb4",
+    "latitude": 46.5220458,
+    "longitude": -80.9438466,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "105",
+    "timestamp": "2026-03-12T02:09:56Z"
+  },
+  {
+    "id": "a89b2c4ca253b203",
+    "latitude": 46.5222145,
+    "longitude": -80.9441461,
+    "type": "ALPR_CAMERA",
+    "description": "Operator: Greater Sudbury Police Service; Manufacturer: Dahua Technology",
+    "direction": "20",
+    "timestamp": "2026-03-12T02:09:56Z"
+  }
+]
