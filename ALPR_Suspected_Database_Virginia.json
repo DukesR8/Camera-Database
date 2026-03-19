@@ -1,0 +1,4556 @@
+[
+  {
+    "id": "a4782133ddaaac2f",
+    "latitude": 36.96697533,
+    "longitude": -76.29466257528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38eb1417fe5396d4",
+    "latitude": 36.821632,
+    "longitude": -76.3066068952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5e4c68002d66ae7f",
+    "latitude": 36.81560798080259,
+    "longitude": -77.48065604456552,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1aee0976f731819c",
+    "latitude": 36.85045498,
+    "longitude": -76.26624902528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3523d94c9ef3fc83",
+    "latitude": 36.73586628,
+    "longitude": -76.24192378528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "61eb097a34c24914",
+    "latitude": 36.83052201999999,
+    "longitude": -76.30167312528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e38b673df8d24fe3",
+    "latitude": 36.818265929999995,
+    "longitude": -76.46765178528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "23dd0fd6324a8947",
+    "latitude": 36.815421009999994,
+    "longitude": -76.34577955528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a5c09baa85ea1f1e",
+    "latitude": 36.861221119999996,
+    "longitude": -76.3988568052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d5fac91621a02340",
+    "latitude": 36.652816869999995,
+    "longitude": -76.83557234528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "78c574231e14656b",
+    "latitude": 36.82960911,
+    "longitude": -75.97394016528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db6e3dabfe14858d",
+    "latitude": 36.8314543,
+    "longitude": -76.28050017528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b00f38d30c290a10",
+    "latitude": 36.86374919,
+    "longitude": -76.27989473528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5dd222cfdd28b894",
+    "latitude": 36.88628796999999,
+    "longitude": -76.26101755528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ed64142d2e98285",
+    "latitude": 36.91484363,
+    "longitude": -76.2427521352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ed2ff1f3f10bd488",
+    "latitude": 36.85782993,
+    "longitude": -76.28794246528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2e859facc90233c1",
+    "latitude": 36.83203030000001,
+    "longitude": -76.34279772528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2083a92ee2e65989",
+    "latitude": 36.97904914,
+    "longitude": -79.6226011752841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4948b0d343c1547b",
+    "latitude": 36.82506643999999,
+    "longitude": -76.3400589352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1a9912845d120d4",
+    "latitude": 36.79633595000001,
+    "longitude": -76.33593377528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b98e0f42446ea7a",
+    "latitude": 36.772387159999994,
+    "longitude": -76.3419328052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "73a9de8b5a527b61",
+    "latitude": 36.850398829999996,
+    "longitude": -76.26101297528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c8481257f3854a8b",
+    "latitude": 36.84906882,
+    "longitude": -76.26883955528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dafe5e4c75056cf8",
+    "latitude": 36.93935621,
+    "longitude": -76.24595083528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "49904f93dd01a8a7",
+    "latitude": 36.84957243,
+    "longitude": -75.9807349552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b9150466d0b5cd0",
+    "latitude": 36.81824945,
+    "longitude": -76.3269167152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d23935befb32167",
+    "latitude": 36.786014519999995,
+    "longitude": -76.34178426528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2cf3c352e3e33074",
+    "latitude": 36.83187819,
+    "longitude": -76.28464480528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a11eb4dec0f5799b",
+    "latitude": 36.835307879999995,
+    "longitude": -76.21162140528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7be15942d6a4bef6",
+    "latitude": 36.73645853,
+    "longitude": -76.55496169528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c81fb0d45548dbe1",
+    "latitude": 36.86450663,
+    "longitude": -76.30315087528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8393f3899e7b7ab6",
+    "latitude": 36.811850320000005,
+    "longitude": -76.36053326528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f44330d3d3fd492",
+    "latitude": 36.82424777,
+    "longitude": -76.27089944528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a8fead1a03a97e68",
+    "latitude": 36.834809629999995,
+    "longitude": -76.32856262528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d8acadb8b6fff63",
+    "latitude": 36.86294947,
+    "longitude": -76.44661251528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a2230780c9edf188",
+    "latitude": 36.85039960000001,
+    "longitude": -76.25918858528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "448c651481616988",
+    "latitude": 36.72878267000001,
+    "longitude": -76.5854389552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "44b042dbaa0da12c",
+    "latitude": 36.87678038,
+    "longitude": -76.2528800652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c456c06096f5fa99",
+    "latitude": 36.87759258999999,
+    "longitude": -76.2646279252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "16dff064deda7911",
+    "latitude": 36.875389469999995,
+    "longitude": -76.4168727152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7e2350fd05e36d92",
+    "latitude": 36.84841064999999,
+    "longitude": -76.28520323528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2704adc5e10a1c8c",
+    "latitude": 36.81125401,
+    "longitude": -76.21808070528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6bf0eee97207e989",
+    "latitude": 36.9770853,
+    "longitude": -76.64245620528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a42180ae5ecc6a3c",
+    "latitude": 36.881972659999995,
+    "longitude": -76.2056584652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5e8119282570aca",
+    "latitude": 36.845680509999994,
+    "longitude": -76.2696699352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d4a3c7f55e4a4b33",
+    "latitude": 36.83213428,
+    "longitude": -76.28444430528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4b8b0adaaa85d9a6",
+    "latitude": 36.95888262999999,
+    "longitude": -76.26310295528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ea8ddc96f2b7113",
+    "latitude": 36.845049849999995,
+    "longitude": -76.3991284552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7594a65b3f4c30c3",
+    "latitude": 36.999614259999994,
+    "longitude": -76.40550678528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "821f4823bb895d22",
+    "latitude": 36.73772064999999,
+    "longitude": -76.5828496852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "182e13ce3f6ccfb7",
+    "latitude": 36.82415435,
+    "longitude": -76.32562332528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb862c0cfef39e16",
+    "latitude": 36.76798189000001,
+    "longitude": -76.25316168528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f483790b20b9d443",
+    "latitude": 36.98878757,
+    "longitude": -76.4257014552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7610de79c668e227",
+    "latitude": 36.88654014,
+    "longitude": -76.26157648528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd77f014bc10a711",
+    "latitude": 36.73526937,
+    "longitude": -76.56389214528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f2b504fd6eb40cb",
+    "latitude": 36.88334061,
+    "longitude": -76.42778324528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3add100e605dda1",
+    "latitude": 36.84712363,
+    "longitude": -76.25360104528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9303cdaafae5df2f",
+    "latitude": 36.817403309999996,
+    "longitude": -76.3252280352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "641b281d35e852c9",
+    "latitude": 36.85805795999999,
+    "longitude": -76.2791352752841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "548ba1a0c6a7c61f",
+    "latitude": 36.85071681,
+    "longitude": -76.47836379528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cfacd4db0157347d",
+    "latitude": 36.90693077,
+    "longitude": -76.24462131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a26c056bf17f398f",
+    "latitude": 36.759552939999985,
+    "longitude": -76.58812120528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2bab9c7ffca47006",
+    "latitude": 36.8718582,
+    "longitude": -76.26651398528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ccada7048e073ce6",
+    "latitude": 36.81210642999999,
+    "longitude": -76.2579334052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b7b7971ce9fa75a3",
+    "latitude": 36.744909719999995,
+    "longitude": -76.61338462528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "66d4c36016fb46b5",
+    "latitude": 36.85310249999999,
+    "longitude": -76.17613531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dce5730c642f07f6",
+    "latitude": 36.72513247999999,
+    "longitude": -76.57399791528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1ba2d58a362af5ce",
+    "latitude": 36.77818419,
+    "longitude": -76.2417442552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7497851c42456a44",
+    "latitude": 36.85422953,
+    "longitude": -76.28610897528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e45b094b6baa8e89",
+    "latitude": 36.82926514999998,
+    "longitude": -76.30669819528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f501d10c472fdde3",
+    "latitude": 36.84612344000001,
+    "longitude": -76.27241774528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "92f8b5295e0bbb8d",
+    "latitude": 36.7317727,
+    "longitude": -76.58269467528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b7a223e62bfcf9d",
+    "latitude": 36.86521608000001,
+    "longitude": -76.24731834528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b019efe0483254ad",
+    "latitude": 36.87740431999999,
+    "longitude": -76.19428526528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4bffd2f76a461293",
+    "latitude": 36.91468653999999,
+    "longitude": -76.24199038528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd00d47faf4ebc8f",
+    "latitude": 36.85396941999999,
+    "longitude": -76.27932392528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5344e99d4327a0f2",
+    "latitude": 36.85868084,
+    "longitude": -76.30336927528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9004144ea2365b2",
+    "latitude": 36.99835668,
+    "longitude": -76.41391789528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa4e1a6262ac1190",
+    "latitude": 36.753092609999996,
+    "longitude": -76.27227455528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ebf49ba2683f93f7",
+    "latitude": 36.826872189999996,
+    "longitude": -76.31978235528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac8f5910966a9ece",
+    "latitude": 36.81499175,
+    "longitude": -76.32471481528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a382a28aaae71a3",
+    "latitude": 36.91463542,
+    "longitude": -76.27381682528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72a6e0c7151cc208",
+    "latitude": 36.78895130228443,
+    "longitude": -80.71634870708145,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c641f1d1738da79",
+    "latitude": 36.88987526,
+    "longitude": -76.23892081528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0774ceddb4f7ad96",
+    "latitude": 36.67220728831448,
+    "longitude": -77.54305543888029,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d8bf9db3ec8bb34",
+    "latitude": 36.83205224,
+    "longitude": -76.3026594952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "78cb13906c575856",
+    "latitude": 36.917924909999996,
+    "longitude": -76.27260383528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3b3aaf484cb36485",
+    "latitude": 36.90174443,
+    "longitude": -76.25728233528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b759498a64ead286",
+    "latitude": 36.86024081,
+    "longitude": -76.5690407652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ef4cb159ac0e89a",
+    "latitude": 36.76831777,
+    "longitude": -76.58606093528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d03aaf8b959151ec",
+    "latitude": 36.91596975,
+    "longitude": -76.30906354528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3a462595b88eeac",
+    "latitude": 36.89228641,
+    "longitude": -76.2292931652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "64ec06a1915eb13c",
+    "latitude": 36.848311239999994,
+    "longitude": -75.98215847528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cf4891c3a55fdc7f",
+    "latitude": 36.76847951999999,
+    "longitude": -76.25206214528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "23411460365dd009",
+    "latitude": 36.85740938,
+    "longitude": -76.30284121528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc1a523b6800553d",
+    "latitude": 36.90765768,
+    "longitude": -76.2409831452841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c2150cadcab72ce",
+    "latitude": 36.80934581999998,
+    "longitude": -76.22026257528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "351ffbc68d39c01d",
+    "latitude": 36.84438037,
+    "longitude": -76.28818440528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2dbaa08e57790981",
+    "latitude": 36.73711371,
+    "longitude": -76.5835116352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fdaa05539e8928b0",
+    "latitude": 36.89433797,
+    "longitude": -76.2365149852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8336953f741654fa",
+    "latitude": 36.68229306999999,
+    "longitude": -76.6139902952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "70bbf2280576d7a6",
+    "latitude": 36.90770315999999,
+    "longitude": -76.24146592528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8027db8c975ca377",
+    "latitude": 36.61800183358982,
+    "longitude": -77.63544136023121,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fde08cfe08dee492",
+    "latitude": 36.85883464999999,
+    "longitude": -76.30386634528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a60defe20235b19f",
+    "latitude": 36.96698577,
+    "longitude": -76.29465410528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c04eb6a1d9db384a",
+    "latitude": 36.80471813999999,
+    "longitude": -76.38412970528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d3104b6cf0ed4cbd",
+    "latitude": 36.91777178,
+    "longitude": -76.19354690528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9347acf3341785e8",
+    "latitude": 36.79547901,
+    "longitude": -76.09375001528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0272a1d98116eff3",
+    "latitude": 36.81659034999999,
+    "longitude": -79.93511108528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a3d9ade29345179d",
+    "latitude": 36.84193104999999,
+    "longitude": -76.25367769528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7fe2b35243385de5",
+    "latitude": 36.824141149999996,
+    "longitude": -76.50052749528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "45abe8d4a2a20d63",
+    "latitude": 36.83689242999999,
+    "longitude": -76.52512016528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f3b8bb4c6baa5a8",
+    "latitude": 36.666297760000006,
+    "longitude": -76.95823037528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d307bc55a69f8fc",
+    "latitude": 36.66466359432886,
+    "longitude": -77.55412577386224,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6f6fd543148cebbc",
+    "latitude": 36.85811644,
+    "longitude": -76.27948261528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "756a616064041534",
+    "latitude": 36.864963790000004,
+    "longitude": -76.24664817528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "90a68fd619051bed",
+    "latitude": 36.87272608,
+    "longitude": -76.40215737528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de50bb83561b6a0c",
+    "latitude": 36.7882457,
+    "longitude": -76.41065901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7052204eb337c7a1",
+    "latitude": 36.86575281,
+    "longitude": -76.40404524528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "543077f3629c5103",
+    "latitude": 36.972837919999996,
+    "longitude": -76.65270579528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f7d2c5eb0bb82e36",
+    "latitude": 36.85781416,
+    "longitude": -76.28691744528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "61631b38968de099",
+    "latitude": 36.80193858999999,
+    "longitude": -76.38286001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58e17a3fa52dfb77",
+    "latitude": 36.86553804,
+    "longitude": -76.42354607528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "026582c873e64f3a",
+    "latitude": 36.773538390000006,
+    "longitude": -76.30546904528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6fa5bf78d2d43595",
+    "latitude": 36.94373934,
+    "longitude": -76.31907758528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "760d13c3a4781673",
+    "latitude": 36.87153782,
+    "longitude": -76.28332924528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9b739831d62a443e",
+    "latitude": 36.65702955,
+    "longitude": -76.9176753952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a1fe5f95339c6f0a",
+    "latitude": 36.91823579,
+    "longitude": -76.19397877528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "314cc2153fb33bc9",
+    "latitude": 36.72791702999999,
+    "longitude": -76.55183252528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c86a1832c3f047a9",
+    "latitude": 36.807719469999995,
+    "longitude": -76.35942652528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "424ad7ab4369a0bb",
+    "latitude": 36.72562213999999,
+    "longitude": -76.58795048528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5202f306dcd5b50d",
+    "latitude": 36.79999177,
+    "longitude": -76.37419150528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ee86844e9935781",
+    "latitude": 36.974662,
+    "longitude": -76.4210733152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "29948afd9e6b0806",
+    "latitude": 36.689643279999984,
+    "longitude": -76.93508672528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bdc7b1ebd3b4f58f",
+    "latitude": 36.80034779,
+    "longitude": -76.37404364528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a74976dbc37cd0d",
+    "latitude": 36.55104392,
+    "longitude": -76.1939038152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d6362190e6be940",
+    "latitude": 36.84409076,
+    "longitude": -76.26801263528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "51d57f0b2cd65c75",
+    "latitude": 36.84867605000001,
+    "longitude": -76.25822802528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "638cdedfba94935f",
+    "latitude": 36.835679060000004,
+    "longitude": -76.34803887528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "02a5fc304204b331",
+    "latitude": 36.99829671,
+    "longitude": -76.62867883528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "14fb19497ccec935",
+    "latitude": 36.66683308,
+    "longitude": -76.95743487528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80051a7cfb8227df",
+    "latitude": 36.922876079999995,
+    "longitude": -80.00482730528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "da5ac0936401b7cb",
+    "latitude": 36.86152909,
+    "longitude": -76.27201219528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "765925b593b1d93e",
+    "latitude": 36.98099205,
+    "longitude": -76.40328810528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cdd8fbe24b991da6",
+    "latitude": 36.72230419,
+    "longitude": -76.5702355552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4e1ce8002df950cf",
+    "latitude": 36.85842429000001,
+    "longitude": -76.30427446528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "705340e8d4a6e2b8",
+    "latitude": 36.8452395,
+    "longitude": -76.36972929528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "42eb4c2b65a01425",
+    "latitude": 36.82603697,
+    "longitude": -76.26253032528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8bcd29c97c7ae436",
+    "latitude": 36.8551126,
+    "longitude": -76.28176618528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4a5f1c89d52a670",
+    "latitude": 36.66451604331208,
+    "longitude": -77.5537156457286,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "056ce821f9fc6e8c",
+    "latitude": 36.78071419999999,
+    "longitude": -76.2328207252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "922a7a0b82240515",
+    "latitude": 36.71179107999999,
+    "longitude": -76.67632579528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "01b4d84a306718f1",
+    "latitude": 36.90901560999999,
+    "longitude": -76.49896785528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1285172724202f5c",
+    "latitude": 36.82904956,
+    "longitude": -76.06817151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1172b22684b27a9e",
+    "latitude": 36.82815350999999,
+    "longitude": -76.27569845528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d9445cab1e9ac2ce",
+    "latitude": 36.84689171,
+    "longitude": -76.33108493528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ffa5680508a76f56",
+    "latitude": 36.894947150000014,
+    "longitude": -76.22446876528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b09bd93896f0d9b2",
+    "latitude": 36.662704260000005,
+    "longitude": -76.94124233528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c91d4c2676d9731",
+    "latitude": 36.73948388,
+    "longitude": -76.23041234528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b417b21ddb02f79e",
+    "latitude": 36.93868047999999,
+    "longitude": -76.22428026528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "01f852bdd009a761",
+    "latitude": 36.83779709,
+    "longitude": -76.32681914528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc57fc8c438fb164",
+    "latitude": 36.87439538000001,
+    "longitude": -76.25424460528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "04118351129ecd91",
+    "latitude": 36.83164417999999,
+    "longitude": -76.30762070528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "736bab98d63abe03",
+    "latitude": 36.77929874,
+    "longitude": -76.25754466528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "518de3a591b7bf56",
+    "latitude": 36.828223969999996,
+    "longitude": -76.28109337528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "abe8531e6ae79f0f",
+    "latitude": 36.89134162999999,
+    "longitude": -76.23958375528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ee46357a7738aa4f",
+    "latitude": 36.75504706,
+    "longitude": -76.27266355528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f354e2f50fda1bc1",
+    "latitude": 36.88599760999999,
+    "longitude": -76.2610980152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53e008656bb6a554",
+    "latitude": 36.944159629999994,
+    "longitude": -76.31600446528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "12688dc3b977bfef",
+    "latitude": 36.84387596,
+    "longitude": -75.9759769952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "320dd94ea7a67b3c",
+    "latitude": 36.89422849,
+    "longitude": -76.23659490528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e86739a7d21e5cab",
+    "latitude": 36.72789516,
+    "longitude": -76.58307624528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d587cfb1c37fba33",
+    "latitude": 36.99519556999999,
+    "longitude": -76.39668537528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "635f3cc7204db282",
+    "latitude": 36.79494287999999,
+    "longitude": -76.23887231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac5f5755a50c44bc",
+    "latitude": 36.91575357000001,
+    "longitude": -76.30876181528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e93f0c68cc784291",
+    "latitude": 36.82319594999999,
+    "longitude": -76.28061473528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9cf26a5084040602",
+    "latitude": 36.975351999999994,
+    "longitude": -76.59016584528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76c59b4dd6551d36",
+    "latitude": 36.82172851000001,
+    "longitude": -76.4231517052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "37616ac495898b84",
+    "latitude": 36.97609652,
+    "longitude": -76.41501241528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db19b236ec116acc",
+    "latitude": 36.83462032999999,
+    "longitude": -76.32886623528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9559ce5754d68453",
+    "latitude": 36.824482259999996,
+    "longitude": -76.26611308528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe7e1bfdc2a9a529",
+    "latitude": 36.88055109999999,
+    "longitude": -76.21386488528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a1c3028a9622cf49",
+    "latitude": 36.94046979,
+    "longitude": -76.2461771352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f75a9ef9c65ddb76",
+    "latitude": 36.85644709,
+    "longitude": -76.28096739528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3081d6460bd57888",
+    "latitude": 36.86139795999999,
+    "longitude": -76.27249997528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f79eb52000fe9cb",
+    "latitude": 36.76265627,
+    "longitude": -76.55667990528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d3ca012f15a96be5",
+    "latitude": 36.83181842999999,
+    "longitude": -76.30778571528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b94b726ee783eee3",
+    "latitude": 36.90706818999999,
+    "longitude": -76.24496300528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "093b2598f1c7a1e8",
+    "latitude": 36.72765428,
+    "longitude": -76.5826227352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd1f781fab47812d",
+    "latitude": 36.85725564999999,
+    "longitude": -76.2825398352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e73dadc2a40ba68d",
+    "latitude": 36.81062585,
+    "longitude": -76.3176578852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "761f01eb5b7525ea",
+    "latitude": 36.84753491,
+    "longitude": -76.28998529528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "45efc2e363ac71af",
+    "latitude": 36.90954941,
+    "longitude": -76.2413629552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4b865af9e4132d0c",
+    "latitude": 36.80868108000001,
+    "longitude": -76.35794689528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1626a4d6757e150b",
+    "latitude": 36.97594717999999,
+    "longitude": -76.64648343528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "115565136277cb4f",
+    "latitude": 36.847357360000004,
+    "longitude": -76.27025848528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc1b18999d5be804",
+    "latitude": 36.81197532,
+    "longitude": -76.31818225528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8b7fa51e92e823a7",
+    "latitude": 36.80267995,
+    "longitude": -76.32196524528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "45ce85d279e6581e",
+    "latitude": 36.84951510999999,
+    "longitude": -76.26890196528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3bfbcc6f3e5ea17",
+    "latitude": 36.84706058,
+    "longitude": -76.2865161552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e62ca354dee57ad4",
+    "latitude": 36.827266489999985,
+    "longitude": -76.27967474528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a0f1047b1aef8bb",
+    "latitude": 36.90879878999999,
+    "longitude": -76.24603388528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72515969b28862a7",
+    "latitude": 36.827646959999996,
+    "longitude": -76.26356232528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2032ecdecc6ae029",
+    "latitude": 36.858353580000006,
+    "longitude": -76.2794656552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "91291c2eef3fdd2b",
+    "latitude": 36.86572528,
+    "longitude": -76.44424701528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "038169a5b2ab4d8b",
+    "latitude": 36.78492945,
+    "longitude": -76.41367554528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ba458af00a856913",
+    "latitude": 36.78475507999999,
+    "longitude": -76.28289995528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef8e9d2e3d443a97",
+    "latitude": 36.973927759999995,
+    "longitude": -76.41746757528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d7f306b3f2022a1",
+    "latitude": 36.87537678,
+    "longitude": -76.25310414528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "154f4bbbb399e5b1",
+    "latitude": 36.90217871,
+    "longitude": -76.24036210528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "044ca40235a1a55c",
+    "latitude": 36.81265543000001,
+    "longitude": -76.36078460528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6e6ae0b4242b393",
+    "latitude": 36.87952079,
+    "longitude": -76.21355083528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e754daf8042c0317",
+    "latitude": 36.8548454,
+    "longitude": -76.2796087252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f8c933c68003622",
+    "latitude": 36.90733488,
+    "longitude": -76.24132544528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aac5b1ea3bf8d9a8",
+    "latitude": 36.77855599000001,
+    "longitude": -76.26747507528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2fb7739b62ddc6ee",
+    "latitude": 36.84267368,
+    "longitude": -76.44466811528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c8627d07e1f4daf",
+    "latitude": 36.749989976995835,
+    "longitude": -77.53612143898881,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "832976a9495e85c1",
+    "latitude": 36.80255376,
+    "longitude": -76.2403148452841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c9329e6485cd210",
+    "latitude": 36.744943449999994,
+    "longitude": -76.22248673528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d25bdd09f500096d",
+    "latitude": 36.85401980000001,
+    "longitude": -76.1783684752841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ceb022c7ce13722",
+    "latitude": 36.8214044,
+    "longitude": -76.22916869528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e905fa29cb75f8cb",
+    "latitude": 36.81071962,
+    "longitude": -76.22175652528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "879323398d502983",
+    "latitude": 36.80449124999999,
+    "longitude": -76.30705592528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c7a3c79ced2bec9",
+    "latitude": 36.84939602,
+    "longitude": -75.98082673528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "22e0ea3520d12d87",
+    "latitude": 36.72787141,
+    "longitude": -76.58449149528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c902b5a20ff531c9",
+    "latitude": 36.75873956,
+    "longitude": -76.5873966752841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "027ef6b25c867696",
+    "latitude": 36.84362381,
+    "longitude": -76.28717808528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "87265f782d7446af",
+    "latitude": 36.87180187,
+    "longitude": -76.26673996528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "339c8256d01477b6",
+    "latitude": 36.80664749,
+    "longitude": -76.3214333552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e21e9926fd7c0fb",
+    "latitude": 36.845564859999996,
+    "longitude": -76.2876316552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b14d3d550496bb6b",
+    "latitude": 36.82445756999999,
+    "longitude": -76.4013458152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "600ab95d00c3beef",
+    "latitude": 36.83186172,
+    "longitude": -76.28045000528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b78cffab736ca46e",
+    "latitude": 36.83520404,
+    "longitude": -76.29783858528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea877185ef022a7e",
+    "latitude": 36.85121571999999,
+    "longitude": -76.17977611528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ff57acd8949a63a3",
+    "latitude": 36.80713583,
+    "longitude": -76.35780467528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a9a7d8f9018899c",
+    "latitude": 36.87477315,
+    "longitude": -76.25420151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "558da609e4a8e6ef",
+    "latitude": 36.875541279999986,
+    "longitude": -76.25537179528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7159a3140f226bb1",
+    "latitude": 36.93857869,
+    "longitude": -76.25383918528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb71abf3f688ca9c",
+    "latitude": 36.82421206999999,
+    "longitude": -76.30384264528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6a19ba6cc88102c",
+    "latitude": 36.85407739000001,
+    "longitude": -76.28654480528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0be21e150c769303",
+    "latitude": 36.68161224,
+    "longitude": -76.61413388528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d364d86d6a981b7",
+    "latitude": 36.75390958999999,
+    "longitude": -76.51938895528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd3e9e9742073c6e",
+    "latitude": 36.87217525999999,
+    "longitude": -76.40207113528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fca235370cfb294c",
+    "latitude": 36.80144009000001,
+    "longitude": -76.08800073528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9fc1796deeac49fd",
+    "latitude": 36.94365113999999,
+    "longitude": -76.26808781528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2722c9997717fe81",
+    "latitude": 36.68093221427499,
+    "longitude": -77.48298328094548,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "32ff3f332a8ac00e",
+    "latitude": 36.86691386,
+    "longitude": -76.23590315528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d30ecce8047e5815",
+    "latitude": 36.563036542098054,
+    "longitude": -77.6596543606627,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e2a681b5794c8d67",
+    "latitude": 36.894782719999995,
+    "longitude": -76.1443534552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7f40d71a6149a9d5",
+    "latitude": 36.863397,
+    "longitude": -76.27731731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd1f73cb73a5565f",
+    "latitude": 36.88943872000001,
+    "longitude": -76.24027407528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c57ac9b67d7a146f",
+    "latitude": 36.84502204999999,
+    "longitude": -76.25368840528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "992c06a69d13a3b0",
+    "latitude": 36.75597808,
+    "longitude": -76.34599051528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1538ffd09b095f60",
+    "latitude": 36.87156652000001,
+    "longitude": -76.23298614528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4655f0d8b6c8a10d",
+    "latitude": 36.82204247,
+    "longitude": -76.26062637528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "675d7a28247d6c38",
+    "latitude": 36.83940882000001,
+    "longitude": -75.99716167528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1ad6c702dd3dff3c",
+    "latitude": 36.91850122,
+    "longitude": -76.1935096352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2312d99bed9c00ef",
+    "latitude": 36.70049606,
+    "longitude": -76.8056985252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "536d1c49833b2efd",
+    "latitude": 36.87636773,
+    "longitude": -76.43349503528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d17d6a1ade04c6c1",
+    "latitude": 36.91413569,
+    "longitude": -76.24247820528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c20088de76b6a24",
+    "latitude": 36.998117990000004,
+    "longitude": -76.42566481528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b394fbb63453ccf2",
+    "latitude": 36.85423295,
+    "longitude": -76.27685221528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db04f3430b107287",
+    "latitude": 36.82202349,
+    "longitude": -76.42546045528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc88339eaee47f4a",
+    "latitude": 36.8775598,
+    "longitude": -76.26435233528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "82ca693c2ebfa536",
+    "latitude": 36.90425405,
+    "longitude": -76.24083834528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c48a8ebbb612e3c3",
+    "latitude": 36.551489239999995,
+    "longitude": -76.37749758528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d833e56dc62e2de",
+    "latitude": 36.8220465,
+    "longitude": -76.39528298528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf9fb81e444fa7ca",
+    "latitude": 36.88012989,
+    "longitude": -76.2955217452841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "01a1e5d80e6adce6",
+    "latitude": 36.728313519999986,
+    "longitude": -76.58585052528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "894acef8a185ceeb",
+    "latitude": 36.848617610000005,
+    "longitude": -76.21122961528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "713ce56c0f5c8412",
+    "latitude": 36.84382248,
+    "longitude": -76.28884515528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3e6ae33c81ac5e4",
+    "latitude": 36.710049639999994,
+    "longitude": -76.59454485528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "56b4f30ba543a298",
+    "latitude": 36.91782016,
+    "longitude": -76.27317378528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "16eb9f668ded2180",
+    "latitude": 36.82903990999999,
+    "longitude": -76.31345983528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5e16410a9bdb8aa0",
+    "latitude": 36.84296806,
+    "longitude": -76.24606645528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5129eb41d514f805",
+    "latitude": 36.750066159999996,
+    "longitude": -76.58651472528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f59c5c5eb0ee9c6b",
+    "latitude": 36.86267929,
+    "longitude": -76.27731028528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4879581e34894ceb",
+    "latitude": 36.82805029,
+    "longitude": -76.2806511152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "046779d01c4644f8",
+    "latitude": 36.97618103,
+    "longitude": -76.64642165528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a27f02215b816a8",
+    "latitude": 36.74428254,
+    "longitude": -76.55546233528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f363ce92dab69ce5",
+    "latitude": 36.72479769,
+    "longitude": -76.57104110528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3d1b32f775a43b2",
+    "latitude": 36.86605786999999,
+    "longitude": -76.23619778528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "00d05cc3d176a89b",
+    "latitude": 36.85597454999999,
+    "longitude": -76.2862195552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "104591eb54744658",
+    "latitude": 36.99627911999999,
+    "longitude": -76.39523509528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "254fd9b0bb1d7718",
+    "latitude": 36.86892136,
+    "longitude": -76.4235274152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0726409680d10e12",
+    "latitude": 36.82779535,
+    "longitude": -76.2486147652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c016fc8131102f6c",
+    "latitude": 36.81586871999999,
+    "longitude": -76.35410224528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8ee66d57ed635ded",
+    "latitude": 36.73768093999999,
+    "longitude": -76.58425606528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4725f3e54f53faf5",
+    "latitude": 36.80154761000001,
+    "longitude": -76.38217994528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c7fa92b122251ff3",
+    "latitude": 36.705116839999995,
+    "longitude": -76.81397706528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d468a15b0aadc817",
+    "latitude": 36.850385079999995,
+    "longitude": -76.26267389528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "568b3262d2c9c13c",
+    "latitude": 36.86971595999999,
+    "longitude": -76.37867837528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "51b2822f97c872be",
+    "latitude": 36.8750571,
+    "longitude": -76.37875621528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea3adb5939c20065",
+    "latitude": 36.87621165,
+    "longitude": -76.19251994528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "43ef30bf596e324f",
+    "latitude": 36.788739379999996,
+    "longitude": -76.36482798528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0469e07111d93a32",
+    "latitude": 36.81558748999999,
+    "longitude": -76.35811003528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "45a11361e7262b31",
+    "latitude": 36.831541200000004,
+    "longitude": -76.28017336528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f2a09694a5d4835c",
+    "latitude": 36.849247049999995,
+    "longitude": -76.26879566528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47a8f67776845660",
+    "latitude": 36.87622587,
+    "longitude": -76.37904138528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "08dfa6bbda61a365",
+    "latitude": 36.83168081,
+    "longitude": -76.34241951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8898e0993942e66b",
+    "latitude": 36.68287125999999,
+    "longitude": -76.9643376652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8e9a5680596d8077",
+    "latitude": 36.87816226000001,
+    "longitude": -76.58247371528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e41583c3bc6358bd",
+    "latitude": 36.9113846,
+    "longitude": -76.25642499528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4b1ddf60d76b7ee8",
+    "latitude": 36.83928963999999,
+    "longitude": -75.9971277952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4dc6c48a4099726e",
+    "latitude": 36.864211299999994,
+    "longitude": -76.30282115528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f0cf08202ca516a8",
+    "latitude": 36.76838482,
+    "longitude": -76.23114189528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e1f9dbe3822d94a3",
+    "latitude": 36.80758501999998,
+    "longitude": -76.35676759528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "092d07d6e7d10b7c",
+    "latitude": 36.84755335,
+    "longitude": -76.25286744528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "149c1f3ef2b2e4c3",
+    "latitude": 36.79489441999999,
+    "longitude": -76.32798223528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d4d115a6d52d700",
+    "latitude": 36.82498963,
+    "longitude": -76.26115020528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc37b28e431da3d9",
+    "latitude": 36.988227439999996,
+    "longitude": -76.40459252528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0787840641f699d9",
+    "latitude": 36.72693970000001,
+    "longitude": -76.58000970528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "78002fad2ce3ed0a",
+    "latitude": 36.86480404,
+    "longitude": -76.30267414528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "35614329bfa96ad1",
+    "latitude": 36.882174299999996,
+    "longitude": -76.20592042528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e94849cbc48687b0",
+    "latitude": 36.87827895,
+    "longitude": -76.29561923528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4afc4218ee3ed4e",
+    "latitude": 36.821119870000004,
+    "longitude": -76.33083868528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5d9d9ee14e72966d",
+    "latitude": 36.983063609999995,
+    "longitude": -76.39713462528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "65d58eba55344471",
+    "latitude": 36.871218469999995,
+    "longitude": -76.23278168528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2c2cd5cf7b5e77b9",
+    "latitude": 36.85950432,
+    "longitude": -76.35020020528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e0c5d8aefa9e70a1",
+    "latitude": 36.87067901999999,
+    "longitude": -76.23282312528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "482e0db8a0c1348d",
+    "latitude": 36.914954470000005,
+    "longitude": -76.2422357752841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57a306d188833831",
+    "latitude": 36.85811853,
+    "longitude": -76.2727148352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bdd406096d822705",
+    "latitude": 36.91912074,
+    "longitude": -76.27248957528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3dd038fa49aa996d",
+    "latitude": 36.8264919,
+    "longitude": -76.41078032528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0f21c967fd2eb393",
+    "latitude": 36.71329857,
+    "longitude": -76.23905406528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f21c2092036f7c03",
+    "latitude": 36.89065323,
+    "longitude": -76.23666865528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7e5902ac320473e8",
+    "latitude": 36.822694260000006,
+    "longitude": -76.26196261528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "840c17fefd843153",
+    "latitude": 36.94232892000001,
+    "longitude": -76.31964287528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b1974b91799aa15f",
+    "latitude": 36.87141134,
+    "longitude": -76.26530490528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a822991614ba83c9",
+    "latitude": 36.82542500000001,
+    "longitude": -76.33915881528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d966feda1d293bed",
+    "latitude": 36.81789468,
+    "longitude": -76.46640128528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc6b4a9151cd3960",
+    "latitude": 36.877191090000004,
+    "longitude": -76.29577024528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f916b31803665227",
+    "latitude": 36.86992619,
+    "longitude": -76.37901960528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ea229d103290ec1",
+    "latitude": 36.72685377999999,
+    "longitude": -76.63211324528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c9b990d04e6b762",
+    "latitude": 36.82807395,
+    "longitude": -76.30760419528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c919cd39f309e209",
+    "latitude": 36.816427999999995,
+    "longitude": -76.33003843528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8f1c9256fe1bc58",
+    "latitude": 36.94987056,
+    "longitude": -76.5975391252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "017223ecf9ef6a81",
+    "latitude": 36.90624876,
+    "longitude": -76.24471503528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "656a896bc4ad949a",
+    "latitude": 36.7137173,
+    "longitude": -76.59194462528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2e5f2a1edc246832",
+    "latitude": 36.89194569,
+    "longitude": -76.2369963852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c2cd136dc5b482c",
+    "latitude": 36.87623074,
+    "longitude": -76.25268146528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52800ae03970f14d",
+    "latitude": 36.78912964999999,
+    "longitude": -76.2639302852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c38af9e50e45ed4b",
+    "latitude": 36.90905527000001,
+    "longitude": -76.4989263652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d07d4fab54d2d7cf",
+    "latitude": 36.83154073,
+    "longitude": -76.28452712528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a61ea542340fad6e",
+    "latitude": 36.91702776,
+    "longitude": -76.26716204528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3497c1e235221ede",
+    "latitude": 36.79530524999999,
+    "longitude": -76.32902570528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3330939f7d1e21c",
+    "latitude": 36.84902699,
+    "longitude": -76.21074609528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3ecfdf14d295a2b6",
+    "latitude": 36.77363104,
+    "longitude": -76.32556237528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c102552acf472405",
+    "latitude": 36.95338178,
+    "longitude": -76.53455532528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2e79a63c3f502cff",
+    "latitude": 36.8268427,
+    "longitude": -76.34788998528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "629240fc1a92974d",
+    "latitude": 36.80187419,
+    "longitude": -76.39011304528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fed74e50a9b70134",
+    "latitude": 36.85035507,
+    "longitude": -76.26497960528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2de00be8140dbdef",
+    "latitude": 36.863600909999995,
+    "longitude": -76.43849549528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "805330502e29c240",
+    "latitude": 36.87718962,
+    "longitude": -76.5824823952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4e0d5d60d1579d07",
+    "latitude": 36.91638419,
+    "longitude": -76.2546554852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "211a0b210770ccfd",
+    "latitude": 36.812237029999984,
+    "longitude": -76.22713995528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "29a17a01a97f70bc",
+    "latitude": 36.88597361,
+    "longitude": -76.26136757528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aef8a174a08ab0c2",
+    "latitude": 36.87775831,
+    "longitude": -76.19386424528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "768e41ba5e359092",
+    "latitude": 36.68275292,
+    "longitude": -76.96475620528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2427fa66ad7aa8ed",
+    "latitude": 36.93874963999999,
+    "longitude": -76.24627247528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1f5ffefe2a1b6509",
+    "latitude": 37.44925,
+    "longitude": -79.26194553528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8487ae9b174306b0",
+    "latitude": 36.82567476,
+    "longitude": -76.33964593528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "307c3675296d6373",
+    "latitude": 36.81547256999999,
+    "longitude": -76.28021456528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0aa1b17b4738f12",
+    "latitude": 36.94475611,
+    "longitude": -76.27285621528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "951204e22f2effca",
+    "latitude": 36.85335763,
+    "longitude": -76.28654572528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3eb252b2b943bc9",
+    "latitude": 36.76803392,
+    "longitude": -76.20511333528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "abc82d8d4db0a371",
+    "latitude": 36.81151899,
+    "longitude": -76.27873806528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "055a31998013aa67",
+    "latitude": 36.858587699999994,
+    "longitude": -75.98014051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81260c53a4ea5149",
+    "latitude": 36.87162124999999,
+    "longitude": -76.18464616528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f5b3818598d956f4",
+    "latitude": 36.893487619999995,
+    "longitude": -76.23752440528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "92e915f4b7d4773d",
+    "latitude": 36.84995583,
+    "longitude": -76.25839580528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea36fdbf3457ae25",
+    "latitude": 36.86715655,
+    "longitude": -76.23539658528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dcc3758d727dcc91",
+    "latitude": 36.837737569999994,
+    "longitude": -76.32852966528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d2bc4ea7e8ce5af",
+    "latitude": 36.87777363000001,
+    "longitude": -76.29525504528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e2a61cb3861a3cf8",
+    "latitude": 36.74456046,
+    "longitude": -76.61245700528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7a031bf83b7237ad",
+    "latitude": 36.80077239,
+    "longitude": -76.35265093528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "03b8c95e5192937b",
+    "latitude": 36.8595749,
+    "longitude": -76.2767691052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26da9ffe2bbf9c5f",
+    "latitude": 36.914651160000005,
+    "longitude": -76.27327030528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f44c51d93725f16c",
+    "latitude": 36.91638368000001,
+    "longitude": -76.26840817528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81196ea964dea43f",
+    "latitude": 36.85376474,
+    "longitude": -76.28602808528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a7bfa9ecd2abd16",
+    "latitude": 36.90119057999999,
+    "longitude": -76.24038853528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b31fecf3e39cb35",
+    "latitude": 36.82845929999999,
+    "longitude": -76.06830047528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d251364952495112",
+    "latitude": 36.99812377000001,
+    "longitude": -76.42544246528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "19c3f7ac0a83dc56",
+    "latitude": 36.70056066000001,
+    "longitude": -76.9615238052841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58cb5d2a91bf2778",
+    "latitude": 36.85952601000001,
+    "longitude": -76.27873475528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "89c9b7392de620d3",
+    "latitude": 36.815147839999995,
+    "longitude": -76.31278421528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f85fa69ee69a7a0b",
+    "latitude": 36.73094080999999,
+    "longitude": -76.6012775352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ee46fee3d6397679",
+    "latitude": 36.86689390000001,
+    "longitude": -76.23294133528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d4b9c92f64cc5a1f",
+    "latitude": 36.66298439095948,
+    "longitude": -77.5545284328944,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "abe913d86dfbf7bb",
+    "latitude": 36.87628916,
+    "longitude": -76.26488984528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc8212d13bdcf732",
+    "latitude": 36.858978,
+    "longitude": -76.27549431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "659607655d3c3eeb",
+    "latitude": 36.87421164999999,
+    "longitude": -76.25483055528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae3825d0b3d07424",
+    "latitude": 36.79560983999999,
+    "longitude": -76.68864272528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3a1a95148c7ba07",
+    "latitude": 36.81370128999999,
+    "longitude": -76.24953485528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e778b30f8aa50bd7",
+    "latitude": 36.82579349000001,
+    "longitude": -76.26115930528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a82e36bfa7cf57b",
+    "latitude": 36.95839466999999,
+    "longitude": -76.26330706528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38ed372bf68119d9",
+    "latitude": 37.10647607,
+    "longitude": -79.81533027528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fefa19311aa68550",
+    "latitude": 36.973902210000006,
+    "longitude": -76.4172259452841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2bfbf20e6bee8cc0",
+    "latitude": 36.78182133999999,
+    "longitude": -76.27258112528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5583064d7ec53b9a",
+    "latitude": 36.97508743,
+    "longitude": -76.59138593528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4646a51e5062765d",
+    "latitude": 36.74741987,
+    "longitude": -76.54118793528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "413ee1560cb18957",
+    "latitude": 36.82912261,
+    "longitude": -76.28176779528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "60bb279c7ffc1175",
+    "latitude": 36.76973126,
+    "longitude": -76.58567551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "92b14fb6348793e7",
+    "latitude": 36.8653146,
+    "longitude": -76.4122964352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f25eba871fc8d527",
+    "latitude": 36.7346045,
+    "longitude": -76.2377824552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b13025b8ed04e508",
+    "latitude": 36.86461082999999,
+    "longitude": -76.24690835528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b8378419b9434b0",
+    "latitude": 36.89308874999999,
+    "longitude": -76.4324859652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df78f7c5c57b1fa7",
+    "latitude": 36.79796429,
+    "longitude": -76.39734667528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2df03225de4579ec",
+    "latitude": 36.78055724,
+    "longitude": -76.23296467528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a8beba9ff58a535",
+    "latitude": 36.87031151999999,
+    "longitude": -76.17285684528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a83c2970ca7bfcdf",
+    "latitude": 36.89205725999999,
+    "longitude": -76.22920323528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "24d8facfce0d9ef5",
+    "latitude": 36.7137315,
+    "longitude": -76.57923300528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6025547746e398c2",
+    "latitude": 36.7627032,
+    "longitude": -76.55678363528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8eac169e2e78efee",
+    "latitude": 36.679795559999995,
+    "longitude": -76.91993687528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "676198a2b1d8b5b7",
+    "latitude": 36.84779588,
+    "longitude": -76.25796643528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "752e6a0ac5e1c775",
+    "latitude": 36.65207572,
+    "longitude": -76.8381884652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f68bf04329c346a4",
+    "latitude": 36.7317264216748,
+    "longitude": -77.52093720233911,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1394ba8b08c8e21a",
+    "latitude": 36.68670709272838,
+    "longitude": -77.5615492023343,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3564f9151dae5442",
+    "latitude": 36.85464788000001,
+    "longitude": -76.17842885528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1a46d3523b0c952c",
+    "latitude": 36.85743605999999,
+    "longitude": -76.28564281528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b1aa62b08c2423c8",
+    "latitude": 36.901332829999994,
+    "longitude": -76.25751543528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8823b2a10fd79d1f",
+    "latitude": 36.943128419999994,
+    "longitude": -76.32005733528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2cbd7ec778cfe89e",
+    "latitude": 36.87772945999999,
+    "longitude": -76.19297548528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62b17fbbadb18d0e",
+    "latitude": 36.662388009999994,
+    "longitude": -76.94127054528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0d4d64547f91d54e",
+    "latitude": 36.91061244,
+    "longitude": -76.2566148952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f326e5ba3d6a2b82",
+    "latitude": 36.68895853255692,
+    "longitude": -77.57989536007726,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74632f6eb07b8dbe",
+    "latitude": 36.795714929999995,
+    "longitude": -76.68976198528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8e72f792e116208c",
+    "latitude": 36.667114951870815,
+    "longitude": -77.55345855879094,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/vdot_lups",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f70df3738718c55",
+    "latitude": 36.77102972999999,
+    "longitude": -76.22945409528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5fb1695b36df7df4",
+    "latitude": 36.850381229999996,
+    "longitude": -76.2663896552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f2af17c7cb1ffd03",
+    "latitude": 36.99012529,
+    "longitude": -76.42053681528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b211824d90fa7c3f",
+    "latitude": 36.914977930000006,
+    "longitude": -76.27423625528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9c1671a3b019d99",
+    "latitude": 36.78824423,
+    "longitude": -76.3646062252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f1d90c62c2291b16",
+    "latitude": 36.81254963999999,
+    "longitude": -76.25736066528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c150f88282884da3",
+    "latitude": 36.85460219,
+    "longitude": -76.17895049528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c62158624bd1e27",
+    "latitude": 36.8827541,
+    "longitude": -76.42703112528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f9600b1ab516fe3",
+    "latitude": 36.83516022,
+    "longitude": -76.34027764528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52d8ea228efd5355",
+    "latitude": 36.801854729999995,
+    "longitude": -76.09744141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52c145482ec601fd",
+    "latitude": 36.89069915,
+    "longitude": -76.23863104528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d7c162991478376",
+    "latitude": 36.75717010999999,
+    "longitude": -76.27835093528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6029483311adf06a",
+    "latitude": 36.876251059999994,
+    "longitude": -76.41836868528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17da0fe62dd2d694",
+    "latitude": 36.78121369,
+    "longitude": -76.34402897528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db82e03f96a01b0f",
+    "latitude": 36.84824761000001,
+    "longitude": -75.98153294528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f9a1826ad0c60e3b",
+    "latitude": 36.82232842999999,
+    "longitude": -76.26161698528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "00ae594376911242",
+    "latitude": 36.79523700000001,
+    "longitude": -76.32798373528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3bf7b5d2771d3bd7",
+    "latitude": 36.71002475000001,
+    "longitude": -76.59103444528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76928517ff47af36",
+    "latitude": 36.99144072,
+    "longitude": -76.42802729528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "35fb59839902f9e2",
+    "latitude": 36.83708359,
+    "longitude": -76.21107743528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "723f0a3520da051f",
+    "latitude": 36.86718589,
+    "longitude": -76.24111733528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a6a6bae72475e039",
+    "latitude": 36.80774192,
+    "longitude": -76.30316805528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a2265c5d3f7c546",
+    "latitude": 36.96026399,
+    "longitude": -76.26269832528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dd57da657bd295e8",
+    "latitude": 36.738458619999996,
+    "longitude": -76.58355523528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1ada976e50d0c02",
+    "latitude": 36.76307255999999,
+    "longitude": -76.53463121528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26b2f2fdd3b80364",
+    "latitude": 36.88930522999999,
+    "longitude": -76.23939270528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cae41a60871e4b3d",
+    "latitude": 36.824619850000005,
+    "longitude": -76.33986129528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0cb7b1bda03794e9",
+    "latitude": 36.86494399,
+    "longitude": -76.27945978528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d47d6dbdf51d7b03",
+    "latitude": 36.77437455,
+    "longitude": -76.3010319352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1f1e9fb0e8c963b4",
+    "latitude": 36.75390201,
+    "longitude": -76.51834354528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0e91b45a07608060",
+    "latitude": 36.93938528999999,
+    "longitude": -76.24674562528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "98c3e683d1f354c4",
+    "latitude": 36.847565,
+    "longitude": -76.32940103528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3ec66b1248efd2b",
+    "latitude": 36.72729255,
+    "longitude": -76.63024996528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9cbd93bd79f2e98b",
+    "latitude": 36.90884662,
+    "longitude": -76.23493485528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6c4af945a25b600",
+    "latitude": 36.8205556,
+    "longitude": -76.42654608528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "617e888109b14bb6",
+    "latitude": 36.89498606000001,
+    "longitude": -76.23791951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "426ffaa4f478e9cc",
+    "latitude": 36.8315632,
+    "longitude": -76.28442721528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7e5f415228b89f2b",
+    "latitude": 36.83914076999999,
+    "longitude": -76.29843327528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eafb78cfe58154f4",
+    "latitude": 36.91494455999999,
+    "longitude": -76.27339167528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd2fedf4aa753965",
+    "latitude": 36.9158484,
+    "longitude": -76.2551839152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e8f01150ec4a5a4b",
+    "latitude": 36.78623259,
+    "longitude": -76.58849246528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f78f98f21ac214e4",
+    "latitude": 36.67967120999999,
+    "longitude": -76.92048794528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d23c48d7b48cc87",
+    "latitude": 36.889746839999994,
+    "longitude": -76.23998504528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d45bc2a19830d7d3",
+    "latitude": 36.91485319,
+    "longitude": -76.30825321528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "127b466154d04083",
+    "latitude": 36.87790632999999,
+    "longitude": -76.29592065528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4cd7437727a7a49",
+    "latitude": 36.72729876,
+    "longitude": -76.30245809528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4523166a161b80b8",
+    "latitude": 36.862691010000006,
+    "longitude": -76.4491456552841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4bb7ad4d0c4255c2",
+    "latitude": 36.907456079999996,
+    "longitude": -76.0685318652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6fd8422b74fde8e",
+    "latitude": 36.847250349999996,
+    "longitude": -76.25609874528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dd81ba4bf8240f0e",
+    "latitude": 36.748618220000004,
+    "longitude": -76.53339938528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76f7d592b889b2ae",
+    "latitude": 36.87054119999999,
+    "longitude": -76.28310369528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ecf1e1cb34c9b4c",
+    "latitude": 36.86701522,
+    "longitude": -76.2417624152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dcd151d5b1fa31b8",
+    "latitude": 36.87095211,
+    "longitude": -76.23320250528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5fefcdb575e3c6ba",
+    "latitude": 36.86191812999999,
+    "longitude": -76.25100647528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "46e2a05d7175573c",
+    "latitude": 36.9944633,
+    "longitude": -76.4118017252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3d74fd7f8eaedd8",
+    "latitude": 36.791981050000004,
+    "longitude": -76.33055559528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae65fa83a9e7e570",
+    "latitude": 36.82796216999999,
+    "longitude": -76.27545169528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f01845430cb06176",
+    "latitude": 36.850146409999994,
+    "longitude": -76.2617300652841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9ce615a6234faa0",
+    "latitude": 36.65826089000001,
+    "longitude": -76.2251669252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d233dd8d79f57963",
+    "latitude": 36.7867576,
+    "longitude": -76.36495896528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ff079718b79b7a0",
+    "latitude": 36.81597091,
+    "longitude": -76.2515491152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "33413152c1df65c5",
+    "latitude": 36.89050423,
+    "longitude": -76.2364385952841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a70474b3391a3bcc",
+    "latitude": 36.79032304,
+    "longitude": -76.23795667528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f9a2e4b154cc189",
+    "latitude": 36.97220048,
+    "longitude": -76.65410067528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ad8aa2c43dff5645",
+    "latitude": 36.71725584,
+    "longitude": -76.1013987452841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a8e58176acda691e",
+    "latitude": 36.82684822000001,
+    "longitude": -76.26214109528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "93cfbb5a0df7cb6d",
+    "latitude": 36.91064498,
+    "longitude": -76.25685079528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "49276d9a85e40426",
+    "latitude": 36.87595215,
+    "longitude": -76.25332333528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74cbbc37fb52ed97",
+    "latitude": 36.869336960000005,
+    "longitude": -76.42359821528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "504da036c55613d3",
+    "latitude": 36.855562629999994,
+    "longitude": -76.28513322528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "622749767a158a14",
+    "latitude": 36.861862339999995,
+    "longitude": -76.2511348852841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df3d0df4fd37cacc",
+    "latitude": 36.85884313,
+    "longitude": -76.2749158352841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1d07d633972ee3a3",
+    "latitude": 36.844430599999995,
+    "longitude": -76.28952797528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ca29ee57c315fa26",
+    "latitude": 36.86412955,
+    "longitude": -76.30389846528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a79d5f13fe14392",
+    "latitude": 36.8532461,
+    "longitude": -76.1760241252841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "171d94e3b2dca02f",
+    "latitude": 36.90692771,
+    "longitude": -76.24516953528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e27dba3727939c02",
+    "latitude": 36.85701318000001,
+    "longitude": -76.17770917528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4fb340bab53f0d8",
+    "latitude": 36.79128929,
+    "longitude": -76.34301709528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: virginia/case_179_9",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

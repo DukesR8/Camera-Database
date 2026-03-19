@@ -1,0 +1,362 @@
+[
+  {
+    "id": "531a08afa4964760",
+    "latitude": 35.802320999999985,
+    "longitude": -83.54113431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINYON CIR & VETERANS BLVD, PIGEON FORGE, SEVIER County; city: PIGEON FORGE; cross street: VETERANS BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a00d82b577781f1c",
+    "latitude": 35.824688,
+    "longitude": -83.77583131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JEFFRIES HOLLOW  RD & KEENER RD, SEYMOUR, BLOUNT County; city: SEYMOUR; cross street: KEENER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3607bede3df19da",
+    "latitude": 35.87864400000111,
+    "longitude": -83.56987431528111,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD DOUGLAS DAM RD & ALLENSVILLE RD, SEVIERVILLE; city: SEVIERVILLE; cross street: ALLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b05a44cb258a21d",
+    "latitude": 35.893633,
+    "longitude": -83.5877303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD KNOXVILLE HWY & GISTS CREEK RD, SEVIERVILLE; city: SEVIERVILLE; cross street: GISTS CREEK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd0bde14df581f12",
+    "latitude": 35.80233500000001,
+    "longitude": -83.58464831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WEARS VALLEY RD & SAND PIKE BLVD, PIGEON FORGE, SEVIER County; city: PIGEON FORGE; cross street: SAND PIKE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a67ff5e3e559ecce",
+    "latitude": 35.806293999999994,
+    "longitude": -83.94087431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD KNOXVILLE HWY & CLAYTON RD, ALCOA, BLOUNT County; city: ALCOA; cross street: CLAYTON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c250638d4c7e8392",
+    "latitude": 35.90654800000001,
+    "longitude": -83.83675931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 441 & MICHAELS LN, KNOXVILLE; city: KNOXVILLE; cross street: MICHAELS LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e67fee59f64db5d3",
+    "latitude": 35.97675900000001,
+    "longitude": -83.60746931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 66 & W DUMPLIN VALLEY RD, SEVIERVILLE; city: SEVIERVILLE; cross street: W DUMPLIN VALLEY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e9aec618a1e78c4a",
+    "latitude": 35.88107899999999,
+    "longitude": -83.9576773152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ALCOA HWY & W GOVERNOR JOHN SEVIER HWY, KNOXVILLE; city: KNOXVILLE; cross street: W GOVERNOR JOHN SEVIER HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3af21233630819c9",
+    "latitude": 35.87496899999999,
+    "longitude": -83.9424953152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARYVILLE PIKE & DOVINGTON DR, KNOXVILLE; city: KNOXVILLE; cross street: DOVINGTON DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9e68c716e87e5559",
+    "latitude": 35.80269026575179,
+    "longitude": -83.5840416720663,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 321 & SAND PIKE BLVD, PIGEON FORGE, SEVIER County; city: PIGEON FORGE; cross street: SAND PIKE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "635346017021c38d",
+    "latitude": 35.921587,
+    "longitude": -83.92025831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DAYLILY DR & SIMS RD, KNOXVILLE; city: KNOXVILLE; cross street: SIMS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53a991f1ec5c550c",
+    "latitude": 35.824902,
+    "longitude": -83.77542231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JEFFRIES HOLLOW RD & KEENER RD, SEYMOUR, BLOUNT County; city: SEYMOUR; cross street: KEENER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e6c73db5896f6a9",
+    "latitude": 35.90709499999999,
+    "longitude": -83.84085831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 441 & MAJESTIC GROVE RD, KNOXVILLE; city: KNOXVILLE; cross street: MAJESTIC GROVE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f4049f5d82896a66",
+    "latitude": 35.80227719981039,
+    "longitude": -83.54119167157971,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STHY 449   S & PINYON CIR, PIGEON FORGE, SEVIER County; city: PIGEON FORGE; cross street: PINYON CIR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2128daa0a94aaeb1",
+    "latitude": 35.806293999999994,
+    "longitude": -83.94087431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD KNOXVILLE HWY & CLAYTON RD, ALCOA, BLOUNT County; city: ALCOA; cross street: CLAYTON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8199381c991c7acb",
+    "latitude": 35.767281000000004,
+    "longitude": -83.99312131528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUNTERS CROSSING DR & LOUISVILLE RD, ALCOA, BLOUNT County; city: ALCOA; cross street: LOUISVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "af9547a610ed145b",
+    "latitude": 35.799057,
+    "longitude": -83.9937113152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TYSON BLVD & FLAGSHIP KNOXVILLE DR, ALCOA, BLOUNT County; city: ALCOA; cross street: FLAGSHIP KNOXVILLE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4e0cdfeacf31b37c",
+    "latitude": 35.994977999999996,
+    "longitude": -83.78501531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEALS COMMERCE LN & STRAWBERRY PLAINS PIKE, KNOXVILLE; city: KNOXVILLE; cross street: STRAWBERRY PLAINS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2493cae6bcf3273d",
+    "latitude": 35.771531,
+    "longitude": -83.5353513152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARKWAY & RANMOOR WAY, PIGEON FORGE, SEVIER County; city: PIGEON FORGE; cross street: RANMOOR WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3c749ced4352f4c",
+    "latitude": 35.88873699999999,
+    "longitude": -83.93698931528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CIRCLE OAK DR & STHY 168, KNOXVILLE; city: KNOXVILLE; cross street: STHY 168",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3db7862261d5921",
+    "latitude": 35.824902,
+    "longitude": -83.77542231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JEFFRIES HOLLOW RD & KEENER RD, SEYMOUR, BLOUNT County; city: SEYMOUR; cross street: KEENER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7b12e3b2b879893f",
+    "latitude": 35.969239184705295,
+    "longitude": -83.26346567158642,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W HWY 25 70 & CLEVENGER CUT OFF, NEWPORT, COCKE County; city: NEWPORT; cross street: CLEVENGER CUT OFF",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7854347a19d525b7",
+    "latitude": 35.872041,
+    "longitude": -83.57730931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 411 & HAZEL DR, SEVIERVILLE; city: SEVIERVILLE; cross street: HAZEL DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "61a293f3b6e27b49",
+    "latitude": 35.88000199999999,
+    "longitude": -83.56798731528202,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ALLENSVILLE RD & OLD DOUGLAS DAM RD, SEVIERVILLE; city: SEVIERVILLE; cross street: OLD DOUGLAS DAM RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f1428907cd72c3f",
+    "latitude": 35.92082,
+    "longitude": -83.94434931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRIAR ROCK LN & WOODSON DR, KNOXVILLE; city: KNOXVILLE; cross street: WOODSON DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7ee1fb428b88ead",
+    "latitude": 35.959644,
+    "longitude": -83.97580931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LONAS DR & KIM WATT DR, KNOXVILLE; city: KNOXVILLE; cross street: KIM WATT DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c9668a82ca90b86",
+    "latitude": 35.877942564829105,
+    "longitude": -83.57349275790232,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WINFIELD DUNN PKWY & ALLENSVILLE RD, SEVIERVILLE; city: SEVIERVILLE; cross street: ALLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2372d827bef357bc",
+    "latitude": 35.90787699999999,
+    "longitude": -83.8421043152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 441 & E NORTON RD, KNOXVILLE; city: KNOXVILLE; cross street: E NORTON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c8cacbe23a324f0",
+    "latitude": 35.875065,
+    "longitude": -83.79240731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BURNETT STATION RD & WALKER AVE, SEYMOUR, BLOUNT County; city: SEYMOUR; cross street: WALKER AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9429999a27ba1e4d",
+    "latitude": 35.95635300000001,
+    "longitude": -83.93128231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VOLUNTEER BLVD & CUMBERLAND AVE, KNOXVILLE; city: KNOXVILLE; cross street: CUMBERLAND AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d688b3b44a799dff",
+    "latitude": 35.953654,
+    "longitude": -83.9409433152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VOLUNTEER BLVD & CUMBERLAND AVE, KNOXVILLE; city: KNOXVILLE; cross street: CUMBERLAND AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2b917dd2b5c0f66e",
+    "latitude": 35.953654,
+    "longitude": -83.9409433152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VOLUNTEER BLVD & CUMBERLAND AVE, KNOXVILLE; city: KNOXVILLE; cross street: CUMBERLAND AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1395a8bc695335af",
+    "latitude": 35.949477,
+    "longitude": -83.92633531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAKE LOUDOUN BLVD & NEYLAND DR, KNOXVILLE; city: KNOXVILLE; cross street: NEYLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9e76ca9715610dac",
+    "latitude": 35.829406,
+    "longitude": -83.9524883152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S SINGLETON STATION RD & CUSICK RD, MARYVILLE, BLOUNT County; city: MARYVILLE; cross street: CUSICK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c9289d5c9668f64",
+    "latitude": 35.882027,
+    "longitude": -83.95691131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 129 & TOPSIDE RD, KNOXVILLE; city: KNOXVILLE; cross street: TOPSIDE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d9e8eecf4ea40f60",
+    "latitude": 35.79919999999999,
+    "longitude": -83.99355331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TYSON BLVD & W HUNT RD, ALCOA, BLOUNT County; city: ALCOA; cross street: W HUNT RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ba8c6f1081dff97",
+    "latitude": 35.875065,
+    "longitude": -83.79240731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BURNETT STATION RD & WALKER AVE, SEYMOUR, BLOUNT County; city: SEYMOUR; cross street: WALKER AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9bcbceaa83c9c490",
+    "latitude": 35.877943,
+    "longitude": -83.57349231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WINFIELD DUNN PKWY & ALLENSVILLE RD, SEVIERVILLE; city: SEVIERVILLE; cross street: ALLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "00bf6fb229572150",
+    "latitude": 35.798652999999995,
+    "longitude": -83.6625513152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SUMMIT TRAILS DR & BLUFF MOUNTAIN RD, SEVIERVILLE; city: SEVIERVILLE; cross street: BLUFF MOUNTAIN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

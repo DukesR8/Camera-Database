@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "122497318034dbca",
+    "latitude": 43.52599599999999,
+    "longitude": -90.19736431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CAZENOVIA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b08dfd6b55d1c6c1",
+    "latitude": 44.842533,
+    "longitude": -91.14692331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: LUDINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1a147e5737e75bdf",
+    "latitude": 43.00649299999999,
+    "longitude": -91.05826931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BRIDGEPORT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "967e109539ea3510",
+    "latitude": 45.89542399999999,
+    "longitude": -91.18929631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: HUNTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9bc0243f986d0d8e",
+    "latitude": 43.951308,
+    "longitude": -90.8031103152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 717 CHARLES DR; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b24150c22eb2ff86",
+    "latitude": 45.647287999999996,
+    "longitude": -91.78773531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SARONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "278e939e94e61482",
+    "latitude": 45.492436,
+    "longitude": -91.72315131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8468139d5570356c",
+    "latitude": 45.77718900000001,
+    "longitude": -91.62712131528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W6570 CR-N; city: BIRCHWOOD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "789e6974c8543bfb",
+    "latitude": 43.933327,
+    "longitude": -90.8390923152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1961 Linda Lane; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ec3d6d6342b0fff",
+    "latitude": 44.760913,
+    "longitude": -92.77852931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRESCOTT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4661bf195c3b944",
+    "latitude": 46.157398,
+    "longitude": -91.8116053152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MINONG; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "188aa44b44d294d6",
+    "latitude": 44.94407499999999,
+    "longitude": -90.34574931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: COLBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2d488e526cf21cbb",
+    "latitude": 44.84295899999999,
+    "longitude": -91.59435331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: UNION; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "381cdda069156e6d",
+    "latitude": 44.961299999999994,
+    "longitude": -92.7229873152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "96c5fecbb0de05ca",
+    "latitude": 44.655185,
+    "longitude": -91.03555231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: FAIRCHILD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f6124bac11f77f12",
+    "latitude": 43.67448300000001,
+    "longitude": -90.31606631528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HILLSBORO; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae9ff347df81d65d",
+    "latitude": 45.958732999999995,
+    "longitude": -91.35942631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "20f0b85cd7f121b5",
+    "latitude": 45.913811,
+    "longitude": -91.4160193152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BASS LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "758b0d4333495e0f",
+    "latitude": 43.052368,
+    "longitude": -91.13119231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRAIRIE DU CHIEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1cc2e83c7f2155d1",
+    "latitude": 44.812906,
+    "longitude": -91.45264831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6104a9aa65d3927",
+    "latitude": 43.877214,
+    "longitude": -91.1770083152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c02dfeb0c70f1c3d",
+    "latitude": 46.01183499999999,
+    "longitude": -91.46612131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c15271c44b8cc1a",
+    "latitude": 45.099385999999996,
+    "longitude": -92.55969831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: NEW RICHMOND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e259e7afad0e1f04",
+    "latitude": 45.318161999999994,
+    "longitude": -92.70733031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: OSCEOLA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69e18bb83c577951",
+    "latitude": 46.007623,
+    "longitude": -92.36408231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SWISS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe9fef8602d3d2fc",
+    "latitude": 45.95959099999999,
+    "longitude": -91.35861031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "af5c8678941a3c64",
+    "latitude": 44.435578,
+    "longitude": -92.07329731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4792c2737e577239",
+    "latitude": 45.207642,
+    "longitude": -91.89313131528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RIDGELAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "adc4a45bc3c2012e",
+    "latitude": 44.850471999999996,
+    "longitude": -92.60910331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5ab7f0296ea89f86",
+    "latitude": 44.773174000000004,
+    "longitude": -91.43970331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e09773affd1ed18",
+    "latitude": 45.400963,
+    "longitude": -91.86410331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: BARRON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "87b1a6dded0a7882",
+    "latitude": 43.580644,
+    "longitude": -90.12571831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA VALLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "96810975b5260f31",
+    "latitude": 45.39480399999999,
+    "longitude": -92.15436331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: TURTLE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ec683c881c4847b0",
+    "latitude": 43.993025,
+    "longitude": -91.2837483152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HOLMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd3854d53416a38b",
+    "latitude": 43.717983999999994,
+    "longitude": -90.7667493152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 26849 MAINSTREAM RD; city: CLINTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d0c1fb5e7f8c9ea",
+    "latitude": 43.958651999999994,
+    "longitude": -90.50600831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3999a104af26ae8",
+    "latitude": 44.644028,
+    "longitude": -91.31357231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CLEAR CREEK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74d745deb78f771d",
+    "latitude": 44.13195199999999,
+    "longitude": -90.32190231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SCOTT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6dce2739633551a",
+    "latitude": 43.880133,
+    "longitude": -91.1893103152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd15c721eff396af",
+    "latitude": 43.94883,
+    "longitude": -90.83015531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "af04a7f9b4a2767a",
+    "latitude": 44.330749,
+    "longitude": -91.92276531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ALMA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "430a46eb6bfe8369",
+    "latitude": 45.60659799999999,
+    "longitude": -91.76851531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: OAK GROVE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d5033bc6c0e597c",
+    "latitude": 45.80881799999999,
+    "longitude": -92.17598731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA FOLLETTE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "070033f27f0056c4",
+    "latitude": 43.871982,
+    "longitude": -90.16757231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8157f8724521f12c",
+    "latitude": 44.944881,
+    "longitude": -90.27937231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HULL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9b3fae4ffc001ba3",
+    "latitude": 45.990511,
+    "longitude": -91.38535931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f1a191ec2001b8e4",
+    "latitude": 45.998371,
+    "longitude": -91.49322031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b0b7df1ce15fb2f",
+    "latitude": 43.38201899999999,
+    "longitude": -90.25467331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WILLOW; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8e239093774e6b5",
+    "latitude": 43.87815100000001,
+    "longitude": -91.17868731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a2feb80646e25877",
+    "latitude": 44.782307,
+    "longitude": -91.92506631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: MENOMONIE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f03edb21932e5fd0",
+    "latitude": 44.803473999999994,
+    "longitude": -91.42205631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db418feb9fd2b738",
+    "latitude": 45.494578999999995,
+    "longitude": -91.76400131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ed5ecf292d3bcd47",
+    "latitude": 43.893159000000004,
+    "longitude": -91.0775673152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4fee68c277b50ae2",
+    "latitude": 43.877151,
+    "longitude": -90.17417331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL ROAD; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f6408a25fe2f6fae",
+    "latitude": 45.400065,
+    "longitude": -92.6283523152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ST. CROIX FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c965b69dae5b2a86",
+    "latitude": 44.59582699999999,
+    "longitude": -90.91046231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MENTOR; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ddb1de3c93b7618e",
+    "latitude": 44.962873,
+    "longitude": -92.7410533152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6760b0dbc6d788d",
+    "latitude": 46.58724899999999,
+    "longitude": -90.95578731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BARKSDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47b14fc873a12e16",
+    "latitude": 44.794681999999995,
+    "longitude": -91.45563231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: WASHINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6635a5aab308b586",
+    "latitude": 45.00569600000001,
+    "longitude": -92.75435331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NORTH HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a0cbb435508a6e22",
+    "latitude": 43.972281,
+    "longitude": -90.4820783152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17e33a8c6eb8a3df",
+    "latitude": 45.513707,
+    "longitude": -92.28544931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GEORGETOWN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf0439f8c8180dd5",
+    "latitude": 45.90551299999999,
+    "longitude": -92.36620931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: OAKLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc503a6ace7d2a0d",
+    "latitude": 45.22035400000001,
+    "longitude": -91.58173331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: DOVRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "167818fb60d18fe3",
+    "latitude": 44.609654,
+    "longitude": -91.46915931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: PLEASANT VALLEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c774e43871fd45fe",
+    "latitude": 44.80074599999999,
+    "longitude": -91.44412631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "84d1fa2fcf506fb1",
+    "latitude": 43.14351899999999,
+    "longitude": -90.73542031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MARIETTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1a2026e41efc7b84",
+    "latitude": 44.942058,
+    "longitude": -92.7325553152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "adc5b4fdce92eeef",
+    "latitude": 45.400325,
+    "longitude": -92.63000531528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ST. CROIX FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9bd30763d25dba5d",
+    "latitude": 44.02819699999999,
+    "longitude": -90.05506131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NECEDAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c56fe2b2cfd33b5",
+    "latitude": 45.00229300000001,
+    "longitude": -90.31720731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: DORCHESTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "780bc13e1477b7b3",
+    "latitude": 45.878103,
+    "longitude": -91.38874831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: COUDERAY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac6ff4bbd89b6fe2",
+    "latitude": 44.23004999999999,
+    "longitude": -91.85117431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BUFFALO CITY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df2f4ae722255d24",
+    "latitude": 45.301080999999996,
+    "longitude": -92.69884431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: FARMINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "59f55ab4192e48c1",
+    "latitude": 43.970507,
+    "longitude": -90.07369531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CLEARFIELD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bb092e63ec79bb64",
+    "latitude": 44.95094599999999,
+    "longitude": -90.79358931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WITHEE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e60538fcca67c02e",
+    "latitude": 45.76980699999999,
+    "longitude": -91.22311931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RADISSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7001ca0d7fc1f791",
+    "latitude": 44.991457,
+    "longitude": -92.55966031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WARREN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4cbd79e865139c00",
+    "latitude": 43.879911,
+    "longitude": -91.18132931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "70a719a7c1e78533",
+    "latitude": 44.435295999999994,
+    "longitude": -92.07360431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2806747afd40284d",
+    "latitude": 43.01674599999998,
+    "longitude": -91.11134331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BRIDGEPORT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a062889c6fbdfa24",
+    "latitude": 44.643964,
+    "longitude": -91.31339931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CLEAR CREEK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c694a757bdb6a55",
+    "latitude": 45.549246,
+    "longitude": -92.01859931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa3acc7efa06deae",
+    "latitude": 44.991458,
+    "longitude": -92.55965331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WARREN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c1ddc26282d71e4",
+    "latitude": 43.92383199999999,
+    "longitude": -90.59308231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17501 CR-T; city: ADRIAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "248e94d2ad00456d",
+    "latitude": 45.87634,
+    "longitude": -91.30715531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: COUDERAY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4554139736520004",
+    "latitude": 43.858251,
+    "longitude": -91.25745331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: CAMPBELL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4edf6d9ac50fe2ed",
+    "latitude": 45.48342299999999,
+    "longitude": -91.72034431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a38c949adaf07e6c",
+    "latitude": 45.530429,
+    "longitude": -92.04307731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "23ed8b239e8405f7",
+    "latitude": 44.187409,
+    "longitude": -91.77461731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MILTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53453c7819c35326",
+    "latitude": 44.624722999999996,
+    "longitude": -90.14123231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: CAMERON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b6b24ba5204adb3",
+    "latitude": 43.739323,
+    "longitude": -90.7787143152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 428 Schneider St; city: CASHTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "29bb8a2c1e503c24",
+    "latitude": 45.51719099999999,
+    "longitude": -92.01800531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a79ff8792f5de32",
+    "latitude": 43.10665999999999,
+    "longitude": -91.14279731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRAIRIE DU CHIEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "27aaef39f77982dc",
+    "latitude": 43.936794,
+    "longitude": -90.81277731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 721 S COURT ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7af0d4b40e468997",
+    "latitude": 45.473325999999986,
+    "longitude": -91.73703831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a2b715c156761856",
+    "latitude": 44.319383,
+    "longitude": -90.78554831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BROCKWAY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1501497bfac435ef",
+    "latitude": 46.584486999999996,
+    "longitude": -90.95977431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: EILEEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "410e379e72b31c55",
+    "latitude": 43.94306199999999,
+    "longitude": -90.82526531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 119 S.Thayer Ave; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd491d62f54bc99f",
+    "latitude": 45.534012999999995,
+    "longitude": -92.2851543152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GEORGETOWN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd316efa02bf9b5b",
+    "latitude": 45.494598,
+    "longitude": -91.7661903152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a928f621dd26173",
+    "latitude": 43.78639,
+    "longitude": -90.76373531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 26858 MARSHALL RD; city: JEFFERSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "84bfd2192d1e077f",
+    "latitude": 45.51719099999999,
+    "longitude": -92.01800531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2e8b64fe338ce377",
+    "latitude": 45.400895000000006,
+    "longitude": -91.82592631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: BARRON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9c485fbc51d5476",
+    "latitude": 44.875728,
+    "longitude": -92.65153531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "adb91e012d3c1271",
+    "latitude": 43.189356999999994,
+    "longitude": -90.07351931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: SPRING GREEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ae65244a104bde3",
+    "latitude": 43.35544999999999,
+    "longitude": -90.38998031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RICHLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "192880257691543e",
+    "latitude": 43.90913599999999,
+    "longitude": -91.08132931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "68d83f4d3f28c33e",
+    "latitude": 43.796271,
+    "longitude": -90.06152031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW; city: MAUSTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "20c194ba93ae2abc",
+    "latitude": 44.774725,
+    "longitude": -91.53671631528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BRUNSWICK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eeee3e722b7db143",
+    "latitude": 44.986774999999994,
+    "longitude": -92.71760631528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "839ec4538d3847e7",
+    "latitude": 45.578017,
+    "longitude": -92.10810831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: MAPLE PLAIN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52b5fff6b38d5db7",
+    "latitude": 45.39673500000001,
+    "longitude": -92.58813631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ST. CROIX FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74224f2fc5c415cb",
+    "latitude": 44.640064,
+    "longitude": -92.1343353152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WATERVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a3a6e657dd43134e",
+    "latitude": 44.962822,
+    "longitude": -92.5605613152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ROBERTS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62d33b66fb8188c2",
+    "latitude": 44.94894300000001,
+    "longitude": -92.69177531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4651a267158363e7",
+    "latitude": 45.553097,
+    "longitude": -90.27220631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRENTICE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "371b54d265514c35",
+    "latitude": 43.747804,
+    "longitude": -90.77815831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1306 Sara Ave; city: CASHTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1407e0a09d2deaec",
+    "latitude": 45.53041399999999,
+    "longitude": -92.04332331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "23b95357d00ff3e2",
+    "latitude": 44.96174,
+    "longitude": -92.74528231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52d838b69e78b682",
+    "latitude": 43.78979,
+    "longitude": -91.23217531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2107 17th st s; city: LA CROSSE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ff0cd969890998c9",
+    "latitude": 45.55308699999999,
+    "longitude": -90.27219131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRENTICE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d3302089551687c2",
+    "latitude": 45.93853099999999,
+    "longitude": -91.37545431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BASS LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10c7789890eef153",
+    "latitude": 44.793572,
+    "longitude": -91.46431931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6114f6e1d651a1ee",
+    "latitude": 44.12600299999999,
+    "longitude": -90.99795231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MELROSE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e06e9a3b56511968",
+    "latitude": 44.02496,
+    "longitude": -90.07611531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NECEDAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ba6dd2b18ba9510",
+    "latitude": 44.961593,
+    "longitude": -92.56054231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ROBERTS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f663be6676862492",
+    "latitude": 44.987845,
+    "longitude": -92.7586173152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21554b4cbe88f2b3",
+    "latitude": 46.021803999999996,
+    "longitude": -91.47165531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5149e19c60102c3c",
+    "latitude": 43.87461099999999,
+    "longitude": -91.18889431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9632ea21be4e3275",
+    "latitude": 43.00649299999999,
+    "longitude": -91.05826931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BRIDGEPORT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2195ba5035dfd4f0",
+    "latitude": 44.570285,
+    "longitude": -91.65224031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MONDOVI; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2159a9a5d2b243a4",
+    "latitude": 44.764212,
+    "longitude": -92.7898583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRESCOTT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a06b6462b1b4e943",
+    "latitude": 43.78868099999999,
+    "longitude": -90.87829931528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 26849 MAINSTREAM RD; city: PORTLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd2bf604985282c1",
+    "latitude": 44.794681999999995,
+    "longitude": -91.45563231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: WASHINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "911573546d26ae00",
+    "latitude": 44.76258599999999,
+    "longitude": -91.41926331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8fd3f67da6c26499",
+    "latitude": 46.131972,
+    "longitude": -90.01693931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MERCER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "957e339f596b4ba1",
+    "latitude": 43.420424,
+    "longitude": -90.77748631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CLAYTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1ebece8a9f343619",
+    "latitude": 44.42532400000001,
+    "longitude": -92.01043831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52e6e27be9ab95af",
+    "latitude": 45.895428,
+    "longitude": -91.18929931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HUNTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b0b42deeb01bf1f4",
+    "latitude": 43.312007,
+    "longitude": -90.34446931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RICHLAND CENTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e54eb8fa19e18b3f",
+    "latitude": 43.594321,
+    "longitude": -90.1282823152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA VALLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fbc875f6cb725b8e",
+    "latitude": 43.878468,
+    "longitude": -91.19735131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "083238bb6bb7510a",
+    "latitude": 45.22035400000001,
+    "longitude": -91.58173331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: DOVRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "25cdc7e3129b3df5",
+    "latitude": 44.96532,
+    "longitude": -92.75608031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cfd9fc4a8a09ed39",
+    "latitude": 44.79077199999999,
+    "longitude": -91.39837031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WASHINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fae0417ccff5e544",
+    "latitude": 45.321103,
+    "longitude": -92.3624093152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: AMERY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "34d09a7cf4b3703a",
+    "latitude": 45.822877,
+    "longitude": -92.19051131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SAND LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74f0785472bffb2c",
+    "latitude": 43.956461999999995,
+    "longitude": -90.52206531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f0f89fbc7d085660",
+    "latitude": 44.41421899999999,
+    "longitude": -92.00144731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b48270192915204f",
+    "latitude": 43.949860999999984,
+    "longitude": -90.8196913152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 606 CAP ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a9532800af2b3f3f",
+    "latitude": 43.944402,
+    "longitude": -90.32309431528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: OAKDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "09225815d0fa3894",
+    "latitude": 46.52075599999999,
+    "longitude": -90.5397043152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GURNEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6cbcd82f2330fb75",
+    "latitude": 43.975303,
+    "longitude": -90.3525283152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 32103 GROTTO AVE; city: OAKDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "605adac0e3f87f92",
+    "latitude": 45.53128399999999,
+    "longitude": -92.01156631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "87b7d09077047445",
+    "latitude": 44.96281900000001,
+    "longitude": -92.5605473152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ROBERTS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "054f4afcde72a824",
+    "latitude": 44.983243,
+    "longitude": -92.74397531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d4388cbd9de19f9",
+    "latitude": 43.81190699999999,
+    "longitude": -91.19334031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA CROSSE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "09d25eea5ab385d9",
+    "latitude": 44.95093000000001,
+    "longitude": -90.79357531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: THORP; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f5822dda95282847",
+    "latitude": 43.79579300000001,
+    "longitude": -90.0560653152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: MAUSTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1d8bb3f137e25389",
+    "latitude": 45.400771,
+    "longitude": -91.82605931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: BARRON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "089aaaf3b0fc8c15",
+    "latitude": 45.473325999999986,
+    "longitude": -91.73703831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ad683a791be1b11c",
+    "latitude": 43.962818,
+    "longitude": -91.22725331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6299fa71ee1f1286",
+    "latitude": 43.92720299999999,
+    "longitude": -91.2602333152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cdbfc4afb9b5c161",
+    "latitude": 43.79094099999999,
+    "longitude": -91.20973731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SHELBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a87e1f431f5c0ab9",
+    "latitude": 43.771074999999996,
+    "longitude": -90.32470831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GLENDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a94280806feeb40",
+    "latitude": 44.86212499999999,
+    "longitude": -92.6504443152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "15f77870c7575f2d",
+    "latitude": 44.98757599999999,
+    "longitude": -92.7589573152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d616df23914f1460",
+    "latitude": 43.865609,
+    "longitude": -91.23667431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: LA CROSSE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6b8c7b670f28d21",
+    "latitude": 45.549228,
+    "longitude": -92.01853531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "219b40008d786ae9",
+    "latitude": 43.00649400000001,
+    "longitude": -91.05827231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BRIDGEPORT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5517602c818c4c18",
+    "latitude": 44.977602000000005,
+    "longitude": -92.72030531528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ad52de84da6951c8",
+    "latitude": 45.880239,
+    "longitude": -90.42332931528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: FIFIELD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f98bffd5a7b1455",
+    "latitude": 45.91384999999999,
+    "longitude": -91.41584231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BASS LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "533ca84b008d816b",
+    "latitude": 44.069244,
+    "longitude": -91.63486431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: FOUNTAIN CITY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd59c1d8ab4a2bd1",
+    "latitude": 45.00228299999999,
+    "longitude": -90.31720731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: DORCHESTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c857116eb81002c0",
+    "latitude": 44.417637,
+    "longitude": -92.01070331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ff7b6879abcd0317",
+    "latitude": 43.94883,
+    "longitude": -90.83015531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e204e896a3b194a6",
+    "latitude": 43.343417,
+    "longitude": -90.40182231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RICHLAND CENTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50dff8205582091b",
+    "latitude": 44.77457999999999,
+    "longitude": -91.44146531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e131f08c2916e6ff",
+    "latitude": 44.435578,
+    "longitude": -92.07329731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: NELSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f5f905aca02c21f",
+    "latitude": 44.063933000000006,
+    "longitude": -91.63743731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BUFFALO; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76035946e6a22e5b",
+    "latitude": 45.98026000000001,
+    "longitude": -91.35967831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BASS LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "33a497c295d57b36",
+    "latitude": 43.89856,
+    "longitude": -91.10638231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dd3234c157bebab3",
+    "latitude": 43.790535,
+    "longitude": -91.20924631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SHELBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4274a877ef731f4e",
+    "latitude": 44.159292,
+    "longitude": -90.57192431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GRANT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc4412edc51b8867",
+    "latitude": 43.894429,
+    "longitude": -91.1024433152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HAMILTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1ff19af4bc7a8619",
+    "latitude": 45.809892000000005,
+    "longitude": -92.22372231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA FOLLETTE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26f26debe22eb51c",
+    "latitude": 43.923799,
+    "longitude": -91.23690131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8b7e172ebbe03c00",
+    "latitude": 44.83317499999999,
+    "longitude": -91.44531031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "626769b767fcdf99",
+    "latitude": 44.81377199999999,
+    "longitude": -91.69335031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: SPRING BROOK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e2586c884afe2775",
+    "latitude": 44.742936,
+    "longitude": -92.77990131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRESCOTT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "07331741b29d77d7",
+    "latitude": 43.879529999999995,
+    "longitude": -91.1817193152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f13c3a2ba9a26ed0",
+    "latitude": 46.58695300000001,
+    "longitude": -90.9563533152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BARKSDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "28b9ff1b7a18f875",
+    "latitude": 43.969546,
+    "longitude": -91.28432531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: HOLMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b748429ebbd715d4",
+    "latitude": 44.862121,
+    "longitude": -92.6504443152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "94c60c4979e71e8b",
+    "latitude": 44.793579,
+    "longitude": -91.46432231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "511d65621e4d627f",
+    "latitude": 44.41845,
+    "longitude": -91.67786231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LINCOLN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c42f8f265f40a138",
+    "latitude": 43.756773999999986,
+    "longitude": -91.20843331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5202 RIVERCREST DR N; city: LA CROSSE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26b505296cc1c8b9",
+    "latitude": 45.999807999999994,
+    "longitude": -91.50507231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4301e9d83ccbf773",
+    "latitude": 44.04722,
+    "longitude": -90.00691031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: STRONGS PRAIRIE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6ca270586607bbf",
+    "latitude": 44.511024000000006,
+    "longitude": -90.6002663152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: PINE VALLEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b73c9943f88c4f1d",
+    "latitude": 44.18740499999999,
+    "longitude": -91.77461131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MILTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c07a32d94109150d",
+    "latitude": 44.418439,
+    "longitude": -91.67786231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LINCOLN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "93114124c6cf5218",
+    "latitude": 43.94543,
+    "longitude": -90.32018831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: OAKDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cb9da4cb5ba5e267",
+    "latitude": 43.95584799999999,
+    "longitude": -90.52486431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8628b969e32c6ce9",
+    "latitude": 43.87465000000001,
+    "longitude": -91.18919931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "400e61f26e0fa758",
+    "latitude": 44.763501999999995,
+    "longitude": -91.4603853152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4e8da9b461b8097a",
+    "latitude": 44.644028,
+    "longitude": -91.31357231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CLEAR CREEK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3c6e2074195866d2",
+    "latitude": 43.94883,
+    "longitude": -90.83015531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de37f9e75c8de74a",
+    "latitude": 46.324108,
+    "longitude": -90.66173331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MELLEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fcfeb7047c4769b9",
+    "latitude": 43.58167699999999,
+    "longitude": -90.13061031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: LA VALLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "972ece0f912416b7",
+    "latitude": 44.885631,
+    "longitude": -91.73332431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ELK MOUND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1828498706ec67c1",
+    "latitude": 45.530429,
+    "longitude": -92.04307731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74e45257ae9ce2e9",
+    "latitude": 45.549228,
+    "longitude": -92.01853531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "299e8fcee2e74685",
+    "latitude": 44.113414,
+    "longitude": -91.69321931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: FOUNTAIN CITY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69d449d9e0170a81",
+    "latitude": 44.159132,
+    "longitude": -90.57283031528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GRANT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "64980870409c6d2e",
+    "latitude": 45.31818,
+    "longitude": -92.70737731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: OSCEOLA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae5516a248ee72d7",
+    "latitude": 45.255140999999995,
+    "longitude": -92.27174631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: CLEAR LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e1b9f2042f68405e",
+    "latitude": 44.816589,
+    "longitude": -91.4528413152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b7ac05c7c9d77442",
+    "latitude": 45.87946699999999,
+    "longitude": -90.4176023152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: FIFIELD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cf2f642837f601ab",
+    "latitude": 44.444317,
+    "longitude": -90.84123331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MERRILLAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5d3cf66509e2d92e",
+    "latitude": 45.40760399999999,
+    "longitude": -91.55671731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: SUMNER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "33141fb42ae319b5",
+    "latitude": 43.883486,
+    "longitude": -90.14716231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f9b740a7ec6bf077",
+    "latitude": 44.942058,
+    "longitude": -92.7325553152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9398a4681218b52",
+    "latitude": 44.96174,
+    "longitude": -92.74528231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill rd nw ste 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "288378f5783d080e",
+    "latitude": 44.80303700000001,
+    "longitude": -91.44318631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f0106d664136fc61",
+    "latitude": 44.813050999999994,
+    "longitude": -91.45315331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1883b1baf7bed1a4",
+    "latitude": 46.587137,
+    "longitude": -90.95618431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: BARKSDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ff944ab49b8a67d8",
+    "latitude": 44.79252300000001,
+    "longitude": -91.40924631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ec0ca4f8d2f4f5e3",
+    "latitude": 45.395982000000004,
+    "longitude": -92.15162531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: TURTLE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e8f987589e84893e",
+    "latitude": 46.587379999999996,
+    "longitude": -90.95562931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ASHLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "994421ec70722a81",
+    "latitude": 46.774562,
+    "longitude": -91.38833731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PORT WING; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "060238afc00ea63b",
+    "latitude": 44.790779,
+    "longitude": -91.39838231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: WASHINGTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "15123918de74c75d",
+    "latitude": 43.94883,
+    "longitude": -90.83015531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fff17b4c5178c3be",
+    "latitude": 45.814878,
+    "longitude": -92.03162331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BASHAW; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3d2acdacd08c56b",
+    "latitude": 43.890293,
+    "longitude": -91.0775163152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "96d37a7e7d4b07b0",
+    "latitude": 45.658360999999985,
+    "longitude": -91.1133203152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MEADOWBROOK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "03be855272de59e2",
+    "latitude": 43.578829999999996,
+    "longitude": -91.21999631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GENOA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6e649f8c97045eac",
+    "latitude": 43.924369,
+    "longitude": -90.92287331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BURNS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f2e05c6e5c027dd8",
+    "latitude": 44.063928999999995,
+    "longitude": -91.63742931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: BUFFALO; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b5435f0c4d8fe6a",
+    "latitude": 44.961730999999986,
+    "longitude": -92.7450603152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81234d99ea2e707d",
+    "latitude": 43.862709,
+    "longitude": -91.25674831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: CAMPBELL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d915f85f39413fd",
+    "latitude": 44.89706100000001,
+    "longitude": -91.69549731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ELK MOUND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a6cf672571221c47",
+    "latitude": 44.595656000000005,
+    "longitude": -90.91096931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: MENTOR; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "199f29a08cd7de96",
+    "latitude": 43.911193000000004,
+    "longitude": -91.2477533152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3b558b7634e89d18",
+    "latitude": 45.22035400000001,
+    "longitude": -91.58173331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: DOVRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c434246cb8b8f11d",
+    "latitude": 43.41850800000001,
+    "longitude": -90.95856331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: UTICA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "729de04ecd5a2dba",
+    "latitude": 45.531228000000006,
+    "longitude": -92.0115943152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "75f319a0f4e98073",
+    "latitude": 43.94883099999999,
+    "longitude": -90.83015431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4733654379ec16d8",
+    "latitude": 45.230005999999996,
+    "longitude": -91.88202531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: DALLAS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2217e7f3a4a08191",
+    "latitude": 43.79094099999999,
+    "longitude": -91.20973731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SHELBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6eab83aeeddb5127",
+    "latitude": 45.401115,
+    "longitude": -91.86399831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: BARRON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4cc1f123687cdbd1",
+    "latitude": 43.786019999999986,
+    "longitude": -90.06120931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: LEMONWEIR; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6bc5c18c1cc22864",
+    "latitude": 43.976332000000006,
+    "longitude": -91.25455931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HOLMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "643ea893b4d44b70",
+    "latitude": 44.862317999999995,
+    "longitude": -92.6506303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d1db5ca2e192807",
+    "latitude": 43.39401,
+    "longitude": -90.77679131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SOLDIERS GROVE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2276796400f9aa74",
+    "latitude": 44.875728,
+    "longitude": -92.65153531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df2512559e7cd55d",
+    "latitude": 45.823008,
+    "longitude": -91.01397431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WINTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bba19e2b3fb3b29d",
+    "latitude": 44.948961999999995,
+    "longitude": -92.69163331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e8a5a3b414bac4af",
+    "latitude": 43.227805,
+    "longitude": -90.45000331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EAGLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2638c164033e6a67",
+    "latitude": 43.944572,
+    "longitude": -90.82147831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 707 Central Ave; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0daa29d1055875bd",
+    "latitude": 45.996520000000004,
+    "longitude": -91.38764231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6ebe5838ec70650",
+    "latitude": 44.597171,
+    "longitude": -91.6313703152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: DRAMMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a956a2a0bc0012a",
+    "latitude": 43.94883099999999,
+    "longitude": -90.83015431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 426 DRAKE ST; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "613eeb4bd23de21d",
+    "latitude": 44.07079399999999,
+    "longitude": -91.55747431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BUFFALO; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ee707a1c435b0162",
+    "latitude": 43.88337700000001,
+    "longitude": -90.1755223152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2d1beb6b48958c4",
+    "latitude": 43.97064999999999,
+    "longitude": -90.07343831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: GERMANTOWN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3d9b41ca2c84fe3",
+    "latitude": 43.91120899999999,
+    "longitude": -91.24776531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e2600e4fc9547a83",
+    "latitude": 43.862643,
+    "longitude": -91.2568353152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CAMPBELL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f455c4c113f1bd19",
+    "latitude": 45.230045999999994,
+    "longitude": -91.88200931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: DALLAS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2e4732cb48c7650",
+    "latitude": 44.582049999999995,
+    "longitude": -91.4697393152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ELEVA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1d14bf0f0778a985",
+    "latitude": 43.947299,
+    "longitude": -91.26033331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BANGOR; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3ec19caadcd9ce8",
+    "latitude": 43.783407,
+    "longitude": -90.74771731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 12454 MATADOR AVE; city: JEFFERSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "706ef550aef86860",
+    "latitude": 43.89967899999999,
+    "longitude": -91.0926043152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58d732c67385ca56",
+    "latitude": 44.596697999999996,
+    "longitude": -91.17711231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: OTTER CREEK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a72378c91c9b358e",
+    "latitude": 43.420424,
+    "longitude": -90.77748631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CLAYTON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ebe4e3774c2391ae",
+    "latitude": 43.96126,
+    "longitude": -90.38011931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: OAKDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "99ef7e6c6e4c09cc",
+    "latitude": 43.807852,
+    "longitude": -90.09581831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: LINDINA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d87cf6ddda868e17",
+    "latitude": 45.00545399999999,
+    "longitude": -92.75463231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NORTH HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d40162410210dbd1",
+    "latitude": 46.587159,
+    "longitude": -90.9561303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: BARKSDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d621c79eb8bd0b24",
+    "latitude": 45.89542399999999,
+    "longitude": -91.18929631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: HUNTER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e493c5ec4ec6ff67",
+    "latitude": 44.961156,
+    "longitude": -92.7228023152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7501eeabb6dacb7e",
+    "latitude": 45.335628,
+    "longitude": -92.68442831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: OSCEOLA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ce37ea5f303c0dc",
+    "latitude": 45.04398299999999,
+    "longitude": -92.03615331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BOYCEVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ab1ada84fb6f01ab",
+    "latitude": 43.87997399999999,
+    "longitude": -90.18305731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4fd18be0126805f",
+    "latitude": 45.78815999999999,
+    "longitude": -92.38212631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SIREN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef40a4afb072f382",
+    "latitude": 45.996677,
+    "longitude": -91.38749231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "95da0e83cf4633f7",
+    "latitude": 44.748864,
+    "longitude": -92.80447031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PRESCOTT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9085be8e02e37528",
+    "latitude": 44.850471999999996,
+    "longitude": -92.60910331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4676a9d2542c13dd",
+    "latitude": 45.772622999999996,
+    "longitude": -92.7008703152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GRANTSBURG; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c480a54790d4801",
+    "latitude": 44.753032,
+    "longitude": -91.65177431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: BRUNSWICK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0430979685db8225",
+    "latitude": 45.769631000000004,
+    "longitude": -91.22219631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RADISSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e929743a88282181",
+    "latitude": 43.72915,
+    "longitude": -91.20161931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SHELBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a4316f320ecc682",
+    "latitude": 45.397268999999994,
+    "longitude": -92.60697531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ST. CROIX FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d93abd147257e1a",
+    "latitude": 45.395014999999994,
+    "longitude": -92.15389031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: TURTLE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "609c2d6558b6cedc",
+    "latitude": 43.594321,
+    "longitude": -90.1282823152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LA VALLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d9782edcb632bbf2",
+    "latitude": 44.060304,
+    "longitude": -90.86339631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LITTLE FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4af8cd6b32e5c762",
+    "latitude": 43.391063,
+    "longitude": -91.18007231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: FREEMAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72e176943d4eaf69",
+    "latitude": 43.389119,
+    "longitude": -90.61016031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SYLVAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a85b5500a6d3e96c",
+    "latitude": 46.02679499999999,
+    "longitude": -91.48896631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9164247bc72279a0",
+    "latitude": 44.890084,
+    "longitude": -91.96566531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MENOMONIE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "36b9c6439382a7d6",
+    "latitude": 44.619029999999995,
+    "longitude": -90.0297663152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: AUBURNDALE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "05725e6ec6fef45b",
+    "latitude": 44.02009299999999,
+    "longitude": -90.50670431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a6660e141758832",
+    "latitude": 43.90281699999999,
+    "longitude": -90.90493431528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd796b7de353b607",
+    "latitude": 44.53141699999999,
+    "longitude": -90.59856231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PINE VALLEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c7a9e14f7c9d0136",
+    "latitude": 45.844522,
+    "longitude": -91.54251931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: STONE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aed8b7895a477a1e",
+    "latitude": 43.8802,
+    "longitude": -91.17653031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "51175e4ec6a54526",
+    "latitude": 43.382016,
+    "longitude": -90.25467031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WILLOW; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "36051407fbc69ebe",
+    "latitude": 44.00079000000001,
+    "longitude": -90.50592731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6f5786e1d4d7616e",
+    "latitude": 43.14351899999999,
+    "longitude": -90.73542031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MARIETTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b82dbc8c1cae81f",
+    "latitude": 46.206630000000004,
+    "longitude": -91.29674431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CABLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ce3a93b0c7061c67",
+    "latitude": 44.963819,
+    "longitude": -92.72278231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8e55b28a0c61d31d",
+    "latitude": 44.531273,
+    "longitude": -90.59878531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: PINE VALLEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bdb0ccdefd1fe76a",
+    "latitude": 43.79599199999999,
+    "longitude": -90.04784631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: LEMONWEIR; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e124edfedb0c501b",
+    "latitude": 43.945587999999994,
+    "longitude": -91.25932831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: HOLMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "791434f9577d7be9",
+    "latitude": 43.911202,
+    "longitude": -91.24777131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ONALASKA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c16a1bfb42e53dcd",
+    "latitude": 43.00946199999999,
+    "longitude": -91.0625773152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BRIDGEPORT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f2e9954169f79fb3",
+    "latitude": 43.89881400000001,
+    "longitude": -91.1060343152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WEST SALEM; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f9dc893fa4bae53e",
+    "latitude": 44.063928999999995,
+    "longitude": -91.63742931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: BUFFALO; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "630b8b56de206db9",
+    "latitude": 44.444317999999996,
+    "longitude": -90.8412283152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MERRILLAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2471cfcc831c522a",
+    "latitude": 43.897329000000006,
+    "longitude": -90.05459231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: GERMANTOWN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "34889fd67539e19a",
+    "latitude": 43.201359999999994,
+    "longitude": -90.44347131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: EAGLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "450602039a8e87b3",
+    "latitude": 44.905736,
+    "longitude": -91.93982631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: MENOMONIE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cbce55e152b51c50",
+    "latitude": 45.535739,
+    "longitude": -90.4934593152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: CATAWBA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "374f7b6ff1b94ced",
+    "latitude": 45.220243,
+    "longitude": -91.5821273152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: DOVRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1e4ed64aff6e2bed",
+    "latitude": 45.53128399999999,
+    "longitude": -92.01156631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: CUMBERLAND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c908af408ee985de",
+    "latitude": 43.88308299999999,
+    "longitude": -90.17016831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74c5b0b5c63bab11",
+    "latitude": 43.88045599999999,
+    "longitude": -90.15277231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c8695b89d9f97268",
+    "latitude": 44.754412,
+    "longitude": -91.67494731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: ROCK CREEK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "93c7eec973817f50",
+    "latitude": 44.977627000000005,
+    "longitude": -92.7154013152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38075fed2ae3cb4c",
+    "latitude": 43.189356999999994,
+    "longitude": -90.07351931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: SPRING GREEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f4a58e7b796ea6ee",
+    "latitude": 44.959406,
+    "longitude": -92.73561931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HUDSON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4fa083a79df5ba2e",
+    "latitude": 43.19104800000001,
+    "longitude": -90.2008963152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: LONE ROCK; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "490e4661f72c7987",
+    "latitude": 44.850471999999996,
+    "longitude": -92.60910331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7317a12a568e252",
+    "latitude": 43.188964,
+    "longitude": -90.07389631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SPRING GREEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d04b727ee26213a7",
+    "latitude": 43.762213,
+    "longitude": -91.13935531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SHELBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "83d936c2a0b8b326",
+    "latitude": 44.173375,
+    "longitude": -90.82037031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BLACK RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c34839fde9849fe4",
+    "latitude": 44.81673299999999,
+    "longitude": -91.45264431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "056581b7e80633c9",
+    "latitude": 44.018193999999994,
+    "longitude": -90.50042631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "801494fa61e3688d",
+    "latitude": 43.903538999999995,
+    "longitude": -90.90466531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ccebf483e95e11a9",
+    "latitude": 43.516458,
+    "longitude": -90.01991731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: REEDSBURG; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a5de02261fde7a58",
+    "latitude": 44.89706100000001,
+    "longitude": -91.69549731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: ELK MOUND; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9f35c062265405aa",
+    "latitude": 43.921509,
+    "longitude": -90.82219131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38e266da181a167b",
+    "latitude": 45.04398299999999,
+    "longitude": -92.03615331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BOYCEVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "04fb6b009c69763a",
+    "latitude": 44.862394,
+    "longitude": -92.61087531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efc225231f3f7358",
+    "latitude": 45.041222,
+    "longitude": -91.90636431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: WHEELER; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ab2cbb926090181",
+    "latitude": 44.51102600000001,
+    "longitude": -90.60026031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: PINE VALLEY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "792f99de2a4eec06",
+    "latitude": 43.51643099999999,
+    "longitude": -90.01989531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: REEDSBURG; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1641bcbfe1b866b6",
+    "latitude": 44.02533699999999,
+    "longitude": -90.31930431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: BYRON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81655fd07c83fc53",
+    "latitude": 43.997268999999996,
+    "longitude": -91.29153231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: HOLMEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa77bf4c9cfe7ff3",
+    "latitude": 45.476877,
+    "longitude": -91.73605831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: RICE LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "91e45013c7355275",
+    "latitude": 44.943834,
+    "longitude": -90.34606731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: COLBY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a78cd95fc8d847e4",
+    "latitude": 45.98225,
+    "longitude": -91.33281131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: HAYWARD; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7b4ca68926ee7f4f",
+    "latitude": 44.806704,
+    "longitude": -91.46799031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: ALTOONA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c60830346699d0d",
+    "latitude": 44.298887,
+    "longitude": -91.90892431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ALMA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c15ddbfd80c5f16b",
+    "latitude": 45.944793999999995,
+    "longitude": -91.37939531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BASS LAKE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57dd5f2d4fe293df",
+    "latitude": 44.58422900000001,
+    "longitude": -91.64672631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: NAPLES; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5ffa83b1d2319a68",
+    "latitude": 44.01722699999999,
+    "longitude": -90.51570731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: TOMAH; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5585cbe364d48d34",
+    "latitude": 43.576595999999995,
+    "longitude": -91.22533931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: GENOA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "838db510d2932639",
+    "latitude": 44.444315,
+    "longitude": -90.8412303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: MERRILLAN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c52cc75024f6ba0",
+    "latitude": 44.76259799999999,
+    "longitude": -91.41926531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: EAU CLAIRE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c30d46d52db2daab",
+    "latitude": 44.875728,
+    "longitude": -92.65153531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: RIVER FALLS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "240642aa982e879b",
+    "latitude": 43.840936,
+    "longitude": -91.25729331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: CAMPBELL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fdedd635dddc3cf5",
+    "latitude": 44.330749,
+    "longitude": -91.92276531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ALMA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf159120dd31d250",
+    "latitude": 43.880469,
+    "longitude": -90.15353931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: NEW LISBON; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b020bcb40ba1407",
+    "latitude": 45.290938,
+    "longitude": -92.36873631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: AMERY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80d313110b2f3533",
+    "latitude": 44.905741,
+    "longitude": -91.9397993152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: MENOMONIE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6c7dbd2f28d6c77",
+    "latitude": 43.940491999999985,
+    "longitude": -90.81275531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 250 MARBLE AVE; city: SPARTA; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a9fce72b17ad885c",
+    "latitude": 45.805048,
+    "longitude": -91.3975753152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: COUDERAY; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "43e47eaeb7f631de",
+    "latitude": 44.961597,
+    "longitude": -92.56054231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: ROBERTS; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a8cccf2c7f5067a4",
+    "latitude": 43.14892999999999,
+    "longitude": -90.7161723152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BOSCOBEL; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

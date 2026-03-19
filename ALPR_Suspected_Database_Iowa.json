@@ -1,0 +1,416 @@
+[
+  {
+    "id": "d2c0f25957539f5e",
+    "latitude": 42.993348,
+    "longitude": -91.04931231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WYALUSING; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d64578aa8da2965",
+    "latitude": 40.4100066,
+    "longitude": -95.51166791528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COUNTRY CLUB DR, ROCK PORT, MO; city: ROCK PORT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bcdd1a968aa7a5b6",
+    "latitude": 41.231165,
+    "longitude": -95.94809731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3002 24TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "89af0202da76d9f2",
+    "latitude": 40.0076432,
+    "longitude": -91.30166991528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 24 & N 72ND ST; cross street: N 72ND ST; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "339990fabe4e56df",
+    "latitude": 41.25347509999999,
+    "longitude": -95.95603581528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ST MARYS AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "067353f39154015f",
+    "latitude": 40.568588,
+    "longitude": -93.94572431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 35, BLYTHEDALE, MO; city: BLYTHEDALE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "82e4de45dcabc2f9",
+    "latitude": 40.38425099999999,
+    "longitude": -91.43920131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61, ALEXANDRIA, MO; city: ALEXANDRIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f64519ed4ffb58e",
+    "latitude": 40.4587359,
+    "longitude": -93.54676011528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EMMY PL, MERCER, MO; city: MERCER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c7ff1dfe43458865",
+    "latitude": 40.3837099,
+    "longitude": -93.67669041528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, PRINCETON, MO; city: PRINCETON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6e690e326643d438",
+    "latitude": 41.23171,
+    "longitude": -95.9488513152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAK ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3430a9a4803dc22a",
+    "latitude": 42.736964,
+    "longitude": -90.40997231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BELMONT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d0e30da694aea94",
+    "latitude": 40.411653699999995,
+    "longitude": -95.51153391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CASS ST, ROCK PORT, MO; city: ROCK PORT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "434194f3f1823837",
+    "latitude": 40.366119,
+    "longitude": -94.7621638152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 245TH ST, MARYVILLE, MO; city: MARYVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "084bc924037edf63",
+    "latitude": 42.696336,
+    "longitude": -90.69535831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW; city: POTOSI; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80621005bc99fb7e",
+    "latitude": 40.4588176,
+    "longitude": -93.54677091528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EMMY PL, MERCER, MO; city: MERCER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2ae50bf4be9a9221",
+    "latitude": 42.73716199999999,
+    "longitude": -90.40948231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW; city: BELMONT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8bbd85a6d561d29a",
+    "latitude": 40.16953059999999,
+    "longitude": -91.37869241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S RANGE LINE & CO RD 2800 N; cross street: CO RD 2800 N; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb11e97655f18e04",
+    "latitude": 41.32688939999999,
+    "longitude": -95.9595097152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 7400 30TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2339280aeb170b9",
+    "latitude": 40.460472,
+    "longitude": -91.56985931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 27, ST. FRANCISVILLE, MO; city: ST. FRANCISVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "19edce103027a69f",
+    "latitude": 40.583674,
+    "longitude": -95.65277831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 29, WATSON, MO; city: WATSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fabe4ed51dd59cd4",
+    "latitude": 42.96531199999999,
+    "longitude": -90.42852531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: EDEN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7f2f7a5090b8817e",
+    "latitude": 40.5692222,
+    "longitude": -93.9448903152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fdb00909e46029a9",
+    "latitude": 42.514495,
+    "longitude": -90.6297083152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: JAMESTOWN; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "54791deb5f43f937",
+    "latitude": 40.56858789999999,
+    "longitude": -93.94572431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 35, BLYTHEDALE, MO; city: BLYTHEDALE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "99df9fe8bae1e911",
+    "latitude": 40.1402654,
+    "longitude": -91.22872651528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 336 & HWY 61; cross street: HWY 61; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4645bb792bb288e9",
+    "latitude": 40.568806,
+    "longitude": -93.9455373152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10269c7799b6c71e",
+    "latitude": 42.96541199999999,
+    "longitude": -90.44136831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: WINGVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8130ea35b94c2bd7",
+    "latitude": 40.578091,
+    "longitude": -92.52187131528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, LANCASTER, MO; city: LANCASTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "079bdf27870d5364",
+    "latitude": 42.949456000000005,
+    "longitude": -90.13181131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: DODGEVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8891035637e3faf",
+    "latitude": 40.3837199,
+    "longitude": -93.6766743152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, PRINCETON, MO; city: PRINCETON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa8ac61760cdd8ce",
+    "latitude": 41.264846299999995,
+    "longitude": -95.98279411528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 820 SADDLE CREEK RD, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a001fc80a31d3d41",
+    "latitude": 41.2534762,
+    "longitude": -95.9557479152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ST MARYS AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9191fdd4005797f0",
+    "latitude": 40.3837058,
+    "longitude": -93.67669041528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, PRINCETON, MO; city: PRINCETON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3a74856a25dbb92",
+    "latitude": 40.05558690000001,
+    "longitude": -91.49826151528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, LA GRANGE, MO; city: LA GRANGE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "459432f0d7c4042b",
+    "latitude": 40.383781400000004,
+    "longitude": -93.67669851528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, PRINCETON, MO; city: PRINCETON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "97645b111ecdf4d9",
+    "latitude": 41.23027999999999,
+    "longitude": -95.94813131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 24TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4aaacfb03799185e",
+    "latitude": 41.3278603,
+    "longitude": -95.95918561528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 7406 30TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62e10aac760640e2",
+    "latitude": 42.62114899999999,
+    "longitude": -90.59080531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 HOWELL MILL RD STE 210; city: DICKEYVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62cc4ec6169a883a",
+    "latitude": 40.0331594,
+    "longitude": -91.50199251528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61 BUS, LA GRANGE, MO; city: LA GRANGE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0f783e1ed8978bc3",
+    "latitude": 40.03617400000001,
+    "longitude": -91.03161151528408,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 24 & HWY 94; cross street: HWY 94; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d28bfe0acdde38c9",
+    "latitude": 42.62114700000001,
+    "longitude": -90.59075231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: DICKEYVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5202b8dac5a6db05",
+    "latitude": 42.63039299999999,
+    "longitude": -90.59417731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd. NW Suite 210; city: DICKEYVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6e2f445f5508c380",
+    "latitude": 42.738167999999995,
+    "longitude": -90.40758431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd suite 210; city: BELMONT; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0fc68469ae570962",
+    "latitude": 42.629048,
+    "longitude": -90.6040883152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1170 Howell Mill Rd NW Suite 210; city: DICKEYVILLE; state: wisconsin",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8082d7e961a07cc9",
+    "latitude": 40.00820569999998,
+    "longitude": -91.36927771528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 24 & BOY SCOUT RD; cross street: BOY SCOUT RD; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e693bbe38d13b016",
+    "latitude": 40.04820159999999,
+    "longitude": -91.5164469152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY C, LA GRANGE, MO; city: LA GRANGE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

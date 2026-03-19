@@ -1,0 +1,5843 @@
+[
+  {
+    "id": "cdd73f813f61468c",
+    "latitude": 39.277265,
+    "longitude": -93.93466531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 10, RICHMOND, MO; city: RICHMOND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "afc50247e54376cf",
+    "latitude": 38.8676622,
+    "longitude": -92.40239231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NURSERY RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb3fcf8e15ab7101",
+    "latitude": 36.530886,
+    "longitude": -93.31540731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "af3f0ba90da0eb9c",
+    "latitude": 37.19861499999999,
+    "longitude": -93.2963733152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOMBARD ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5efbd8e95d1d6f70",
+    "latitude": 37.208549000000005,
+    "longitude": -93.3057273152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COLLEGE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3d4195adff27f52",
+    "latitude": 36.52216829999999,
+    "longitude": -93.27754021528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26026175a817b4a9",
+    "latitude": 37.664758,
+    "longitude": -92.6474383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 32, LEBANON, MO; city: LEBANON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2ad7ffe15aa41d0b",
+    "latitude": 36.99971200000001,
+    "longitude": -94.60518931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, JOPLIN, MO; city: JOPLIN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a3b8301fd3c322a",
+    "latitude": 39.3439491,
+    "longitude": -92.00657381528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 15, PARIS, MO; city: PARIS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cfcdeb588e698abd",
+    "latitude": 37.76981029999999,
+    "longitude": -92.28486591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 17, WAYNESVILLE, MO; city: WAYNESVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "684cfc91b481fee9",
+    "latitude": 36.50257700000001,
+    "longitude": -90.54061231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 67, NEELYVILLE, MO; city: NEELYVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bebcce6e8e11e0e3",
+    "latitude": 36.9431982,
+    "longitude": -93.91897881528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 9TH ST, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21a4fcd0da1b5974",
+    "latitude": 37.205118999999996,
+    "longitude": -93.29571331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELM ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "89fcb7e589c6d6b3",
+    "latitude": 38.5658513,
+    "longitude": -92.1468636152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRANT ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c677521b9a37ca64",
+    "latitude": 38.7813425,
+    "longitude": -93.68877431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY HH, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50a4d7308e5ddbba",
+    "latitude": 38.91009369999999,
+    "longitude": -92.33611551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OUTER RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "68bf6f7edd1165f6",
+    "latitude": 36.637365,
+    "longitude": -93.21650631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BOXCAR WILLIE DR, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3aaa53381dfdab1a",
+    "latitude": 37.00343920000001,
+    "longitude": -93.2245285152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 MARLER LN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eaa9a91eda12d16c",
+    "latitude": 39.79715199999998,
+    "longitude": -91.55752841528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 168, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "12ce664c478a03cb",
+    "latitude": 37.2994235,
+    "longitude": -93.43391991528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FARMER RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efb835d235bad024",
+    "latitude": 37.19888199999998,
+    "longitude": -93.30568531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WEAVER AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "41d8c9cb788230d4",
+    "latitude": 38.964754799999994,
+    "longitude": -92.53849671528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, ROCHEPORT, MO; city: ROCHEPORT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b79f44fbb732651a",
+    "latitude": 36.613141299999995,
+    "longitude": -93.2294918152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 165 MALL RD, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a01fe91e6e42e84",
+    "latitude": 36.99971200000001,
+    "longitude": -94.60518931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, JOPLIN, MO; city: JOPLIN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2970b8313b99267",
+    "latitude": 39.253578000000005,
+    "longitude": -92.32949531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, CLARK, MO; city: CLARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8c2f2c6b102dc1d",
+    "latitude": 38.582052899999994,
+    "longitude": -92.24399741528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76a63e855bb2c2d6",
+    "latitude": 37.82831629999999,
+    "longitude": -92.18260751528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD RTE 66, ST. ROBERT, MO; city: ST. ROBERT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "820a8b575abbdbde",
+    "latitude": 37.1527725,
+    "longitude": -93.4192364152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3456 FARM RD 101, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd0ac70b03e00b9d",
+    "latitude": 39.664047599999996,
+    "longitude": -91.69468151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, MONROE CITY, MO; city: MONROE CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ba23c37fcc58c967",
+    "latitude": 36.9999809,
+    "longitude": -89.13689141528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, WICKLIFFE, KY; city: WICKLIFFE; state: itic_ky",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3305f9381e12ade3",
+    "latitude": 38.9677587,
+    "longitude": -92.31276151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6d6f9689d4c4183",
+    "latitude": 39.8082501,
+    "longitude": -91.46074361528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 168, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7756a65a437da261",
+    "latitude": 38.98096720000001,
+    "longitude": -92.29159661528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROWN STATION RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "03f19ebd29c4d2e1",
+    "latitude": 38.5841052,
+    "longitude": -92.18081241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef2ce98f5cd802ee",
+    "latitude": 38.821789100000004,
+    "longitude": -91.1395318152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 47, WARRENTON, MO; city: WARRENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "09b6116aa57f176f",
+    "latitude": 37.5781209,
+    "longitude": -93.87533271528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, ARCOLA, MO; city: ARCOLA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "00ea42bd3c51ef81",
+    "latitude": 39.799735500000004,
+    "longitude": -91.51943651528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN CROSS ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f0844306e1af4037",
+    "latitude": 38.5767377,
+    "longitude": -92.29064591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a343d29591716f73",
+    "latitude": 36.50652199999999,
+    "longitude": -93.93364531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 37, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a8eb5216907e991",
+    "latitude": 38.7604447,
+    "longitude": -93.73703991528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAGUIRE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5d85461b2318c83",
+    "latitude": 36.50633199999999,
+    "longitude": -93.52917931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, SHELL KNOB, MO; city: SHELL KNOB; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f482e19e08c6226c",
+    "latitude": 36.412986,
+    "longitude": -89.07002731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W REELFOOT AVE & OLD RIVES DR, UNION CITY, OBION County; city: UNION CITY; cross street: OLD RIVES DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d5591196b2e6b2dd",
+    "latitude": 39.277265,
+    "longitude": -93.93466531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 10, RICHMOND, MO; city: RICHMOND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc12dcb10dff8594",
+    "latitude": 39.72120439999999,
+    "longitude": -91.42023391528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS RD, HANNIBAL, MO; city: HANNIBAL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "803513a3feee863c",
+    "latitude": 39.4499441,
+    "longitude": -91.04852101528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GEORGIA ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2282e197d8eab6a7",
+    "latitude": 38.942141799999995,
+    "longitude": -92.29477231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6a3f8c3699e61c9e",
+    "latitude": 36.6595907,
+    "longitude": -93.34773261528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CROWS NEST TRL, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "103c97c11d858eed",
+    "latitude": 39.64007109999999,
+    "longitude": -91.73575941528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, MONROE CITY, MO; city: MONROE CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c5c79865b2fd8c25",
+    "latitude": 37.15320899999999,
+    "longitude": -93.4201053152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONE FALLS RD, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef6074f3938eb322",
+    "latitude": 36.73959299999999,
+    "longitude": -93.27182331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EMORY CREEK BLVD, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dd5c694eabef036a",
+    "latitude": 38.39564,
+    "longitude": -93.76714371528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6faa1935c185909",
+    "latitude": 38.7574968,
+    "longitude": -93.75129691528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1e3a272840399325",
+    "latitude": 37.253102199999994,
+    "longitude": -93.31302711528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MORRIS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "763e1d4ae392c681",
+    "latitude": 39.8087183,
+    "longitude": -91.52335551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "661157a001969ba9",
+    "latitude": 38.563508799999994,
+    "longitude": -92.16257901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK AVE, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "43bd8ea7e92bf45b",
+    "latitude": 36.635326,
+    "longitude": -93.40237531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLIDAY ACRES CIR, KIMBERLING CITY, MO; city: KIMBERLING CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "91703c6a0c2c0f08",
+    "latitude": 38.962793299999994,
+    "longitude": -92.2523955152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ST CHARLES RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "556f73035b10fa69",
+    "latitude": 37.2597331,
+    "longitude": -93.13518421528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 614 STATE HWY 125, STRAFFORD, MO; city: STRAFFORD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c20122c048cf476a",
+    "latitude": 36.6343121,
+    "longitude": -93.21471551528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSINESS HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6ce145b154f6808",
+    "latitude": 37.0010587,
+    "longitude": -93.07589881528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd206c10e7e51e80",
+    "latitude": 39.74268699999999,
+    "longitude": -92.24995921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 36 BUS, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8589b5588f457408",
+    "latitude": 37.15306509999999,
+    "longitude": -93.4187636152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3456 FARM RD 101, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d63d5a83bede2c43",
+    "latitude": 37.29899379999999,
+    "longitude": -93.41981321528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "375fa8b121e127cd",
+    "latitude": 37.084270799999985,
+    "longitude": -93.19218101528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY NN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57026fab907f416e",
+    "latitude": 37.0032222,
+    "longitude": -93.17645231528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 14, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1eb31f526a8e64c7",
+    "latitude": 37.0034274,
+    "longitude": -93.22341141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 MARLER LN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a1a6a85280faba09",
+    "latitude": 36.751529999999995,
+    "longitude": -93.30583731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "157875ffe7ee68ea",
+    "latitude": 38.5617875,
+    "longitude": -92.17758311528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 616 UNION ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2c502273f81f04d",
+    "latitude": 38.9701994,
+    "longitude": -92.38940051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc58a4ff16ed5738",
+    "latitude": 36.91943179999999,
+    "longitude": -89.3597026152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WARREN ST, CHARLESTON, MO; city: CHARLESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7263365c2ed2fa0d",
+    "latitude": 38.8961483,
+    "longitude": -92.27918851528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PONDEROSA ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9de3ea762c2df832",
+    "latitude": 38.675751,
+    "longitude": -93.22319461528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INGRAM AVE, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "444bfdf90487f11a",
+    "latitude": 38.96146310000001,
+    "longitude": -92.37322421528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2105 WORLEY ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7751c94c6b702ab3",
+    "latitude": 37.284776799999996,
+    "longitude": -93.40307261528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUGHES RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0dc86cd1d6de41c2",
+    "latitude": 38.563190999999996,
+    "longitude": -92.1692393152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEE DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21908edce63e761a",
+    "latitude": 38.56455319999999,
+    "longitude": -92.17333201528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAFAYETTE ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "05777d0d70d6419d",
+    "latitude": 39.333215,
+    "longitude": -91.18104431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61 BUS, BOWLING GREEN, MO; city: BOWLING GREEN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a2fc43b7b222e0b0",
+    "latitude": 38.692254600000005,
+    "longitude": -93.06841051528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, SMITHTON, MO; city: SMITHTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "29d9e7d7d3036dc9",
+    "latitude": 38.80999069999999,
+    "longitude": -92.55904101528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 87, PRAIRIE HOME, MO; city: PRAIRIE HOME; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6efdb55f11bc855a",
+    "latitude": 37.06724229999999,
+    "longitude": -93.12163921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 125  N, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2b3cafa543cd77c",
+    "latitude": 38.95219699999999,
+    "longitude": -92.29564531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CONLEY RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "92ee590847571baf",
+    "latitude": 36.9134289,
+    "longitude": -93.93019351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de89f13f46c93ad1",
+    "latitude": 36.634299199999994,
+    "longitude": -93.2147236152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSINESS HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6a13d81d6a705d8",
+    "latitude": 38.84752019999999,
+    "longitude": -91.9549717152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5TH ST, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "54ed2c1f9053c25f",
+    "latitude": 38.3528898,
+    "longitude": -92.5507910152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, ELDON, MO; city: ELDON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a9e4fd76d308dbc9",
+    "latitude": 37.25208520000001,
+    "longitude": -93.31305351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTON RD, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4f33cb2f27615195",
+    "latitude": 38.9846925,
+    "longitude": -92.38215321528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STADIUM BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "19ebf74befc29c39",
+    "latitude": 38.7784167,
+    "longitude": -93.73942451528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 912 COLLEGE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "306a82acb1c2e706",
+    "latitude": 38.75674089999999,
+    "longitude": -93.73731391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "303d427dd74a36e6",
+    "latitude": 36.499215,
+    "longitude": -94.48123531528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 59, NOEL, MO; city: NOEL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ed640224079540f2",
+    "latitude": 37.104099000000005,
+    "longitude": -92.07171331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, CABOOL, MO; city: CABOOL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "84eb1e0b49b38961",
+    "latitude": 38.63134829999999,
+    "longitude": -92.79022951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 5, TIPTON, MO; city: TIPTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b0ba4397f335766c",
+    "latitude": 38.75610669999999,
+    "longitude": -93.74161131528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLDEN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76d8e5a8b6ba9ca6",
+    "latitude": 38.757021,
+    "longitude": -93.73686071528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAGUIRE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae058ebd055b3633",
+    "latitude": 37.12078029999999,
+    "longitude": -93.26432321528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NOTTINGHAM ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3361206436e66dca",
+    "latitude": 37.285780199999984,
+    "longitude": -93.84183001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, MILLER, MO; city: MILLER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b8366dde7b9a2e4",
+    "latitude": 37.201816,
+    "longitude": -93.30882531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FORT AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aca3d4e387d13172",
+    "latitude": 37.24443500000001,
+    "longitude": -93.18413531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2700 MULROY RD, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cef374763dc1a11d",
+    "latitude": 38.5692877,
+    "longitude": -92.16796771528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAFAYETTE ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fb549c6f44f47bd3",
+    "latitude": 36.6406761,
+    "longitude": -93.27860721528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FRANCIS ST, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "088050737cb49e4d",
+    "latitude": 38.9495972,
+    "longitude": -91.94142631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e47800d18be58bb8",
+    "latitude": 37.20583200000001,
+    "longitude": -93.30768531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELM ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e06b92e9b13d67f",
+    "latitude": 36.637223,
+    "longitude": -93.21693631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BOXCAR WILLIE DR, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e5f4ee44e9d3b459",
+    "latitude": 36.86758400000001,
+    "longitude": -91.91865131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, POMONA, MO; city: POMONA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6b36d05c310519e6",
+    "latitude": 38.76145449999999,
+    "longitude": -93.74391221528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MING ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9bbc3a024950f3a6",
+    "latitude": 37.021354599999995,
+    "longitude": -93.09096521528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 125  N, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df11c2b4605c0c71",
+    "latitude": 37.202706,
+    "longitude": -93.30101231528408,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DOUGLAS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc2c8b0f911198c7",
+    "latitude": 36.61368,
+    "longitude": -93.28216031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 165, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0f897f5a2ac951b",
+    "latitude": 37.0685935,
+    "longitude": -93.24713851528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CALABASH ST, FREMONT HILLS, MO; city: FREMONT HILLS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1522ec5d7479484a",
+    "latitude": 36.6580941,
+    "longitude": -93.33748011528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INDIAN POINT RD, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a4de4ef6f60408e",
+    "latitude": 38.1253264,
+    "longitude": -92.68535621528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NICHOLS RD, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5894e2126d2a754a",
+    "latitude": 38.5682789,
+    "longitude": -92.17175251528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 708 MARSHALL ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3c7c8e9eeb4232ba",
+    "latitude": 39.703728899999994,
+    "longitude": -91.35158491528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 810 BIRCH ST, HANNIBAL, MO; city: HANNIBAL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "026e1e175515bbe3",
+    "latitude": 39.799735500000004,
+    "longitude": -91.51943651528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN CROSS ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1934d5c8b88ebf78",
+    "latitude": 36.70586,
+    "longitude": -91.81842531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, WEST PLAINS, MO; city: WEST PLAINS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f11937fc62e8b599",
+    "latitude": 38.851575499999996,
+    "longitude": -91.95504751528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 811 WESTMINSTER AVE, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6b6d15619a135f57",
+    "latitude": 38.967676000000004,
+    "longitude": -92.35835731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SCHWABE LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bcbecc6a3872c815",
+    "latitude": 37.769738,
+    "longitude": -92.28482111528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 17, WAYNESVILLE, MO; city: WAYNESVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "61c3188b0d0f19ad",
+    "latitude": 37.0375792,
+    "longitude": -93.4654209152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS BLVD, CLEVER, MO; city: CLEVER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "791e2f67e291a08c",
+    "latitude": 37.0676053,
+    "longitude": -93.12181381528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRIAR RD, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e05bed9ec3945b83",
+    "latitude": 39.284262999999996,
+    "longitude": -93.97165531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SPARTAN DR, RICHMOND, MO; city: RICHMOND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "42923587801e7caf",
+    "latitude": 39.8087183,
+    "longitude": -91.52335551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d5ad9a86e318cbf",
+    "latitude": 39.0183288,
+    "longitude": -92.31144551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21f282284e5d0dc6",
+    "latitude": 38.56455319999999,
+    "longitude": -92.17333201528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAFAYETTE ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f0923115e77e4246",
+    "latitude": 38.570846599999996,
+    "longitude": -92.17091191528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "16fee1084ce379f2",
+    "latitude": 38.12523359999999,
+    "longitude": -92.68536421528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NICHOLS RD, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e484cb741a0e98fe",
+    "latitude": 36.8283997,
+    "longitude": -93.22108581528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, SADDLEBROOKE, MO; city: SADDLEBROOKE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c08a014991e96c5f",
+    "latitude": 38.14332129999998,
+    "longitude": -92.63259891528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4655 OSAGE BEACH PKWY, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "810f14f63d22685a",
+    "latitude": 37.197153,
+    "longitude": -93.31413431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "562e5a537898c56a",
+    "latitude": 37.966022,
+    "longitude": -91.76389431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BISHOP AVE, ROLLA, MO; city: ROLLA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a46ed77b01bfb6a",
+    "latitude": 39.66108210000001,
+    "longitude": -92.03630341528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 15, SHELBINA, MO; city: SHELBINA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "527cded11a88bf14",
+    "latitude": 37.2538937,
+    "longitude": -93.31293201528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MORRIS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58e92e10ce13ee49",
+    "latitude": 38.83044,
+    "longitude": -91.02170131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SVC RD N, WRIGHT CITY, MO; city: WRIGHT CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "688a582027fc5466",
+    "latitude": 36.6580941,
+    "longitude": -93.33748011528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INDIAN POINT RD, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "09eedb0f736a8290",
+    "latitude": 38.7604447,
+    "longitude": -93.73703991528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAGUIRE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a3da927d99df346",
+    "latitude": 38.5719884,
+    "longitude": -92.16511381528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COMMERCIAL AVE, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "030756c5d8549128",
+    "latitude": 38.36649640000001,
+    "longitude": -93.7415022152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OHIO ST, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b22a02f0cf38346e",
+    "latitude": 39.01863710000001,
+    "longitude": -92.31294171528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f1f85449caa217ae",
+    "latitude": 39.8016929,
+    "longitude": -91.53825241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEW ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8bcdcc8b7aab355a",
+    "latitude": 39.13480419999999,
+    "longitude": -92.4554136152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 685 SEXTON ST, HARRISBURG, MO; city: HARRISBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b882d3f37c77948f",
+    "latitude": 36.587368099999985,
+    "longitude": -93.9819135152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINEVILLE RD, WASHBURN, MO; city: WASHBURN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd90f915ef42cd7d",
+    "latitude": 36.5212083,
+    "longitude": -93.94133301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FRISCO, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f897fd22750fbab",
+    "latitude": 36.623634899999985,
+    "longitude": -93.19455221528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY BB, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e773708c1bdb3969",
+    "latitude": 38.976611299999995,
+    "longitude": -93.41604701528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 127, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "43b1d1188a918464",
+    "latitude": 36.792302,
+    "longitude": -90.29991831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, POPLAR BLUFF, MO; city: POPLAR BLUFF; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b320c25d623653ad",
+    "latitude": 37.8256949,
+    "longitude": -92.18601511528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY F, WAYNESVILLE, MO; city: WAYNESVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd54ee05a91899af",
+    "latitude": 37.299198,
+    "longitude": -93.42475741528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MILLER RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "75aea80055280a7f",
+    "latitude": 37.132071700000004,
+    "longitude": -93.46060301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c278e4d93c4939a",
+    "latitude": 37.544786,
+    "longitude": -93.67205301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 215, DADEVILLE, MO; city: DADEVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9045c51e80bbf9ec",
+    "latitude": 38.9505411,
+    "longitude": -93.41685501528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOCUST ST, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1250e935229fc473",
+    "latitude": 38.57231589999999,
+    "longitude": -92.16544211528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 618 CAPITOL AVE, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4085230eabb6e7a9",
+    "latitude": 37.664758,
+    "longitude": -92.6474383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 32, LEBANON, MO; city: LEBANON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "63b9b870e3854b33",
+    "latitude": 38.9723274,
+    "longitude": -92.26580951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2115 BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ce0753e9d8356be",
+    "latitude": 38.985243,
+    "longitude": -92.30968231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BLUE RIDGE RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "678bdd47d815c258",
+    "latitude": 36.620988200000006,
+    "longitude": -93.21702961528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSINESS HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "75ef750ce54eff0c",
+    "latitude": 36.980404,
+    "longitude": -93.57499931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TIMBREN RD, CRANE, MO; city: CRANE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a230ad70e53a5d67",
+    "latitude": 36.587368099999985,
+    "longitude": -93.9819135152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINEVILLE RD, WASHBURN, MO; city: WASHBURN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3eaccab796fe92d1",
+    "latitude": 38.96366609999999,
+    "longitude": -92.32575521528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTH BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d12058ee89208492",
+    "latitude": 37.828724699999995,
+    "longitude": -92.16142551528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 120 CARSON BLVD, ST. ROBERT, MO; city: ST. ROBERT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c198dd128ef11bba",
+    "latitude": 36.8617788,
+    "longitude": -89.58330491528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "579e22cd6afd923f",
+    "latitude": 36.838482299999995,
+    "longitude": -94.38913121528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1490 CLEMONS DR, NEOSHO, MO; city: NEOSHO; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1493b3231ad761eb",
+    "latitude": 36.5792422,
+    "longitude": -93.59436791528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, SHELL KNOB, MO; city: SHELL KNOB; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dcaac5144791d439",
+    "latitude": 37.29263799999999,
+    "longitude": -93.41068991528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUNT RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1365a4c2bbde1c51",
+    "latitude": 38.03637500000001,
+    "longitude": -91.64937531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 68, ST. JAMES, MO; city: ST. JAMES; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "13a50d48655398ac",
+    "latitude": 37.196987,
+    "longitude": -93.29269531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d046fe8ddbf7652d",
+    "latitude": 38.8474714,
+    "longitude": -91.95277751528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5TH ST, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e90aebe2ef5d0b89",
+    "latitude": 38.719069,
+    "longitude": -92.07718171528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, NEW BLOOMFIELD, MO; city: NEW BLOOMFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a520efe8c671caa1",
+    "latitude": 38.976501,
+    "longitude": -93.42076441528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 328, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c79d31885980126",
+    "latitude": 37.19883500000001,
+    "longitude": -93.30558531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOMBARD ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8f6a9e95a2a32dbe",
+    "latitude": 37.2539025,
+    "longitude": -93.3129699152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MORRIS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a3892c42325fe401",
+    "latitude": 38.93736599999999,
+    "longitude": -93.73676531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, HIGGINSVILLE, MO; city: HIGGINSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac5a02a0ce28cc87",
+    "latitude": 36.713659899999996,
+    "longitude": -93.2012217152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8749df63958df6d3",
+    "latitude": 38.5794112,
+    "longitude": -92.18043321528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MISSOURI BLVD, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6bf63a5db0bb73d1",
+    "latitude": 38.9498605,
+    "longitude": -92.3124126152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1705 BROADWAY, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe6f4a696e59d229",
+    "latitude": 38.5690853,
+    "longitude": -92.27221631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1115 FAIRGROUNDS RD, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1e65f55d20db2635",
+    "latitude": 38.5355081,
+    "longitude": -93.27233861528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, IONIA, MO; city: IONIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "42b52d8a88779281",
+    "latitude": 38.55526830000001,
+    "longitude": -92.14381541528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEWIS AND CLARK DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3abe92c1321f9f7",
+    "latitude": 37.805715,
+    "longitude": -92.22332241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44 LOOP, WAYNESVILLE, MO; city: WAYNESVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0ab8d7a24cad7fe",
+    "latitude": 38.681258899999996,
+    "longitude": -92.95343681528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, SYRACUSE, MO; city: SYRACUSE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47e284ae66b7b0f0",
+    "latitude": 39.049887999999996,
+    "longitude": -91.89509351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, AUXVASSE, MO; city: AUXVASSE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2578a946fdd2bb84",
+    "latitude": 37.2927128,
+    "longitude": -93.41072561528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUNT RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2c0392285ce2cf44",
+    "latitude": 38.8475466,
+    "longitude": -91.95518011528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: C F LAMPKIN DR, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ef9604326d7ac47",
+    "latitude": 36.91328780000001,
+    "longitude": -93.89733461528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOWES LN, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50c4efbf290bd10a",
+    "latitude": 36.03911599999999,
+    "longitude": -89.4060783152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SELLARS DR & UPPER FINLEY RD, DYERSBURG; city: DYERSBURG; cross street: UPPER FINLEY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "05ec6d492a6a0632",
+    "latitude": 36.9642117,
+    "longitude": -89.08570661528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 714 COURT ST, WICKLIFFE, KY; city: WICKLIFFE; state: itic_ky",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc7424119305598c",
+    "latitude": 36.713662,
+    "longitude": -93.2012003152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5fef754b26cb356b",
+    "latitude": 36.71365949999999,
+    "longitude": -93.20121251528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fea0b0738810f897",
+    "latitude": 38.3891962,
+    "longitude": -93.79897031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 7, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "691153836feeaa65",
+    "latitude": 36.602978,
+    "longitude": -93.29074831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: POINTE ROYALE DR, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea150bad639fe498",
+    "latitude": 37.1317989,
+    "longitude": -93.46027951528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8e85b52b714008a1",
+    "latitude": 39.284262999999996,
+    "longitude": -93.97165531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SPARTAN DR, RICHMOND, MO; city: RICHMOND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c5c6da89e7666458",
+    "latitude": 37.0048592,
+    "longitude": -93.22956831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65 BUS, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5bcf5ed0246df6b5",
+    "latitude": 38.8483897,
+    "longitude": -91.95383271528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6TH ST, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2954ec18da560315",
+    "latitude": 38.910355,
+    "longitude": -92.33518041528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NIFONG BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d84fe28a84d2bfa",
+    "latitude": 37.200607000000005,
+    "longitude": -93.30318131528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MADISON ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6bcc0ee1a8f93baf",
+    "latitude": 37.20700599999999,
+    "longitude": -93.29801231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa39ff120a1a9af0",
+    "latitude": 37.104120999999985,
+    "longitude": -92.0731323152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, CABOOL, MO; city: CABOOL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "24e9ad3e5a6b3e2b",
+    "latitude": 39.1310839,
+    "longitude": -92.46368171528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 14650 STATE HWY J, HARRISBURG, MO; city: HARRISBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "82cbbe68d4d286ad",
+    "latitude": 36.5873552,
+    "longitude": -93.98190821528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINEVILLE RD, WASHBURN, MO; city: WASHBURN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a3266318fc1e219",
+    "latitude": 36.640907999999996,
+    "longitude": -93.2787383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3029 76 COUNTRY BLVD, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "79d0202d8037b371",
+    "latitude": 36.6354489,
+    "longitude": -93.40217011528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLIDAY ACRES CIR, KIMBERLING CITY, MO; city: KIMBERLING CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eaf9ef797700353b",
+    "latitude": 38.56821599999999,
+    "longitude": -92.14716311528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELLIS PORTER DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd35c13937363f4f",
+    "latitude": 36.03089799999999,
+    "longitude": -89.37513831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FERRELL AVE & E COURT ST, DYERSBURG; city: DYERSBURG; cross street: E COURT ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "56e7851f9fd3ec41",
+    "latitude": 38.953864,
+    "longitude": -92.29560331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 415 CONLEY RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b791ce4b3d5b7fb7",
+    "latitude": 38.924407300000006,
+    "longitude": -92.56957961528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 179, WOOLDRIDGE, MO; city: WOOLDRIDGE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "835ca9ab43beb101",
+    "latitude": 36.926041299999994,
+    "longitude": -93.2851145152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160  S, HIGHLANDVILLE, MO; city: HIGHLANDVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b25b2905f4e95cae",
+    "latitude": 37.025258699999995,
+    "longitude": -93.2069819152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3RD ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "048311f132280999",
+    "latitude": 38.56856659999999,
+    "longitude": -93.12204561528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY M, SMITHTON, MO; city: SMITHTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6c10a80bb620bbd",
+    "latitude": 36.602950199999995,
+    "longitude": -93.23657751528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HISTORIC HWY 165, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c5624ea6903b7773",
+    "latitude": 36.6595907,
+    "longitude": -93.34773261528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CROWS NEST TRL, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c99fde87264aeec4",
+    "latitude": 38.5685529,
+    "longitude": -93.12200801528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY M, SMITHTON, MO; city: SMITHTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3b78af23f148f437",
+    "latitude": 38.58809299999999,
+    "longitude": -92.23174331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 240 COMMERCE DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3cb76931872117e",
+    "latitude": 38.736468,
+    "longitude": -93.22761431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "65e6c4e9c91b20de",
+    "latitude": 38.5709638,
+    "longitude": -92.16627901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WALL WAY, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c87d4fdcf4bdb8e5",
+    "latitude": 37.191373,
+    "longitude": -93.4309293152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6959 FARM RD 144, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ec610b62688a6cf",
+    "latitude": 37.31524709999999,
+    "longitude": -93.44508001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "302701bbb213f536",
+    "latitude": 39.9119339,
+    "longitude": -91.52598991528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10731d79f1d65ea4",
+    "latitude": 37.200679,
+    "longitude": -93.31108431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MADISON ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef5ccbad62204e1f",
+    "latitude": 37.31532279999999,
+    "longitude": -93.44511621528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8c7bec6a377c4d1d",
+    "latitude": 37.197026,
+    "longitude": -93.29795731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7cefca86b0d97126",
+    "latitude": 37.003524999999996,
+    "longitude": -93.22339531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 MARLER LN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1907c603a9b0faec",
+    "latitude": 37.204527999999996,
+    "longitude": -93.29320131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "574a5e5308f2337b",
+    "latitude": 37.96655009999999,
+    "longitude": -92.25815801528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 13499 STATE HWY 17, CROCKER, MO; city: CROCKER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0eb262db9dc00aea",
+    "latitude": 38.92882000000001,
+    "longitude": -92.37853331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KATY LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "77c827e3fc73089d",
+    "latitude": 37.20515900000001,
+    "longitude": -93.29968531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRANT AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57076a13952a094d",
+    "latitude": 38.7565624,
+    "longitude": -93.73641851528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3c4d69ca7e2228ac",
+    "latitude": 37.19861999999999,
+    "longitude": -93.29665731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOMBARD ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c8d21af4eeeb77c8",
+    "latitude": 36.5754075,
+    "longitude": -94.3909683152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 49, PINEVILLE, MO; city: PINEVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "235e706be57d006a",
+    "latitude": 38.760703500000005,
+    "longitude": -93.74162141528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 314 HOLDEN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a5fe057f38676415",
+    "latitude": 39.12508820000001,
+    "longitude": -93.7639759152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, HIGGINSVILLE, MO; city: HIGGINSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d538699bba410d12",
+    "latitude": 38.8496202,
+    "longitude": -91.95426951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 610 WESTMINSTER AVE, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "009a02df5c71b32c",
+    "latitude": 36.5302491,
+    "longitude": -93.92972601528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 112, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "27851361e1c31ea0",
+    "latitude": 38.97495899999999,
+    "longitude": -92.36144931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARKSIDE DR, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5df5454fc7484d8a",
+    "latitude": 36.047077,
+    "longitude": -89.67761131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HELOISE LOOP & HWY 104 W, DYERSBURG; city: DYERSBURG; cross street: HWY 104 W",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d302cc63276bc8d",
+    "latitude": 36.05685600000001,
+    "longitude": -89.66381831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EVERETT LAKE RD & HWY 104 W, DYERSBURG; city: DYERSBURG; cross street: HWY 104 W",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7db39e0cca544fb",
+    "latitude": 36.59386800000001,
+    "longitude": -92.84908931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, KISSEE MILLS, MO; city: KISSEE MILLS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c1249886d61367a6",
+    "latitude": 37.1971415,
+    "longitude": -93.29255421528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ROBBERSON AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf4a48df05224989",
+    "latitude": 37.201181,
+    "longitude": -93.3064583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MONROE TER, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "87500927025e6e7a",
+    "latitude": 38.7604153,
+    "longitude": -93.7450622152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6659c6e2d3b41c67",
+    "latitude": 38.53659699999999,
+    "longitude": -91.0076123152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WASHINGTON XING, WASHINGTON, MO; city: WASHINGTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26be25c626f7bc31",
+    "latitude": 39.7363331,
+    "longitude": -92.25937311528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SHELBY ST, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a4ef32ed0e58d8d",
+    "latitude": 39.20524999999999,
+    "longitude": -93.51086531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WALNUT ST, WAVERLY, MO; city: WAVERLY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "55057d05000929db",
+    "latitude": 36.87745900000001,
+    "longitude": -89.53861881528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1018 STATE HWY AA, MINER, MO; city: MINER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "be864ea59eba385e",
+    "latitude": 39.73558100000001,
+    "longitude": -92.27260171528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 475 CO RD 302, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7812f4e06b20ba28",
+    "latitude": 37.82809970000001,
+    "longitude": -92.16115461528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 120 CARSON BLVD, ST. ROBERT, MO; city: ST. ROBERT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6ea93101c4fd3b3",
+    "latitude": 36.50633199999999,
+    "longitude": -93.52917931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, SHELL KNOB, MO; city: SHELL KNOB; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ed5713a54f97f383",
+    "latitude": 38.582320800000005,
+    "longitude": -92.18088961528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HIGH ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "97af9b38e0c93ca1",
+    "latitude": 38.55498409999999,
+    "longitude": -92.14375771528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEWIS AND CLARK DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ddeeedd4cf99521b",
+    "latitude": 37.9942699,
+    "longitude": -92.09477281528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELLEN ST, DIXON, MO; city: DIXON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea0391c795d39366",
+    "latitude": 36.91328780000001,
+    "longitude": -93.89733461528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOWES LN, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76b4d12a08285394",
+    "latitude": 39.454538,
+    "longitude": -91.05322031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MANSION ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4b86c96b9946580",
+    "latitude": 37.298443899999995,
+    "longitude": -93.42495231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MILLER RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "846f05ca8552e971",
+    "latitude": 38.85169569999999,
+    "longitude": -91.95504261528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 811 WESTMINSTER AVE, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "816f50fa2bfccfb9",
+    "latitude": 36.62097959999999,
+    "longitude": -93.2170162152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSINESS HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aea2f1f04aa8855e",
+    "latitude": 36.52216829999999,
+    "longitude": -93.27754021528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "767a34377376f4f0",
+    "latitude": 36.9514157,
+    "longitude": -89.09045201528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FT JEFFERSON HILL RD, WICKLIFFE, KY; city: WICKLIFFE; state: itic_ky",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c238395ce3911f1",
+    "latitude": 37.129925,
+    "longitude": -93.2410813152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CHRISMAN AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f33af8b8af464fa",
+    "latitude": 37.151365799999994,
+    "longitude": -93.42005371528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3456 FARM RD 101, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d1c1ad0af5cd3dd",
+    "latitude": 37.201835,
+    "longitude": -93.29344631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "46108a0a85884f7d",
+    "latitude": 36.5211087,
+    "longitude": -93.94137981528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FRISCO, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b101f60946d11df9",
+    "latitude": 38.562180000000005,
+    "longitude": -92.18088831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 610 UNION ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "11cb15cd974dfbbb",
+    "latitude": 38.71179829999999,
+    "longitude": -93.27651001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3811 BROADWAY BLVD, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df439c12ea4c4b75",
+    "latitude": 38.5343083,
+    "longitude": -92.21820631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21d9e24adf877118",
+    "latitude": 37.08757399999999,
+    "longitude": -93.32645931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NICHOLAS RD, NIXA, MO; city: NIXA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2fac41e334e36a35",
+    "latitude": 39.454537,
+    "longitude": -91.05321831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MANSION ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a80a9bb1d4f5d77d",
+    "latitude": 39.348816,
+    "longitude": -91.20805431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61 BUS, BOWLING GREEN, MO; city: BOWLING GREEN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "41c9a24a4ce734c8",
+    "latitude": 38.9157999,
+    "longitude": -92.40127671528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SCOTT BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d42ef1ef9307f0f",
+    "latitude": 38.96908429999999,
+    "longitude": -92.33889951528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7f54035bec3add66",
+    "latitude": 38.93815300000001,
+    "longitude": -92.35098731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 800 STADIUM BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7e0fd020dab1d2f",
+    "latitude": 38.14332129999998,
+    "longitude": -92.63259891528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4655 OSAGE BEACH PKWY, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "816f0f565650d20d",
+    "latitude": 36.94844419999999,
+    "longitude": -93.71942721528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELLIOTT AVE, AURORA, MO; city: AURORA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2ebfe0bfb1f76190",
+    "latitude": 37.71027399999999,
+    "longitude": -91.86979831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, EDGAR SPRINGS, MO; city: EDGAR SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f92a0efb7d4201d2",
+    "latitude": 37.0565235,
+    "longitude": -93.56770621528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, BILLINGS, MO; city: BILLINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57faa4629e7dff0a",
+    "latitude": 39.71526500000001,
+    "longitude": -91.38401131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARK TWAIN AVE, HANNIBAL, MO; city: HANNIBAL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0d9cf89ec3753a16",
+    "latitude": 37.197125,
+    "longitude": -93.31077831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "864fbc29d3e15b3a",
+    "latitude": 38.8598117,
+    "longitude": -91.13513331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 47, WARRENTON, MO; city: WARRENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "403b6d6814c1c341",
+    "latitude": 36.715204,
+    "longitude": -93.1282863152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAVE AVE, FORSYTH, MO; city: FORSYTH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3b7ad2be5b3d0ed",
+    "latitude": 37.023725999999996,
+    "longitude": -93.22852191528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d5f7fbe7763bb62",
+    "latitude": 38.5953957,
+    "longitude": -92.17242671528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c1838209adae75a",
+    "latitude": 37.20378899999999,
+    "longitude": -93.3102023152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEWTON AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3beb8dac3a33b697",
+    "latitude": 36.781315199999995,
+    "longitude": -92.91183411528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 76, TANEYVILLE, MO; city: TANEYVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f5729db2e1b3e3d",
+    "latitude": 37.204171,
+    "longitude": -93.30955731528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1320 MT VERNON ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e68c52a56fb3e765",
+    "latitude": 37.153228,
+    "longitude": -93.4196223152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONE FALLS RD, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "128d56c6374b4307",
+    "latitude": 39.78190099999999,
+    "longitude": -91.52427071528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2357f214d95533b4",
+    "latitude": 36.824387,
+    "longitude": -94.61219531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, SENECA, MO; city: SENECA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef0943dd20248c84",
+    "latitude": 37.0246728,
+    "longitude": -93.22257231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 800 14TH ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a1a8b659cb50fdd",
+    "latitude": 36.9282681,
+    "longitude": -93.89661171528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLEVELAND AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c9a5c66cc268907",
+    "latitude": 36.59386800000001,
+    "longitude": -92.84908931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, KISSEE MILLS, MO; city: KISSEE MILLS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3eba588066e8338",
+    "latitude": 36.926041299999994,
+    "longitude": -93.2851145152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160  S, HIGHLANDVILLE, MO; city: HIGHLANDVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5e0e35db6a40a8e5",
+    "latitude": 37.20515900000001,
+    "longitude": -93.29968531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRANT AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bbfb8f8aaa4e1f49",
+    "latitude": 38.9693821,
+    "longitude": -92.33781081528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9e632d7e071cf7b",
+    "latitude": 36.575408,
+    "longitude": -94.39097731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 49, PINEVILLE, MO; city: PINEVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "167038cb326514d0",
+    "latitude": 36.6070166,
+    "longitude": -93.2340866152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ac37399682c9931",
+    "latitude": 39.3412258,
+    "longitude": -93.49668691528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, CARROLLTON, MO; city: CARROLLTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac3bc384be41a71d",
+    "latitude": 37.20524900000001,
+    "longitude": -93.29613031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELM ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6b2a3ea635aec03a",
+    "latitude": 37.0236641,
+    "longitude": -93.22848691528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f5f4b3f515f26b1e",
+    "latitude": 37.122482399999996,
+    "longitude": -93.25427601528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GLENHAVEN AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe8c91350d8b8825",
+    "latitude": 36.5792422,
+    "longitude": -93.59436791528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, SHELL KNOB, MO; city: SHELL KNOB; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5115b531fc419c3",
+    "latitude": 37.107583999999996,
+    "longitude": -93.28049321528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GASLIGHT DR, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17483f38c612989b",
+    "latitude": 38.9496891,
+    "longitude": -92.31152901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d207f7f516bdb349",
+    "latitude": 36.824387,
+    "longitude": -94.61219531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, SENECA, MO; city: SENECA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "93d563896746b953",
+    "latitude": 38.96100199999999,
+    "longitude": -92.26835591528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc9509370d1835ff",
+    "latitude": 38.9115367,
+    "longitude": -91.70112651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "233e853f3ae7c9d0",
+    "latitude": 38.9322825,
+    "longitude": -93.21028061528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, HUGHESVILLE, MO; city: HUGHESVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8fcc5a95528a4210",
+    "latitude": 37.122237399999996,
+    "longitude": -93.2612749152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1937 NORSHIRE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3ad49d96d718e1dc",
+    "latitude": 37.199287,
+    "longitude": -93.29351031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d887a4823544b7b7",
+    "latitude": 37.2475659,
+    "longitude": -93.41279021528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 103, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc6a930b3610b1f0",
+    "latitude": 39.8933603,
+    "longitude": -91.34120701528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 96 & S 48TH ST; cross street: S 48TH ST; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2af9c9fbaa9bbd84",
+    "latitude": 39.460339099999985,
+    "longitude": -91.03504841528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 54 & RALPHS LANDING RD; cross street: RALPHS LANDING RD; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47c47602b8986d13",
+    "latitude": 36.6406761,
+    "longitude": -93.27860721528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FRANCIS ST, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8b725d0c6ee9175",
+    "latitude": 38.5605609,
+    "longitude": -92.17710541528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LESLIE BLVD, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc162398fca5e342",
+    "latitude": 37.8638603,
+    "longitude": -92.03159681528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, ST. ROBERT, MO; city: ST. ROBERT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b4ce81524767271",
+    "latitude": 37.202447,
+    "longitude": -93.31328731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KANSAS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f1df694b6a86d062",
+    "latitude": 37.0034274,
+    "longitude": -93.22341141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 MARLER LN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "09c0b5201b1e9387",
+    "latitude": 37.00018240000001,
+    "longitude": -93.62866161528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, MARIONVILLE, MO; city: MARIONVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "75ae577bbdb2d092",
+    "latitude": 38.559857799999996,
+    "longitude": -92.17407451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MCCLUNG PARK DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc1ae36ff076c2ca",
+    "latitude": 37.0084818,
+    "longitude": -93.3025983152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KELBY PKWY, NIXA, MO; city: NIXA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4659a2bb113cb9da",
+    "latitude": 39.4278308,
+    "longitude": -91.0768733152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GEORGIA ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e95c52a281b4ec3e",
+    "latitude": 36.6356757,
+    "longitude": -93.4016682152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLIDAY ACRES CIR, KIMBERLING CITY, MO; city: KIMBERLING CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f8fd391866a92164",
+    "latitude": 36.50652199999999,
+    "longitude": -93.93364531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 37, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ea287a596b0ce7b",
+    "latitude": 36.792658,
+    "longitude": -90.2987761152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, POPLAR BLUFF, MO; city: POPLAR BLUFF; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ef85586d4a92399",
+    "latitude": 38.875986,
+    "longitude": -92.35154061528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY K RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ecde3d07c603b749",
+    "latitude": 36.8617531,
+    "longitude": -89.5832844152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d04191463cd4551e",
+    "latitude": 38.033791,
+    "longitude": -91.52692431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VINEYARD OUTER RD, ST. JAMES, MO; city: ST. JAMES; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "32e5436d596807ec",
+    "latitude": 36.658536199999986,
+    "longitude": -93.33762761528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JOHN THE DIVER TRL, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "619c58ce43b74b22",
+    "latitude": 39.443889,
+    "longitude": -92.42125931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 OUTER RD, MOBERLY, MO; city: MOBERLY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "106e0b37f90fe160",
+    "latitude": 38.5841348,
+    "longitude": -92.30343321528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BINDER LAKE RD, ST. MARTINS, MO; city: ST. MARTINS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "25ba469f80d6ff0f",
+    "latitude": 38.92882000000001,
+    "longitude": -92.37853331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KATY LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c89ddef6385dfe41",
+    "latitude": 38.56579799999998,
+    "longitude": -92.16827131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DUNKLIN ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0df475a41ab02881",
+    "latitude": 38.6756872,
+    "longitude": -93.22315571528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INGRAM AVE, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e433d3a370fdaa35",
+    "latitude": 39.3591278,
+    "longitude": -93.48423421528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65 BUS, CARROLLTON, MO; city: CARROLLTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "76b82566252ba6eb",
+    "latitude": 37.32271999999998,
+    "longitude": -93.49743131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8757489cfe7e5577",
+    "latitude": 37.8597019,
+    "longitude": -92.40899211528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WASHINGTON AVE, RICHLAND, MO; city: RICHLAND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fb4b5c47242df9b7",
+    "latitude": 36.863376,
+    "longitude": -93.22973131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSIEK RD, SADDLEBROOKE, MO; city: SADDLEBROOKE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2f2ba8da5d1be0ee",
+    "latitude": 37.201816,
+    "longitude": -93.30882531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FORT AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f35dc217343bfc00",
+    "latitude": 36.9422352,
+    "longitude": -93.92820321528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CENTRAL AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ddbcbf48fbe4333",
+    "latitude": 38.8915977,
+    "longitude": -92.27129051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUGGARD LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "af731b0764d1beb1",
+    "latitude": 38.95603899999999,
+    "longitude": -92.32262031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 411 COLLEGE AVE, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "85e736ac26de13eb",
+    "latitude": 36.6132262,
+    "longitude": -93.23254151528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efa66bffae245a09",
+    "latitude": 37.044338999999994,
+    "longitude": -93.19605461528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RIVERSIDE RD, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f7ccc475dc42e75c",
+    "latitude": 38.82991400000001,
+    "longitude": -91.04152141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILDCAT DR, WRIGHT CITY, MO; city: WRIGHT CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e91929b91e5bd8e6",
+    "latitude": 39.35979149999999,
+    "longitude": -93.51418191528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY E, CARROLLTON, MO; city: CARROLLTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "279f1ab9161c7025",
+    "latitude": 39.4449341,
+    "longitude": -91.7216305152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 154, FLORIDA, MO; city: FLORIDA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "42c475ae90f266c5",
+    "latitude": 37.0083858,
+    "longitude": -93.30283571528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KELBY PKWY, NIXA, MO; city: NIXA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "397a47966ebc28a3",
+    "latitude": 37.20424500000001,
+    "longitude": -93.31303531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MT VERNON ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fab4c381a5a55413",
+    "latitude": 38.980696,
+    "longitude": -92.33903931528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GARTH AVE, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e626823bd30621c9",
+    "latitude": 38.3633472,
+    "longitude": -92.54544031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "51c0aac722561e25",
+    "latitude": 37.200871,
+    "longitude": -93.29692031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARKET AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6809a5e1b1b4082",
+    "latitude": 36.587368099999985,
+    "longitude": -93.9819135152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINEVILLE RD, WASHBURN, MO; city: WASHBURN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4267446dc88c69f",
+    "latitude": 39.454538,
+    "longitude": -91.05322031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MANSION ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69134a3e658b4932",
+    "latitude": 37.199157,
+    "longitude": -93.30121631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DOUGLAS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f94c1d05881c18f4",
+    "latitude": 38.675751,
+    "longitude": -93.22319461528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INGRAM AVE, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "35b8671a16c3f8be",
+    "latitude": 36.056342,
+    "longitude": -89.66648031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 104  W & HELOISE LOOP, DYERSBURG; city: DYERSBURG; cross street: HELOISE LOOP",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "597cfcb348ec84c1",
+    "latitude": 36.025797000000004,
+    "longitude": -89.36801431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BEAN MILL RD & CUSTER AVE, DYERSBURG; city: DYERSBURG; cross street: CUSTER AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "12834d8bcb705de3",
+    "latitude": 37.202706,
+    "longitude": -93.30101231528408,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DOUGLAS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e23be707ab0ed974",
+    "latitude": 39.011567899999996,
+    "longitude": -92.28099651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROWN STATION RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c80260666292c9ae",
+    "latitude": 38.57439029999999,
+    "longitude": -92.17637321528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JEFFERSON ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b4395b5f45bad925",
+    "latitude": 37.067270199999996,
+    "longitude": -93.12161231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 125  N, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e1bcc83669ac8dbb",
+    "latitude": 38.976598700000004,
+    "longitude": -93.41604701528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 127, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d9704a6cb8cf50c7",
+    "latitude": 37.298498,
+    "longitude": -93.43407941528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY AB, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "39a53b07888ba911",
+    "latitude": 37.025258,
+    "longitude": -93.20698201528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3RD ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "26077b5b83d40611",
+    "latitude": 37.2438427,
+    "longitude": -93.43132151528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY AB, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a91b44f069933e84",
+    "latitude": 37.0370458,
+    "longitude": -93.47379861528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 412 PUBLIC AVE, CLEVER, MO; city: CLEVER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6c3242b04072f59",
+    "latitude": 39.774951,
+    "longitude": -93.54534551528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HARVESTER RD, CHILLICOTHE, MO; city: CHILLICOTHE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0786628a50048cda",
+    "latitude": 38.4926685,
+    "longitude": -91.99873861528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, WESTPHALIA, MO; city: WESTPHALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4660f980b4ea9c21",
+    "latitude": 37.20340999999999,
+    "longitude": -93.31021331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEWTON AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53d9c077dc414949",
+    "latitude": 37.2439324,
+    "longitude": -93.4313671152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY AB, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "15e055dac7d411c4",
+    "latitude": 37.9943556,
+    "longitude": -92.09481431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELLEN ST, DIXON, MO; city: DIXON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "886034250ba247d4",
+    "latitude": 38.366333399999995,
+    "longitude": -93.74168561528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OHIO ST, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe75f5695b180ded",
+    "latitude": 38.57084699999999,
+    "longitude": -92.21869431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2417 EDGEWOOD DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "39b954095df06a64",
+    "latitude": 39.164047999999994,
+    "longitude": -93.92272131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 224, LEXINGTON, MO; city: LEXINGTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2b919cd0a66ad4c",
+    "latitude": 38.9610531,
+    "longitude": -92.37089661528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WORLEY ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "65c66d7253195579",
+    "latitude": 39.349095999999996,
+    "longitude": -91.19434971528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PIKE 292, BOWLING GREEN, MO; city: BOWLING GREEN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9cb72e1169214789",
+    "latitude": 37.191373,
+    "longitude": -93.4309293152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6959 FARM RD 144, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1d1e1c0cd3ae2bc4",
+    "latitude": 36.7347091,
+    "longitude": -93.3841296152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, REEDS SPRING, MO; city: REEDS SPRING; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dec2b339d8241abd",
+    "latitude": 38.5182607,
+    "longitude": -92.23505841528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f3cf8d4ac1b27744",
+    "latitude": 38.9764947,
+    "longitude": -93.42077211528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 328, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc7c26378370e611",
+    "latitude": 38.84962769999999,
+    "longitude": -91.95445341528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 610 WESTMINSTER AVE, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7b34ea82e1cf6cb0",
+    "latitude": 38.9837107,
+    "longitude": -92.38105611528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STADIUM BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "22122fb2a230da03",
+    "latitude": 38.760703500000005,
+    "longitude": -93.74162141528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 314 HOLDEN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ccbde4a235149b19",
+    "latitude": 37.876032,
+    "longitude": -92.0168843152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, DOOLITTLE, MO; city: DOOLITTLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1936c1e42be091a3",
+    "latitude": 38.58958799999999,
+    "longitude": -92.30866331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BINDER LAKE RD, ST. MARTINS, MO; city: ST. MARTINS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "22fdcd60e14c12af",
+    "latitude": 37.599676,
+    "longitude": -91.86372231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, EDGAR SPRINGS, MO; city: EDGAR SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "026623aeef617a31",
+    "latitude": 37.1301379,
+    "longitude": -93.46098061528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "88743ae5a61ff695",
+    "latitude": 38.051683,
+    "longitude": -91.77610731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, ROLLA, MO; city: ROLLA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "59bfa9148e3d6778",
+    "latitude": 38.9350073,
+    "longitude": -92.26669991528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FULTON GRAVEL RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10fbc5ef146a344c",
+    "latitude": 37.200487,
+    "longitude": -93.31342531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KANSAS AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8c39dad5176bb643",
+    "latitude": 38.9493417,
+    "longitude": -93.0358370152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, BLACKWATER, MO; city: BLACKWATER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c564db594a944133",
+    "latitude": 37.0670166,
+    "longitude": -93.1925256152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COBBLESTONE DR, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7a04e4fef33ce76",
+    "latitude": 39.0767931,
+    "longitude": -93.73806081528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 19TH ST, HIGGINSVILLE, MO; city: HIGGINSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0462a47225578c8e",
+    "latitude": 36.949869099999994,
+    "longitude": -89.08904421528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 51, WICKLIFFE, KY; city: WICKLIFFE; state: itic_ky",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "24432f81bb996afe",
+    "latitude": 37.00018240000001,
+    "longitude": -93.62866161528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, MARIONVILLE, MO; city: MARIONVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "219289d6fafa1f84",
+    "latitude": 38.7124596,
+    "longitude": -93.27835001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3811 BROADWAY BLVD, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ee14dc6e0c2cb9d",
+    "latitude": 39.1250826,
+    "longitude": -93.76396571528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, HIGGINSVILLE, MO; city: HIGGINSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "78241578c8f7e8b9",
+    "latitude": 38.9723274,
+    "longitude": -92.26580951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2115 BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e79a4af30925d57f",
+    "latitude": 36.85993619999999,
+    "longitude": -89.58276671528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c758b74485f409e9",
+    "latitude": 38.7565624,
+    "longitude": -93.73641851528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0cae950c4920535b",
+    "latitude": 36.99971200000001,
+    "longitude": -94.60518931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, JOPLIN, MO; city: JOPLIN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2f82d690c2ddd12",
+    "latitude": 36.747125,
+    "longitude": -94.05190851528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 76, WHEATON, MO; city: WHEATON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc4e6147b46a8f79",
+    "latitude": 39.4546306,
+    "longitude": -91.05300631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80b17eda510f3756",
+    "latitude": 38.941411099999996,
+    "longitude": -91.9423953152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a34782ffb5d05782",
+    "latitude": 38.570024000000004,
+    "longitude": -92.2173823152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2417 EDGEWOOD DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c04263dbaa94e5fc",
+    "latitude": 38.15680559999999,
+    "longitude": -92.60294601528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 950 HWY 42, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa49484adf2f26f9",
+    "latitude": 36.50652199999999,
+    "longitude": -93.93364531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 37, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f37abaa4f26069fc",
+    "latitude": 37.841972999999996,
+    "longitude": -91.70125231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 72, ROLLA, MO; city: ROLLA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8105ba8bfce88b38",
+    "latitude": 38.95858100000001,
+    "longitude": -92.36324831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLINKSCALES RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "29b35db20fd16d65",
+    "latitude": 37.132071700000004,
+    "longitude": -93.46060301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d762e581b4b82ebb",
+    "latitude": 36.8617531,
+    "longitude": -89.5832844152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58f6c51341bdd2ca",
+    "latitude": 37.184392300000006,
+    "longitude": -93.43267231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARNAHAN ST, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a6278e9e33cf592e",
+    "latitude": 36.72655089999999,
+    "longitude": -93.17568111528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 176, MERRIAM WOODS, MO; city: MERRIAM WOODS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38e00f57914aa67c",
+    "latitude": 36.613141299999995,
+    "longitude": -93.2294918152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 165 MALL RD, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72f55c3243aaf678",
+    "latitude": 37.0028055,
+    "longitude": -93.22580251528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1800 MARLER LN, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0a396ed4dbba5784",
+    "latitude": 37.9977867,
+    "longitude": -92.7806534152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, CAMDENTON, MO; city: CAMDENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "98445a9010eb7eff",
+    "latitude": 38.558272,
+    "longitude": -92.1760833152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1219 CHESTNUT ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "37ae2f68b976411b",
+    "latitude": 38.55498409999999,
+    "longitude": -92.14375771528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEWIS AND CLARK DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b59e36b81f2ee97e",
+    "latitude": 37.108676,
+    "longitude": -93.28865421528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5809 CLAY AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "95b91489d3131373",
+    "latitude": 36.7526829,
+    "longitude": -93.39015241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, REEDS SPRING, MO; city: REEDS SPRING; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "46fee5db3d711528",
+    "latitude": 37.0685909,
+    "longitude": -93.24715631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CALABASH ST, FREMONT HILLS, MO; city: FREMONT HILLS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3499ce95e1bbe874",
+    "latitude": 38.312961,
+    "longitude": -92.17156631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4TH ST, META, MO; city: META; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ddcfd6a02ef585ca",
+    "latitude": 38.930018799999985,
+    "longitude": -91.94305611528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, KINGDOM CITY, MO; city: KINGDOM CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "199554812b811fc2",
+    "latitude": 38.973882200000006,
+    "longitude": -92.26558451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9088e46c2df2e4cd",
+    "latitude": 38.9821492,
+    "longitude": -92.2931835152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROWN STATION RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1714483c2c837e61",
+    "latitude": 37.3227198,
+    "longitude": -93.49743171528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d208474219356f5",
+    "latitude": 38.31140239999999,
+    "longitude": -92.16853921528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2ND ST, META, MO; city: META; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "59de5999480ac51f",
+    "latitude": 36.713743699999995,
+    "longitude": -93.20124321528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c950fe8c2ab02b82",
+    "latitude": 38.9883068,
+    "longitude": -93.52698121528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, EMMA, MO; city: EMMA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9353667ae790f0b5",
+    "latitude": 38.960912300000004,
+    "longitude": -92.26832911528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50879e7d4356db63",
+    "latitude": 39.14598269999999,
+    "longitude": -92.4676432152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 490 SEXTON ST, HARRISBURG, MO; city: HARRISBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81677f4ee1da9f96",
+    "latitude": 37.0825788,
+    "longitude": -93.52846521528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1979 US HWY 60, BILLINGS, MO; city: BILLINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dfb492da7c3d1027",
+    "latitude": 37.197030999999996,
+    "longitude": -93.29509631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7840d7b8cb78bf09",
+    "latitude": 38.96098119999999,
+    "longitude": -92.37085651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WORLEY ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6334e0a25d2e3349",
+    "latitude": 38.15651429999999,
+    "longitude": -92.60393171528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 950 HWY 42, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "85d417729b674c7a",
+    "latitude": 38.757021,
+    "longitude": -93.73686071528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAGUIRE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7fdd005214de6fd",
+    "latitude": 38.97032149999998,
+    "longitude": -92.39620591528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10c34c9599f46a2a",
+    "latitude": 36.714124,
+    "longitude": -93.20138731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd8d463fc57d3485",
+    "latitude": 38.7574968,
+    "longitude": -93.75129691528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe269aa5380ee82e",
+    "latitude": 36.6461992,
+    "longitude": -93.41814251528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TRAILRIDGE DR, KIMBERLING CITY, MO; city: KIMBERLING CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47f753c1b4bbe1cd",
+    "latitude": 36.9134289,
+    "longitude": -93.93019351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e4f9d59c021a56b5",
+    "latitude": 37.25208520000001,
+    "longitude": -93.31305351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTON RD, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f6a270bebed0be5a",
+    "latitude": 36.942222300000005,
+    "longitude": -93.92820321528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CENTRAL AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d5b4c20b874ed5e9",
+    "latitude": 37.277431099999994,
+    "longitude": -93.39813761528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MELVILLE RD, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21483a49dd6ab660",
+    "latitude": 38.58126699999999,
+    "longitude": -92.24510731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3441 MISSOURI BLVD, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6200a5a2a2134686",
+    "latitude": 39.0082125,
+    "longitude": -92.28308251528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROWN STATION RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c411fe76f55e5b19",
+    "latitude": 36.037561000000004,
+    "longitude": -89.40479031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILSON CIR & UPPER FINLEY RD, DYERSBURG; city: DYERSBURG; cross street: UPPER FINLEY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f899697cf869985d",
+    "latitude": 37.997786100000006,
+    "longitude": -92.78005631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f83677009c442f11",
+    "latitude": 38.71958610000001,
+    "longitude": -92.07718431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bdb0d204b57a6055",
+    "latitude": 39.0778417,
+    "longitude": -91.89980131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9e656c816548af50",
+    "latitude": 38.933645799999994,
+    "longitude": -91.80673771528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, KINGDOM CITY, MO; city: KINGDOM CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "660c853b0a593d59",
+    "latitude": 39.8016929,
+    "longitude": -91.53825241528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEW ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cf1151f3e66ddcb6",
+    "latitude": 38.9723274,
+    "longitude": -92.26580951528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2115 BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "68bd06426b1ad624",
+    "latitude": 36.863366899999995,
+    "longitude": -93.22977411528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSIEK RD, SADDLEBROOKE, MO; city: SADDLEBROOKE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e28f21726d920e3f",
+    "latitude": 38.70003,
+    "longitude": -93.1914433152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADWAY BLVD, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f25049d7a1a41f2c",
+    "latitude": 38.99329,
+    "longitude": -92.32543451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1009 SMILEY LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "795e8a54926e2466",
+    "latitude": 37.15134700000001,
+    "longitude": -93.42061331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3456 FARM RD 101, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "368f2978da62b8d2",
+    "latitude": 38.95858100000001,
+    "longitude": -92.36324831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLINKSCALES RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ec87492143c8a0c",
+    "latitude": 37.5996803,
+    "longitude": -91.8637116152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, EDGAR SPRINGS, MO; city: EDGAR SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ec092ed06c0c4609",
+    "latitude": 38.912830299999996,
+    "longitude": -92.40161451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3901 BRUSHWOOD LAKE RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df21c1f75c201b03",
+    "latitude": 36.824387,
+    "longitude": -94.61219531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, SENECA, MO; city: SENECA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "02258b4eeb4cd7f2",
+    "latitude": 38.96280790000001,
+    "longitude": -92.25238481528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ST CHARLES RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5d30c9af58f76302",
+    "latitude": 39.75067799999999,
+    "longitude": -92.25913401528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 716 SHELBY ST, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "88231a23d00e5cec",
+    "latitude": 36.500037,
+    "longitude": -93.22220431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d823ba424a9cefe7",
+    "latitude": 37.197153,
+    "longitude": -93.31413431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fef846b8fc4cddaa",
+    "latitude": 38.1252293,
+    "longitude": -92.68535891528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NICHOLS RD, OSAGE BEACH, MO; city: OSAGE BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2199ed3e80bb2846",
+    "latitude": 38.970388199999995,
+    "longitude": -92.39620591528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b1ee750aac9a67ac",
+    "latitude": 36.971933,
+    "longitude": -89.14728631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 60, WYATT, MO; city: WYATT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "371062e4cf7c145e",
+    "latitude": 36.78131249999999,
+    "longitude": -92.91184491528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 76, TANEYVILLE, MO; city: TANEYVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0a927532245fa912",
+    "latitude": 38.9865056,
+    "longitude": -92.3522822152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3201 CREASY SPRINGS RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5ebbf3de9c2566a3",
+    "latitude": 36.037848999999994,
+    "longitude": -89.4044823152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILSON CIR & UPPER FINLEY RD, DYERSBURG; city: DYERSBURG; cross street: UPPER FINLEY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38a7ca0d7d6df304",
+    "latitude": 37.044349600000004,
+    "longitude": -93.19606661528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RIVERSIDE RD, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "626944f53d29694f",
+    "latitude": 38.49408639999999,
+    "longitude": -92.01489261528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, TAOS, MO; city: TAOS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a6d50e6dbfa4771",
+    "latitude": 38.973882200000006,
+    "longitude": -92.26558451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2fe9dd1d7144ded",
+    "latitude": 39.14179119999999,
+    "longitude": -92.4572818152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY F, HARRISBURG, MO; city: HARRISBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e5245e3360d4c504",
+    "latitude": 39.3597628,
+    "longitude": -93.51403121528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY E, CARROLLTON, MO; city: CARROLLTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d22c6ac0865ea5a0",
+    "latitude": 37.76901310000001,
+    "longitude": -92.40236161528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, RICHLAND, MO; city: RICHLAND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c5f89c91907f2d8e",
+    "latitude": 37.0245968,
+    "longitude": -93.22258041528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 800 14TH ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c01ee5be00b52d5",
+    "latitude": 38.67575999999999,
+    "longitude": -93.22313831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INGRAM AVE, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef7e7ae913aac040",
+    "latitude": 39.75084519999999,
+    "longitude": -92.26173921528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 716 SHELBY ST, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "440f6b77f8abbee0",
+    "latitude": 37.298498,
+    "longitude": -93.43407941528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY AB, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c897193ba996f7d",
+    "latitude": 36.12264999999999,
+    "longitude": -89.61821631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 155, CARUTHERSVILLE, MO; city: CARUTHERSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a185af44b023221e",
+    "latitude": 37.201816,
+    "longitude": -93.30882531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FORT AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "213eaee872f8c43e",
+    "latitude": 37.2475744,
+    "longitude": -93.41278221528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 103, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d2d76fa1b97e4be4",
+    "latitude": 38.3957368,
+    "longitude": -93.76730141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df4c3ddfadace3e2",
+    "latitude": 36.593868099999995,
+    "longitude": -92.84908961528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, KISSEE MILLS, MO; city: KISSEE MILLS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7fd7a5b4fc85a1b6",
+    "latitude": 36.52226289999999,
+    "longitude": -93.27594751528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a56ebdba888b2cef",
+    "latitude": 38.75674089999999,
+    "longitude": -93.73731391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f661bc1c2edaea6",
+    "latitude": 38.97495899999999,
+    "longitude": -92.36144931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARKSIDE DR, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "893bc14f1a8a6b5c",
+    "latitude": 38.15301420000001,
+    "longitude": -91.25129391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINE ST, BOURBON, MO; city: BOURBON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9106b6ffdc60f836",
+    "latitude": 39.16316789999998,
+    "longitude": -91.66126441528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, MARTINSBURG, MO; city: MARTINSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6bf87341db21cab",
+    "latitude": 36.1764323,
+    "longitude": -89.64673541528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 104 EASTHAVEN ST, CARUTHERSVILLE, MO; city: CARUTHERSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "97facc459f7b41e9",
+    "latitude": 36.8599715,
+    "longitude": -89.5827275152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e076ab3676e877d0",
+    "latitude": 38.97555419999999,
+    "longitude": -92.28448351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e41a15fc9b7b5488",
+    "latitude": 38.70045,
+    "longitude": -93.19284531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADWAY BLVD, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "96f47bb9fa05e1bd",
+    "latitude": 37.3227198,
+    "longitude": -93.49743171528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4707479740b47162",
+    "latitude": 38.8759985,
+    "longitude": -92.35152991528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY K RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc604508bcf62ad3",
+    "latitude": 38.95221099999999,
+    "longitude": -92.2967153152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WALNUT ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e0966b573db3cacd",
+    "latitude": 36.8637022,
+    "longitude": -93.23483741528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BUSIEK RD, SADDLEBROOKE, MO; city: SADDLEBROOKE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d193472ea028621c",
+    "latitude": 38.53363749999999,
+    "longitude": -92.21919921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17b3c45bff63d467",
+    "latitude": 38.76507310000001,
+    "longitude": -93.46460021528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, LA MONTE, MO; city: LA MONTE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "64def49afed76cda",
+    "latitude": 38.95386299999999,
+    "longitude": -92.29684231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WALNUT ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dfcd48af0f3aba3c",
+    "latitude": 38.961385899999996,
+    "longitude": -92.37320011528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WORLEY ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0110e10c686b03ed",
+    "latitude": 38.53659699999999,
+    "longitude": -91.0076123152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WASHINGTON XING, WASHINGTON, MO; city: WASHINGTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1dddfb696c201b99",
+    "latitude": 38.9351531,
+    "longitude": -92.26663691528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FULTON GRAVEL RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "330580ec899ef19b",
+    "latitude": 39.938304,
+    "longitude": -91.6044687152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 6, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b904c6269fae5173",
+    "latitude": 37.024677,
+    "longitude": -93.22258311528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 800 14TH ST, OZARK, MO; city: OZARK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9057fdaa9549a264",
+    "latitude": 39.838629299999994,
+    "longitude": -91.72752361528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 168, PHILADELPHIA, MO; city: PHILADELPHIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "415014161b7c4ca6",
+    "latitude": 38.861627899999995,
+    "longitude": -91.31603921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, JONESBURG, MO; city: JONESBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea0db100dda3f180",
+    "latitude": 37.13179280000001,
+    "longitude": -93.4602711152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f896a0e6da3714df",
+    "latitude": 37.32271999999998,
+    "longitude": -93.49743131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c46285d38a9d912a",
+    "latitude": 38.8762334,
+    "longitude": -92.3509449152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY K RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "90b5ceff520654ee",
+    "latitude": 37.197443,
+    "longitude": -93.29538531528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAMPBELL AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d49216643c91713",
+    "latitude": 39.074955,
+    "longitude": -92.31189431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PEABODY HAUL RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "be5a418df5490a96",
+    "latitude": 39.454537,
+    "longitude": -91.05321831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MANSION ST, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fce81efa0ab287be",
+    "latitude": 37.08757399999999,
+    "longitude": -93.32645931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NICHOLAS RD, NIXA, MO; city: NIXA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8945e3b5db87fbf2",
+    "latitude": 37.863801,
+    "longitude": -92.03157041528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, ST. ROBERT, MO; city: ST. ROBERT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69897e186936e9d3",
+    "latitude": 37.184391999999995,
+    "longitude": -93.43267231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARNAHAN ST, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b480f8751e76e517",
+    "latitude": 38.867410199999995,
+    "longitude": -92.39116231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WENTWORTH DR, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d0f6a57e9c86b3c4",
+    "latitude": 38.5506467,
+    "longitude": -92.1880682152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 704 ELLIS BLVD, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9d36d4f880c370a",
+    "latitude": 38.467031,
+    "longitude": -91.6321693152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 50, OWENSVILLE, MO; city: OWENSVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "748f5d6228f4b442",
+    "latitude": 38.820613599999994,
+    "longitude": -91.14081651528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 47, WARRENTON, MO; city: WARRENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "41ae875247341fe9",
+    "latitude": 36.88075280000001,
+    "longitude": -93.72130351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fe3281e7a6f26937",
+    "latitude": 38.554984000000005,
+    "longitude": -92.14375731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEWIS AND CLARK DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ca737e53bbd41c92",
+    "latitude": 37.201181,
+    "longitude": -93.3064583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MONROE TER, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cb73d3ff880307d2",
+    "latitude": 36.51297249999999,
+    "longitude": -93.71091121528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, CHAIN-O-LAKES, MO; city: CHAIN-O-LAKES; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fb42ce96dc24c852",
+    "latitude": 38.9425671,
+    "longitude": -92.29533361528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9dd45baeaba0f78a",
+    "latitude": 37.0676053,
+    "longitude": -93.12181381528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRIAR RD, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0902c2ff97fac469",
+    "latitude": 38.960916499999996,
+    "longitude": -92.26835051528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53f6a5c02483397b",
+    "latitude": 36.658536199999986,
+    "longitude": -93.33762761528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JOHN THE DIVER TRL, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "161c5907de8919cd",
+    "latitude": 36.73959299999999,
+    "longitude": -93.27182331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EMORY CREEK BLVD, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "06734872e4f5c9f5",
+    "latitude": 36.65241599999999,
+    "longitude": -93.29292631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 76 COUNTRY BLVD, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d5ae7b5db717b49",
+    "latitude": 37.196833,
+    "longitude": -93.29492031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "beb16d60928871df",
+    "latitude": 36.78131249999999,
+    "longitude": -92.91184491528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 76, TANEYVILLE, MO; city: TANEYVILLE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "49edf46425b6324d",
+    "latitude": 38.311415,
+    "longitude": -92.16849631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 2ND ST, META, MO; city: META; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3c91b54aa2f870e8",
+    "latitude": 38.3635067,
+    "longitude": -92.54550871528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, ELDON, MO; city: ELDON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d7a87cf7e7c5d180",
+    "latitude": 39.979731099999995,
+    "longitude": -91.41419401528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N BOTTOM RD & EINHAUS LN; cross street: EINHAUS LN; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5aa981ab6089719f",
+    "latitude": 37.33175299999999,
+    "longitude": -93.9560884152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE RD A, LOCKWOOD, MO; city: LOCKWOOD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a2552b452213dfa2",
+    "latitude": 36.911536,
+    "longitude": -93.92930631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cdc439b73d719f63",
+    "latitude": 38.5694872,
+    "longitude": -92.16781001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAFAYETTE ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6a9267760e196e1e",
+    "latitude": 37.14994469999999,
+    "longitude": -93.26260381528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PRIMROSE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "91e517b06a980875",
+    "latitude": 37.0025671,
+    "longitude": -93.12238001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 14, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c477d1e12794ce4",
+    "latitude": 38.9100282,
+    "longitude": -92.33608501528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OUTER RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "948191f211b1f10e",
+    "latitude": 38.975941899999995,
+    "longitude": -92.2848815152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b693b99d6e13cbf5",
+    "latitude": 36.50652199999999,
+    "longitude": -93.93364531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 37, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "270500a1473f040e",
+    "latitude": 37.132071700000004,
+    "longitude": -93.46060301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1225 US HWY 60, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ca54c9df407ecdef",
+    "latitude": 38.96138909999999,
+    "longitude": -92.3731920152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WORLEY ST, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c8aea0baac5e6f45",
+    "latitude": 38.953166,
+    "longitude": -92.09928331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, KINGDOM CITY, MO; city: KINGDOM CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bfee96ebd7c93af3",
+    "latitude": 38.6044078,
+    "longitude": -92.30268991528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BINDER LAKE RD, ST. MARTINS, MO; city: ST. MARTINS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f5a962a17083e63c",
+    "latitude": 39.78008559999999,
+    "longitude": -91.52887751528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTLINE ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "36d00b5e1b52b05b",
+    "latitude": 39.92778409999999,
+    "longitude": -91.38794141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S 18TH ST & KENTUCKY ST; cross street: KENTUCKY ST; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2d929dbdebdd419",
+    "latitude": 36.6595907,
+    "longitude": -93.34773261528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CROWS NEST TRL, INDIAN POINT, MO; city: INDIAN POINT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "93c7b2ddccc4392a",
+    "latitude": 38.3442839,
+    "longitude": -93.7576377152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2647a3bb2b962788",
+    "latitude": 38.95184210000001,
+    "longitude": -92.33770791528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 47 BROADWAY, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b108d40976423f40",
+    "latitude": 36.7136422,
+    "longitude": -93.20117401528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLYMPUS DR, BULL CREEK, MO; city: BULL CREEK; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9527bf09aa67ba6",
+    "latitude": 38.97323389999999,
+    "longitude": -92.26552021528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GEYSER BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8ce787ef91e61e8f",
+    "latitude": 37.7689368,
+    "longitude": -92.40234551528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 44, RICHLAND, MO; city: RICHLAND; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c59e6020af67dac6",
+    "latitude": 38.56482599999999,
+    "longitude": -92.17773431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "60821fa3f2f9857b",
+    "latitude": 37.333326899999996,
+    "longitude": -93.65191331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, EVERTON, MO; city: EVERTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "feed44c2ab04f461",
+    "latitude": 37.1816674,
+    "longitude": -93.42671771528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARNAHAN ST, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bd67ca1cdc8fe6e4",
+    "latitude": 38.98628589999999,
+    "longitude": -92.35206151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CREASY SPRINGS RD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8b2b5b250e7c1925",
+    "latitude": 37.277446000000005,
+    "longitude": -93.39813221528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7f7d6ed8e33cf017",
+    "latitude": 37.24375619999999,
+    "longitude": -93.4312907152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY AB, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d2dbe0047e8d3a6c",
+    "latitude": 38.95330129999999,
+    "longitude": -92.10754661528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, KINGDOM CITY, MO; city: KINGDOM CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "566fa9e344a497d7",
+    "latitude": 39.74268699999999,
+    "longitude": -92.24995921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 36 BUS, CLARENCE, MO; city: CLARENCE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "278c0873aaab5dc2",
+    "latitude": 38.699334,
+    "longitude": -93.27483131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 16TH ST, SEDALIA, MO; city: SEDALIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "06a96db889f65557",
+    "latitude": 37.201228,
+    "longitude": -93.2954153152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAMPBELL AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0df2fdf62e4cac68",
+    "latitude": 37.12221550000001,
+    "longitude": -93.26124051528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1937 NORSHIRE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "63fbb91c5803ec76",
+    "latitude": 39.78008559999999,
+    "longitude": -91.52887751528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTLINE ST, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "800ebfe213e60709",
+    "latitude": 38.7604153,
+    "longitude": -93.7450622152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "79fa66aa776da295",
+    "latitude": 38.8962402,
+    "longitude": -92.27918051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7ac84747873a8c3",
+    "latitude": 38.55145199999999,
+    "longitude": -92.21357531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTHRIDGE DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "83b66d26d3fc667e",
+    "latitude": 37.206081999999995,
+    "longitude": -93.31028931528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEWTON AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21d964982c2c74f1",
+    "latitude": 36.72641399999999,
+    "longitude": -93.17551031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 176, MERRIAM WOODS, MO; city: MERRIAM WOODS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "86475f5e6ecd3066",
+    "latitude": 37.32662299999999,
+    "longitude": -93.60200231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BOONE ST, ASH GROVE, MO; city: ASH GROVE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "236172f7abb5efd7",
+    "latitude": 37.10807160000001,
+    "longitude": -93.28709831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GASLIGHT DR, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b48f57209d055e60",
+    "latitude": 37.32271999999998,
+    "longitude": -93.49743131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 160, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c0fbddd00fabde6",
+    "latitude": 37.198705999999994,
+    "longitude": -93.30347331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOMBARD ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "740b1cb34e943d48",
+    "latitude": 37.18436689999999,
+    "longitude": -93.4324812152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARNAHAN ST, REPUBLIC, MO; city: REPUBLIC; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5706d15d93dc36e8",
+    "latitude": 38.973882200000006,
+    "longitude": -92.26558451528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BALLENGER LN, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d8b86f90f72f745",
+    "latitude": 38.9565958,
+    "longitude": -93.4229625152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BERRY BRIDGE RD, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4696e25329e8b720",
+    "latitude": 37.197125,
+    "longitude": -93.31077831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "982eab6cfeffeac8",
+    "latitude": 38.9505523,
+    "longitude": -93.41687111528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOCUST ST, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ead57207a606367",
+    "latitude": 37.994357699999995,
+    "longitude": -92.09480351528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELLEN ST, DIXON, MO; city: DIXON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "77ac85dcb13ba6e2",
+    "latitude": 38.5656289,
+    "longitude": -92.14566961528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OPTIMIST CT, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0cf56798c88b7278",
+    "latitude": 39.14601549999999,
+    "longitude": -92.4675369152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 490 SEXTON ST, HARRISBURG, MO; city: HARRISBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7158f39bf88fec78",
+    "latitude": 38.968298399999995,
+    "longitude": -92.31464221528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "474a97dd8190bd10",
+    "latitude": 36.587368099999985,
+    "longitude": -93.9819135152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINEVILLE RD, WASHBURN, MO; city: WASHBURN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2fb30bd481640351",
+    "latitude": 39.333215,
+    "longitude": -91.18104431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61 BUS, BOWLING GREEN, MO; city: BOWLING GREEN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6910d00664f51164",
+    "latitude": 39.0491641,
+    "longitude": -91.89461051528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, AUXVASSE, MO; city: AUXVASSE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2ecda01141f2d94d",
+    "latitude": 38.83044,
+    "longitude": -91.02170131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SVC RD N, WRIGHT CITY, MO; city: WRIGHT CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a974dfc1122a429e",
+    "latitude": 36.9282681,
+    "longitude": -93.89661171528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLEVELAND AVE, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "19fd059e9c1dd6bc",
+    "latitude": 36.65871800000001,
+    "longitude": -93.2244553152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 248, BRANSON, MO; city: BRANSON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "703b6dcea013266e",
+    "latitude": 38.84737309999999,
+    "longitude": -91.96065301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HICKMAN AVE, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d4e4370063fac6d",
+    "latitude": 39.79434929999999,
+    "longitude": -91.54442301528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 168, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9fc8b2c74d98b5b3",
+    "latitude": 38.7936416,
+    "longitude": -91.15070151528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 47, WARRENTON, MO; city: WARRENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a75052440fcf8dc5",
+    "latitude": 39.72239140000001,
+    "longitude": -91.39948591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3651 STARDUST DR, HANNIBAL, MO; city: HANNIBAL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b8027b7f99e6b6f6",
+    "latitude": 39.42292820000001,
+    "longitude": -91.07522551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY NN, LOUISIANA, MO; city: LOUISIANA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a99c12f38d0c6b74",
+    "latitude": 39.7508201,
+    "longitude": -91.51839901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c5b81ae206ab810",
+    "latitude": 36.7117834,
+    "longitude": -93.1409225152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1082 STATE HWY 176, ROCKAWAY BEACH, MO; city: ROCKAWAY BEACH; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4e635a655fe1be7",
+    "latitude": 38.8915016,
+    "longitude": -92.27127981528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 63, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2f88bcec2bba34bd",
+    "latitude": 38.82991400000001,
+    "longitude": -91.04152141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILDCAT DR, WRIGHT CITY, MO; city: WRIGHT CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5efa7a9794ae7b13",
+    "latitude": 36.053131,
+    "longitude": -89.40388831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W HWY 51 BYP & INDIAN TRCE, DYERSBURG; city: DYERSBURG; cross street: INDIAN TRCE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f9ff80e0fc2b6635",
+    "latitude": 38.9566772,
+    "longitude": -93.4229625152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BERRY BRIDGE RD, SWEET SPRINGS, MO; city: SWEET SPRINGS; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "991f47ddb1cf487a",
+    "latitude": 36.88075280000001,
+    "longitude": -93.72130351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 39, MONETT, MO; city: MONETT; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bfec7494e63c8d2b",
+    "latitude": 39.72120439999999,
+    "longitude": -91.42023391528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS RD, HANNIBAL, MO; city: HANNIBAL; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7cda4e0fa5a2fb9f",
+    "latitude": 39.930794999999996,
+    "longitude": -91.42890531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, PALMYRA, MO; city: PALMYRA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "787be4e66aeab662",
+    "latitude": 38.86509139999999,
+    "longitude": -92.3977964152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAMPUS DR, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bbfc57c334bf7ca0",
+    "latitude": 38.015293,
+    "longitude": -92.73492931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 54, CAMDENTON, MO; city: CAMDENTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc690767a56def98",
+    "latitude": 37.200965,
+    "longitude": -93.29703931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARKET AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "908dd2c84e8f1486",
+    "latitude": 38.63135789999999,
+    "longitude": -93.39929951528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY B, GREEN RIDGE, MO; city: GREEN RIDGE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a8a15593d294f6f1",
+    "latitude": 38.58227060000001,
+    "longitude": -92.18085361528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HIGH ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df0829c3c5f47436",
+    "latitude": 38.97028709999999,
+    "longitude": -92.38942051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 70 DR NW, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2ac59a71cc29ab22",
+    "latitude": 38.3442508,
+    "longitude": -93.75816851528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 13, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "18ee9ea523f7a92c",
+    "latitude": 37.1987736,
+    "longitude": -93.30699741528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOMBARD ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "97808d64e31bf85a",
+    "latitude": 36.6069438,
+    "longitude": -93.2340327152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 65, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aa63fa677e2fe19a",
+    "latitude": 37.0676053,
+    "longitude": -93.12181381528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRIAR RD, SPARTA, MO; city: SPARTA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bab3104541cba9f4",
+    "latitude": 37.200607000000005,
+    "longitude": -93.30318131528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MADISON ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ccf733fa584468d",
+    "latitude": 38.57447330000001,
+    "longitude": -92.17614441528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JEFFERSON ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d7690e9cba4e527",
+    "latitude": 37.209183,
+    "longitude": -93.30247631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLIVE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b544db606ed0868",
+    "latitude": 38.5686293,
+    "longitude": -92.16975101528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 603 MARSHALL ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0743838f16e74c6f",
+    "latitude": 38.8763936,
+    "longitude": -92.35106721528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 435 STATE HWY K, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "18547ed24cec7ee9",
+    "latitude": 39.979731099999995,
+    "longitude": -91.41419401528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N BOTTOM RD & EINHAUS LN; cross street: EINHAUS LN; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "70a1bfe0c5b4384f",
+    "latitude": 39.9766997,
+    "longitude": -91.39712131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KOSHS LN & N 12TH ST; cross street: N 12TH ST; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9210264e70afe6ac",
+    "latitude": 39.83842109999999,
+    "longitude": -91.37270991528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 57 & N 545TH PL; cross street: N 545TH PL; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58426178c38000d3",
+    "latitude": 37.198657999999995,
+    "longitude": -93.29881731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN AVE, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c50bd622b2822c70",
+    "latitude": 36.50652199999999,
+    "longitude": -93.93364531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 37, SELIGMAN, MO; city: SELIGMAN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "20801bd3aa73831a",
+    "latitude": 39.472086999999995,
+    "longitude": -92.30737811528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 24, MOBERLY, MO; city: MOBERLY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d55b25674cd9333c",
+    "latitude": 38.910431,
+    "longitude": -92.33521151528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NIFONG BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "402163f3e1aff051",
+    "latitude": 38.8497732,
+    "longitude": -91.96098901528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 604 7TH ST, FULTON, MO; city: FULTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a3898952c41544d",
+    "latitude": 38.588479,
+    "longitude": -92.25628831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VENTURA AVE, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6f3fd7a5c775aa1b",
+    "latitude": 36.85993619999999,
+    "longitude": -89.58276671528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1240 MAIN ST, SIKESTON, MO; city: SIKESTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c3681c71f68da51",
+    "latitude": 38.38948659999999,
+    "longitude": -93.79919361528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 7, CLINTON, MO; city: CLINTON; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2c5f5d37d9cdbea3",
+    "latitude": 38.777817,
+    "longitude": -93.73813831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 912 COLLEGE ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3ff2554059bd9249",
+    "latitude": 39.348816,
+    "longitude": -91.20805431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 61 BUS, BOWLING GREEN, MO; city: BOWLING GREEN; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e8442a2beac95614",
+    "latitude": 38.561866099999996,
+    "longitude": -92.1676303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ATCHISON ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e9272fbe44487d00",
+    "latitude": 37.966022,
+    "longitude": -91.76389431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BISHOP AVE, ROLLA, MO; city: ROLLA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efbb48976636f9df",
+    "latitude": 38.5686293,
+    "longitude": -92.16975101528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 603 MARSHALL ST, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b31a69736090e8c0",
+    "latitude": 38.56687800000001,
+    "longitude": -92.17061831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DAWSON DR, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d0cd983aa033efdf",
+    "latitude": 38.03637500000001,
+    "longitude": -91.64937531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 68, ST. JAMES, MO; city: ST. JAMES; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9d4d9aa1e9a7e8ca",
+    "latitude": 36.980228,
+    "longitude": -93.57499681528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 173, CRANE, MO; city: CRANE; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a58af57268d4c247",
+    "latitude": 38.97320989999999,
+    "longitude": -92.2654880152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GEYSER BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b184ac6f1fbe3ae1",
+    "latitude": 38.563468699999994,
+    "longitude": -92.16259471528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLARK AVE, JEFFERSON CITY, MO; city: JEFFERSON CITY; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "81a12e7d18d7aaee",
+    "latitude": 38.93815300000001,
+    "longitude": -92.35098731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 800 STADIUM BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "afc7ff1f823dd866",
+    "latitude": 37.29891810000001,
+    "longitude": -93.41977841528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: JACKSON ST, WILLARD, MO; city: WILLARD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "747e6830fc837c8e",
+    "latitude": 38.7604153,
+    "longitude": -93.7450622152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SOUTH ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f149bce6cc9d7107",
+    "latitude": 37.196833,
+    "longitude": -93.29492031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9400b639e016013c",
+    "latitude": 37.2316541,
+    "longitude": -93.28623981528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CHASE ST, SPRINGFIELD, MO; city: SPRINGFIELD; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a0605d65d7da8fc5",
+    "latitude": 38.75610669999999,
+    "longitude": -93.74161131528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLDEN ST, WARRENSBURG, MO; city: WARRENSBURG; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "960b436ec05dc904",
+    "latitude": 38.97342499999999,
+    "longitude": -93.99438731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY OO, ODESSA, MO; city: ODESSA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "44226897ad63a12d",
+    "latitude": 36.52226289999999,
+    "longitude": -93.27594751528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 86, HOLLISTER, MO; city: HOLLISTER; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62705347fe91efc2",
+    "latitude": 38.915081,
+    "longitude": -92.40083431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SCOTT BLVD, COLUMBIA, MO; city: COLUMBIA; state: itic_mo",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

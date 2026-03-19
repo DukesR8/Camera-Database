@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0588f27a84e64f6c",
+    "latitude": 32.807030499999996,
+    "longitude": -94.01672361528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TREES CITY RD, VIVIAN, LA; city: VIVIAN; state: itic_la",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c48bb3b544a128e6",
+    "latitude": 32.8092577,
+    "longitude": -94.01578251528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 12161 BOYTER LN, VIVIAN, LA; city: VIVIAN; state: itic_la",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

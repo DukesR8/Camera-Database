@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cd7765721acbbc67",
+    "latitude": 40.794559,
+    "longitude": -77.86244731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E COLLEGE AVE & HWY BUS 55; cross street: HWY BUS 55; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9e52a14ab4e56b25",
+    "latitude": 40.794559,
+    "longitude": -77.86244731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E COLLEGE AVE & HWY BUS 55; cross street: HWY BUS 55; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

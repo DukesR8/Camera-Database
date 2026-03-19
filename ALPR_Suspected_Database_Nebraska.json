@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "23d78a48e0fb2948",
+    "latitude": 40.74182759999999,
+    "longitude": -96.6748202152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ZERMATT DR, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0a561cfb34c9da6d",
+    "latitude": 42.32238389999999,
+    "longitude": -102.9757973152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 385, HEMINGFORD, NE; city: HEMINGFORD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c4e1f867e9d26d3",
+    "latitude": 41.244833400000005,
+    "longitude": -96.21346321528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1515 189TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3b17210cc028d37c",
+    "latitude": 41.262378299999995,
+    "longitude": -96.18596101528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17202 DAVENPORT ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "02a288375d931435",
+    "latitude": 40.4747685,
+    "longitude": -96.96188661528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 911 MAIN ST, WILBER, NE; city: WILBER; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ebc9c9e824718255",
+    "latitude": 40.68489970000001,
+    "longitude": -99.08498541528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1015 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "790ca9db23ef827b",
+    "latitude": 42.4153022,
+    "longitude": -96.43313921528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 35, DAKOTA CITY, NE; city: DAKOTA CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e20553dddce2309",
+    "latitude": 41.3071945,
+    "longitude": -96.22856591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 199TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2d56b306fc872ecd",
+    "latitude": 40.687222,
+    "longitude": -99.0674001152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE M, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "871f333d7eee10d9",
+    "latitude": 40.7709499,
+    "longitude": -98.37781891528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINE ST, DONIPHAN, NE; city: DONIPHAN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5099c4cd1129ac0a",
+    "latitude": 40.723322999999986,
+    "longitude": -99.06551841528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4939c9c11732c2f",
+    "latitude": 42.3214151,
+    "longitude": -103.08495461528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NIOBRARA AVE, HEMINGFORD, NE; city: HEMINGFORD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "84ab378cc7da4fb3",
+    "latitude": 41.3245474,
+    "longitude": -96.13988781528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 144TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b408c23acc3f896",
+    "latitude": 40.73631240000001,
+    "longitude": -99.08485641528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6226 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6eb247c3002c4541",
+    "latitude": 41.248174199999994,
+    "longitude": -96.21010351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 188TH PLZ, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9c7b80f104ab2844",
+    "latitude": 42.4624109,
+    "longitude": -96.42663981528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 29TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "95f8dd9fe6711da4",
+    "latitude": 41.25764649999999,
+    "longitude": -96.03153901528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 7525 DODGE ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3edf29078177757",
+    "latitude": 42.4741528,
+    "longitude": -96.42700471528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COLLEGE WAY, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "37bf3082d6c197d3",
+    "latitude": 42.4625811,
+    "longitude": -96.42835831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 29TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0279280409b1c2d",
+    "latitude": 41.31571879999999,
+    "longitude": -96.06050491528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: REDICK AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f1609b9b7528dab",
+    "latitude": 40.6868436,
+    "longitude": -99.06743841528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1220 AVE M, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3fff706317e0f7fc",
+    "latitude": 40.77787240000001,
+    "longitude": -98.74472291528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 30, SHELTON, NE; city: SHELTON; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6afc196609c401a",
+    "latitude": 41.2642158,
+    "longitude": -96.1414439152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CALIFORNIA ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b82a9e67dba1334d",
+    "latitude": 40.0022482,
+    "longitude": -99.36760291528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 183, ALMA, NE; city: ALMA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d14ee47a38f277cf",
+    "latitude": 42.477037899999985,
+    "longitude": -96.3955940152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ARBOR DR, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3108f15f0688c954",
+    "latitude": 42.469842,
+    "longitude": -96.42719801528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 21ST ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "da582adff9d1c61c",
+    "latitude": 41.21178379999999,
+    "longitude": -96.04448921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4720 84TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "57a4a1a548e80813",
+    "latitude": 41.24483740000001,
+    "longitude": -96.21341491528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1515 189TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69e9eadde15c5dd1",
+    "latitude": 40.68489970000001,
+    "longitude": -99.08498541528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1015 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6fc89c1a0b440bc",
+    "latitude": 40.918014,
+    "longitude": -98.35773581528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADWELL AVE, GRAND ISLAND, NE; city: GRAND ISLAND; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "863bda558b81ac06",
+    "latitude": 41.821462999999994,
+    "longitude": -103.6709532152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: M ST, GERING, NE; city: GERING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "edf252e3d0d0015a",
+    "latitude": 41.30699859999999,
+    "longitude": -96.22212251528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5302 195TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3198f2533ecc8e22",
+    "latitude": 41.26909959999999,
+    "longitude": -98.96873721528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 92, LOUP CITY, NE; city: LOUP CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c298ce6073319bf5",
+    "latitude": 40.699470999999996,
+    "longitude": -99.73814431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RD 433, SMITHFIELD, NE; city: SMITHFIELD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c0d7436f7514637",
+    "latitude": 40.68489970000001,
+    "longitude": -99.08498541528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1015 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "35bc5874d1b0a9f0",
+    "latitude": 41.2338723,
+    "longitude": -96.32562351528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CENTER RD, VENICE, NE; city: VENICE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db4e7dbce14fb307",
+    "latitude": 42.46254179999999,
+    "longitude": -96.41389271528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 29TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72d835e02e36b85b",
+    "latitude": 40.699080099999996,
+    "longitude": -99.1237385152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 30TH AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1fd7d8d61dc9a81",
+    "latitude": 41.1730288,
+    "longitude": -96.02192651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 8911 71ST PLZ, PAPILLION, NE; city: PAPILLION; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "40ec276e54f869af",
+    "latitude": 41.2650834,
+    "longitude": -96.14088851528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 14506 CALIFORNIA ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4b0c694aa137cb7d",
+    "latitude": 40.70316709999999,
+    "longitude": -99.14890621528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COTTONMILL AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a527aeceed28e009",
+    "latitude": 40.370785999999995,
+    "longitude": -96.1989583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN ST, TECUMSEH, NE; city: TECUMSEH; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "206d3f2546d103ff",
+    "latitude": 42.320432999999994,
+    "longitude": -103.06916471528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 2, HEMINGFORD, NE; city: HEMINGFORD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "038015fa869d7d31",
+    "latitude": 41.118058999999995,
+    "longitude": -96.0065453152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAPEHART RD, BELLEVUE, NE; city: BELLEVUE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6caea17e2518ccaf",
+    "latitude": 41.18820199999999,
+    "longitude": -96.1974533152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 180TH ST, CHALCO, NE; city: CHALCO; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "236126747967d44f",
+    "latitude": 40.716868999999996,
+    "longitude": -98.98920041528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: IMPERIAL AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "326b8a3d3dffb9ef",
+    "latitude": 40.1330695,
+    "longitude": -99.4653672152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, ORLEANS, NE; city: ORLEANS; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "36b103aa61e7cd0f",
+    "latitude": 41.211877599999994,
+    "longitude": -96.04448651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4720 84TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d055983d42eb2dfd",
+    "latitude": 40.7085069,
+    "longitude": -99.05312001528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GRAND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7c21cd15b597aa7f",
+    "latitude": 40.699470999999996,
+    "longitude": -99.73814431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RD 433, SMITHFIELD, NE; city: SMITHFIELD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2185386c8a573d86",
+    "latitude": 40.6630909,
+    "longitude": -99.98200391528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 23, ELWOOD, NE; city: ELWOOD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b05a38f04dab68a",
+    "latitude": 41.32269409999999,
+    "longitude": -96.13969401528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 144TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7e1fc44ddb10d801",
+    "latitude": 41.8425383,
+    "longitude": -103.66169071528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 10TH ST, GERING, NE; city: GERING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a1094416c411bbbf",
+    "latitude": 40.75049239999999,
+    "longitude": -96.63776711528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6101 APPLES WAY, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bb86bd5664aedf3b",
+    "latitude": 40.818664,
+    "longitude": -101.25659831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 23, ELSIE, NE; city: ELSIE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7adcd43967ba4d6b",
+    "latitude": 41.23287259999999,
+    "longitude": -96.2035796152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 18375 WRIGHT ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cafa2d2e268aea46",
+    "latitude": 41.6039842,
+    "longitude": -98.9444199152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 11, ORD, NE; city: ORD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de4780c6d67e351f",
+    "latitude": 41.092661799999995,
+    "longitude": -99.08367531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 10, HAZARD, NE; city: HAZARD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cca34830aa28d645",
+    "latitude": 40.721644899999994,
+    "longitude": -99.40842871528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 30, ELM CREEK, NE; city: ELM CREEK; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2789e8d3823ab6af",
+    "latitude": 40.3505864,
+    "longitude": -99.3699057152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 726 RD, RAGAN, NE; city: RAGAN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5846af5a9d305906",
+    "latitude": 41.842029000000004,
+    "longitude": -103.67605931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FIVE ROCKS RD, TERRYTOWN, NE; city: TERRYTOWN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db7caf7949578e3b",
+    "latitude": 41.1626688,
+    "longitude": -96.13748221528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 80, CHALCO, NE; city: CHALCO; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7a34dff244a0ac03",
+    "latitude": 41.4012135,
+    "longitude": -98.45171881528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 281, WOLBACH, NE; city: WOLBACH; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7a962489a4d73725",
+    "latitude": 41.29134470000001,
+    "longitude": -96.14121081528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 14505 MAPLE RD, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c1202ceaa45bd368",
+    "latitude": 41.2614744,
+    "longitude": -96.18238721528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17202 DAVENPORT ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7f990fae28705c5",
+    "latitude": 41.696036,
+    "longitude": -98.5429489152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 281, SPALDING, NE; city: SPALDING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1804e46aaee8ab83",
+    "latitude": 41.261636,
+    "longitude": -96.18586631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17202 DAVENPORT ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4ea54474eaaf5fa4",
+    "latitude": 40.687222,
+    "longitude": -99.0674001152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE M, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "907cc132ee9b1de4",
+    "latitude": 41.713483,
+    "longitude": -96.90770661528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 91, HOWELLS, NE; city: HOWELLS; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bde20fcccc153f23",
+    "latitude": 41.831403,
+    "longitude": -100.1014665152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 2, DUNNING, NE; city: DUNNING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c03cca83be2d7999",
+    "latitude": 42.3282957,
+    "longitude": -102.8698108152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 87, BEREA, NE; city: BEREA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "11d8f6c83518a932",
+    "latitude": 42.1258646,
+    "longitude": -98.04267491528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 14, NELIGH, NE; city: NELIGH; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf28a947d1a4274d",
+    "latitude": 40.71211679999998,
+    "longitude": -99.12304551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 30TH AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea926e574c1b122e",
+    "latitude": 42.457724999999996,
+    "longitude": -96.4311333152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 73, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5eb0a4f7d5380c2a",
+    "latitude": 40.72833800000001,
+    "longitude": -99.06713091528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 56TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c46ab8576d433eb3",
+    "latitude": 41.2338338,
+    "longitude": -96.32564521528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CENTER RD, VENICE, NE; city: VENICE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "949157d3ba1cb5b7",
+    "latitude": 41.87875299999999,
+    "longitude": -103.66682061528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE B, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "699faa487706d4ba",
+    "latitude": 42.321795300000005,
+    "longitude": -103.06635591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DODGE RD, HEMINGFORD, NE; city: HEMINGFORD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "08857d75312e7f4d",
+    "latitude": 42.4810478,
+    "longitude": -96.41555651528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 9TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc77f81dd0dfa93c",
+    "latitude": 41.4385154,
+    "longitude": -97.24953021528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RD D, RICHLAND, NE; city: RICHLAND; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "658bddf6f145cfaa",
+    "latitude": 40.103607499999995,
+    "longitude": -99.18556591528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 136, REPUBLICAN CITY, NE; city: REPUBLICAN CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ebacefb3b905c2f5",
+    "latitude": 41.31571879999999,
+    "longitude": -96.06050491528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: REDICK AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c0800de41f1fbd1",
+    "latitude": 41.878757,
+    "longitude": -103.66682061528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE B, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dd2ecaca7d492fa3",
+    "latitude": 41.21085769999999,
+    "longitude": -96.04465321528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4720 84TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5b9c28998c3ae8ad",
+    "latitude": 40.728673,
+    "longitude": -99.1704509152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 56TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de2911651663d596",
+    "latitude": 41.821835,
+    "longitude": -103.65314621528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 400 M ST, GERING, NE; city: GERING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6e52ee9eb18936f8",
+    "latitude": 41.83156220000001,
+    "longitude": -100.10215911528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 2, DUNNING, NE; city: DUNNING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "060c40791ee81ba4",
+    "latitude": 41.134352,
+    "longitude": -96.09164171528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 114TH ST, PAPILLION, NE; city: PAPILLION; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e125be0f348a1ec0",
+    "latitude": 41.254042,
+    "longitude": -96.07522231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 606 REGENCY PKWY, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d2c8d0f8990b116b",
+    "latitude": 42.483808399999994,
+    "longitude": -96.4104688152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: C ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6c1540d2306fc9ba",
+    "latitude": 40.0971273,
+    "longitude": -99.21683361528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CORP RD A, REPUBLICAN CITY, NE; city: REPUBLICAN CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a8d0b46ce3d7e04",
+    "latitude": 40.7000076,
+    "longitude": -99.7912602152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PLUM CREEK PKWY, LEXINGTON, NE; city: LEXINGTON; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a5024c1be07f6ce",
+    "latitude": 41.8801271,
+    "longitude": -103.67664131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE I, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "89db957625f9fd42",
+    "latitude": 40.713878399999984,
+    "longitude": -99.05296081528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 39TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ac51a58a6d107a4",
+    "latitude": 42.46626959999999,
+    "longitude": -96.42730311528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 25TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8548b84df84dbf34",
+    "latitude": 41.21178369999999,
+    "longitude": -96.04448921528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4720 84TH ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "087dd501672d8d7c",
+    "latitude": 41.2623136,
+    "longitude": -96.1832493152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17202 DAVENPORT ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "448fabe512a46a2e",
+    "latitude": 40.370785999999995,
+    "longitude": -96.1989583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN ST, TECUMSEH, NE; city: TECUMSEH; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2301d5ecae8b0d66",
+    "latitude": 40.697462699999996,
+    "longitude": -99.08953031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5TH AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0fbd67a3a7fe72a9",
+    "latitude": 41.248174199999994,
+    "longitude": -96.21010351528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 188TH PLZ, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9db574db99b48fa1",
+    "latitude": 41.3139997,
+    "longitude": -96.24230611528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 20720 KANSAS AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "65c29b912b2e539b",
+    "latitude": 41.830609,
+    "longitude": -103.63757401528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: U ST, GERING, NE; city: GERING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "35c1cde5dcb6bc4b",
+    "latitude": 41.259413499999994,
+    "longitude": -96.03078441528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 7525 DODGE ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "507955009b8edc59",
+    "latitude": 41.98754040000001,
+    "longitude": -98.2971840152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 70, BARTLETT, NE; city: BARTLETT; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2b83ebceb2185334",
+    "latitude": 40.75047809999998,
+    "longitude": -96.63881051528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6101 APPLES WAY, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "05647ecfc5694035",
+    "latitude": 41.3146461,
+    "longitude": -96.12049341528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 132ND ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1fdaad713fc7cd2b",
+    "latitude": 42.478574099999996,
+    "longitude": -96.41412501528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1125 DAKOTA AVE, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e15c8e0d154462d",
+    "latitude": 41.42247199999999,
+    "longitude": -100.50268391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 30, GANDY, NE; city: GANDY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ba995f164c3d06f7",
+    "latitude": 42.45599299999999,
+    "longitude": -96.43238431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 73, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9edc728bee101d71",
+    "latitude": 42.447807999999995,
+    "longitude": -96.38821831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 129, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d928aa3d0ea3be52",
+    "latitude": 41.86648,
+    "longitude": -103.68519931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 20TH ST, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6a75b7a9deee04f3",
+    "latitude": 40.848597,
+    "longitude": -101.3809433152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RD 346, ELSIE, NE; city: ELSIE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b3b00470b3dd246e",
+    "latitude": 40.75049440000001,
+    "longitude": -96.63778191528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6101 APPLES WAY, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "abab7774434c3b6a",
+    "latitude": 41.25827149999999,
+    "longitude": -96.0320325152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 7525 DODGE ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4456af2e21fe828",
+    "latitude": 42.449245,
+    "longitude": -96.40554731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I- 129, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f29a5e9c8a5ba259",
+    "latitude": 41.87968349999999,
+    "longitude": -103.6668640152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AVE B, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1a0e0ea4c0581d6c",
+    "latitude": 41.1711399,
+    "longitude": -96.02320411528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 8909 71ST PLZ, PAPILLION, NE; city: PAPILLION; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9067115513d464d5",
+    "latitude": 42.4807598,
+    "longitude": -96.40502891528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: G ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "139a67239211425a",
+    "latitude": 41.26444359999999,
+    "longitude": -96.14190821528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 14506 CALIFORNIA ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e842e8445e6396fd",
+    "latitude": 40.98927869999999,
+    "longitude": -98.9140314152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 325TH RD, POOLE, NE; city: POOLE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "719738ad84433ad8",
+    "latitude": 41.26435089999999,
+    "longitude": -96.1419109152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 14506 CALIFORNIA ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "39f15d4c22e8697f",
+    "latitude": 40.7000076,
+    "longitude": -99.7912602152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 283, ELWOOD, NE; city: ELWOOD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "73e09ce919d95fad",
+    "latitude": 42.4513905,
+    "longitude": -96.40486561528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: C AVE, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d41a92397036f2bf",
+    "latitude": 40.74232119999999,
+    "longitude": -96.67484521528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3120 PINE LAKE RD, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1232d5bf9ead0b62",
+    "latitude": 40.7138299,
+    "longitude": -99.08445161528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 3821 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "13f613c9c5f9b5b5",
+    "latitude": 40.3505864,
+    "longitude": -99.3699057152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 726 RD, HOLDREGE, NE; city: HOLDREGE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0a891d3c89dbd24",
+    "latitude": 41.154525,
+    "longitude": -96.06508341528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINCOLN RD, PAPILLION, NE; city: PAPILLION; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b961baca8d608e63",
+    "latitude": 41.118223,
+    "longitude": -96.00342531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CAPEHART RD, BELLEVUE, NE; city: BELLEVUE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "006b09f3bea86a48",
+    "latitude": 40.918023299999994,
+    "longitude": -98.35774621528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADWELL AVE, GRAND ISLAND, NE; city: GRAND ISLAND; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aee9170e645d983c",
+    "latitude": 40.677855099999995,
+    "longitude": -99.0840159152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 4TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ef28189f52bf4da",
+    "latitude": 42.46093719999999,
+    "longitude": -96.4376160152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 29TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0e8e95a485132ebd",
+    "latitude": 40.699840900000005,
+    "longitude": -99.12313521528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 30TH AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "69adfebfbdd57330",
+    "latitude": 41.422475,
+    "longitude": -100.50263631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CO RD 30, GANDY, NE; city: GANDY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f8455bf34fd13efa",
+    "latitude": 41.31337500000001,
+    "longitude": -96.24139731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAUREL AVE, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2fd936dffe3f5188",
+    "latitude": 41.3357265,
+    "longitude": -96.1118682152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c77bd1d790d4c78",
+    "latitude": 40.69222390000001,
+    "longitude": -99.11919951528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RAILROAD ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "94a30964340a8d91",
+    "latitude": 40.8320175,
+    "longitude": -98.3798496152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WOOD RIVER RD, GRAND ISLAND, NE; city: GRAND ISLAND; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "732517a36abe15db",
+    "latitude": 40.697462699999996,
+    "longitude": -99.08953031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 5TH AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cf161f0adcac1528",
+    "latitude": 40.68489970000001,
+    "longitude": -99.08498541528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 1015 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e26af8581f7ac60",
+    "latitude": 41.0000689,
+    "longitude": -98.60824921528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HIGH ST, CAIRO, NE; city: CAIRO; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c41fc04c2a8fca81",
+    "latitude": 40.5323489,
+    "longitude": -99.64488891528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 23, SMITHFIELD, NE; city: SMITHFIELD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a79ff83fef435d7",
+    "latitude": 41.1643467,
+    "longitude": -96.14019251528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 144TH ST, CHALCO, NE; city: CHALCO; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38e530b6ee4d72cc",
+    "latitude": 40.67769659999999,
+    "longitude": -99.08543621528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 301 2ND AVE, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "83d035e86536c283",
+    "latitude": 40.71377180000001,
+    "longitude": -99.05311141528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 39TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2486d9ed510503a",
+    "latitude": 40.750470899999996,
+    "longitude": -96.6387770152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 6101 APPLES WAY, LINCOLN, NE; city: LINCOLN; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "97132b3263a84c4e",
+    "latitude": 42.47076259999999,
+    "longitude": -96.42909781528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CORNHUSKER DR, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dc825b5102f76425",
+    "latitude": 41.85310799999999,
+    "longitude": -103.66328631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADWAY, SCOTTSBLUFF, NE; city: SCOTTSBLUFF; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bb98ddf75800e697",
+    "latitude": 41.414323399999994,
+    "longitude": -97.06051851528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RD 11, SCHUYLER, NE; city: SCHUYLER; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "91f6027dd271d7c4",
+    "latitude": 40.66269499999999,
+    "longitude": -99.38129951528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 183, LOOMIS, NE; city: LOOMIS; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f262d1e2be90d779",
+    "latitude": 40.728321,
+    "longitude": -99.0681953152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 56TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9818aeee36bd3669",
+    "latitude": 41.3357265,
+    "longitude": -96.1118682152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE ST, OMAHA, NE; city: OMAHA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "299bbd2b559eb333",
+    "latitude": 40.3513349,
+    "longitude": -99.90235391528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 283, ELWOOD, NE; city: ELWOOD; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9dcb7c0ab183f31e",
+    "latitude": 41.81390699999999,
+    "longitude": -103.67571741528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FIVE ROCKS RD, GERING, NE; city: GERING; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b77f51af0ad1f656",
+    "latitude": 40.821881100000006,
+    "longitude": -101.28170291528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 23, ELSIE, NE; city: ELSIE; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5442a5946fd4e7af",
+    "latitude": 40.77787200000001,
+    "longitude": -98.74472331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 30, SHELTON, NE; city: SHELTON; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fccdd9107703269b",
+    "latitude": 40.8707687,
+    "longitude": -98.4672005152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FRONT ST, ALDA, NE; city: ALDA; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b4f4b274440fe5f1",
+    "latitude": 42.48088709999999,
+    "longitude": -96.41329551528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 9TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d0cfb08fdcd26940",
+    "latitude": 40.692750499999995,
+    "longitude": -99.11440921528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RAILROAD ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "01428525f0f23ee1",
+    "latitude": 40.99891149999999,
+    "longitude": -99.08401311528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 10, PLEASANTON, NE; city: PLEASANTON; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "19faa147b5b82221",
+    "latitude": 42.4735158,
+    "longitude": -96.4009467152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 17TH ST, SOUTH SIOUX CITY, NE; city: SOUTH SIOUX CITY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8baa79b46e738c1f",
+    "latitude": 40.7283107,
+    "longitude": -99.09584861528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: 56TH ST, KEARNEY, NE; city: KEARNEY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17ce1e9b36f49276",
+    "latitude": 41.41970200000001,
+    "longitude": -100.50226831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 83, GANDY, NE; city: GANDY; state: itic_ne",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "d7d0d25d3ab98050",
+    "latitude": 35.8437478280578,
+    "longitude": -86.4940717905806,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS PKWY & FRANKLIN RD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: FRANKLIN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f99698f2f5db954",
+    "latitude": 35.947487,
+    "longitude": -86.63350131528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ANNECY PKWY & ROCKY FORK RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: ROCKY FORK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a76f9fe30d4a792",
+    "latitude": 35.59356699999999,
+    "longitude": -84.43856531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LINWOOD DR & EDGEWOOD DR, SWEETWATER, MONROE County; city: SWEETWATER; cross street: EDGEWOOD DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6fae47596f97604",
+    "latitude": 35.4777239999984,
+    "longitude": -86.40209231528422,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 64 & MADISON ST, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: MADISON ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "78d6c50b141ee0c7",
+    "latitude": 35.66981286045429,
+    "longitude": -85.78586621390963,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD MORRISON  RD & MUNCEY ST, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: MUNCEY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "490a2cff887dcaeb",
+    "latitude": 35.856862,
+    "longitude": -86.37109231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & SLOAN ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SLOAN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a6b4712473974ac0",
+    "latitude": 35.83541100000001,
+    "longitude": -86.37447331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & MERCURY BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MERCURY BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "75b48107281b84bb",
+    "latitude": 35.210928999998096,
+    "longitude": -84.85452731527982,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FREEDOM PKWY  NW & PAUL HUGG PKWY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: PAUL HUGG PKWY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "46be1bf7e717334a",
+    "latitude": 35.951743,
+    "longitude": -85.02992131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N MAIN ST & LIVINGSTON RD, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: LIVINGSTON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "111ca528f6c410ae",
+    "latitude": 35.941220601221396,
+    "longitude": -86.37843272612692,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEBANON PIKE & CENTRAL VALLEY RD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: CENTRAL VALLEY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0fb7884001a15744",
+    "latitude": 35.51047,
+    "longitude": -86.45710431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PALMER DR & N MAIN ST, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: N MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f5b86d27427b432f",
+    "latitude": 35.35503582478349,
+    "longitude": -88.36487132832492,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 69 & HWY 22 N, MILLEDGEVILLE, MCNAIRY County; city: MILLEDGEVILLE; cross street: HWY 22 N",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f99025b8581311b4",
+    "latitude": 35.88280899999999,
+    "longitude": -86.66926931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED RD & FRENCH RIVER..., NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: FRENCH RIVER...",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "698339c41607ed18",
+    "latitude": 35.97821066074749,
+    "longitude": -85.04085246792002,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N MAIN ST & CHUCKLES PKWY, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: CHUCKLES PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "11a055cadd1ac5b7",
+    "latitude": 35.154881,
+    "longitude": -88.58969031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARCUS J WRIGHT MEMORIAL & FALCON ST, SELMER, MCNAIRY County; city: SELMER; cross street: FALCON ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "283557281b745373",
+    "latitude": 35.620522,
+    "longitude": -84.49077531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAKLAND RD & I 75, SWEETWATER, MONROE County; city: SWEETWATER; cross street: I 75",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "369945f837fb4bf2",
+    "latitude": 35.905296898942,
+    "longitude": -84.42990919908341,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAMILTON RD & FALLBERRY ST, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: FALLBERRY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "94f9985b017db025",
+    "latitude": 35.518159999999995,
+    "longitude": -84.38205231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STHY 68 & COMMUNITY DR, MADISONVILLE, MONROE County; city: MADISONVILLE; cross street: COMMUNITY DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f967a0c1b5e6a23",
+    "latitude": 35.86685700000001,
+    "longitude": -86.45551831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MEDICAL CENTER PKWY & ASBURY LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ASBURY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f613caa0b3cbd451",
+    "latitude": 35.620645,
+    "longitude": -87.83299531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E MAIN ST & STATE HWY 13, LINDEN, PERRY County; city: LINDEN; cross street: STATE HWY 13",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "881ed2b2f6554613",
+    "latitude": 35.890016,
+    "longitude": -84.07563331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SHADOW BROOK DR & WESTLAND DR, KNOXVILLE; city: KNOXVILLE; cross street: WESTLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d3a8b895150f50a8",
+    "latitude": 35.689119000000005,
+    "longitude": -84.04141731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD NILES FERRY RD & CALDERWOOD HWY, MARYVILLE, BLOUNT County; city: MARYVILLE; cross street: CALDERWOOD HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6baeae8aaf41cb6",
+    "latitude": 35.738047,
+    "longitude": -86.89477931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PORT ROYAL RD & RESERVE BLVD, SPRING HILL, MAURY County; city: SPRING HILL; cross street: RESERVE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c6f55c3ac5672a8a",
+    "latitude": 35.978729,
+    "longitude": -84.1382553152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KARNS VALLEY  DR & STATE HWY 62, KNOXVILLE; city: KNOXVILLE; cross street: STATE HWY 62",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ab7aca2cc61278a",
+    "latitude": 35.0058367156505,
+    "longitude": -85.22709080142432,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MCBRIEN RD & N TERRACE, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: N TERRACE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b7cff15861118d5a",
+    "latitude": 35.57126499999999,
+    "longitude": -84.46510131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEW HWY 68 & FONTIER RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: FONTIER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b6a35c8ba49fbe47",
+    "latitude": 35.9094929999993,
+    "longitude": -86.82882631528811,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S ROYAL OAKS  BLVD & OAK MEADOW DR, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: OAK MEADOW DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c10cf63d7b2b130",
+    "latitude": 35.876283,
+    "longitude": -86.35312631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HERRING XING & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d7d0454ba196b662",
+    "latitude": 35.86424800000001,
+    "longitude": -86.47139231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: THUNDER GULCH WAY & PUCKETT CREEK XING, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: PUCKETT CREEK XING",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "005d3dc5a17172e5",
+    "latitude": 35.86144867615659,
+    "longitude": -86.36169482981623,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD LASCASSAS RD & PRIVATE DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: PRIVATE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2d54f7c5f7e4fc17",
+    "latitude": 35.8260909518363,
+    "longitude": -86.35801001257411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CYPRESS DR & HUNT ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: HUNT ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7cdc25a9ed5bfabe",
+    "latitude": 35.486766,
+    "longitude": -86.09081131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MCGUIRE ST & CAMPBELL LN, MANCHESTER, COFFEE County; city: MANCHESTER; cross street: CAMPBELL LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53d0261ae1f8a060",
+    "latitude": 35.706532,
+    "longitude": -88.8337643152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ROLLING ACRES DR & US HWY 45, JACKSON, MADISON County; city: JACKSON; cross street: US HWY 45",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7e7857b28b329cf8",
+    "latitude": 35.987326,
+    "longitude": -86.44062731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W JEFFERSON PIKE & I 840 EXIT RAMP, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: I 840 EXIT RAMP",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5289cd2b25a7dc3c",
+    "latitude": 35.96447899999829,
+    "longitude": -85.65857831528552,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PEELED CHESTNUT LN & JAY HUTCHINGS RD, SPARTA, WHITE County; city: SPARTA; cross street: JAY HUTCHINGS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "04da945680d91bb8",
+    "latitude": 35.9825050000009,
+    "longitude": -86.5538203152866,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PRESIDENT PL & AUSTIN LEE DR, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: AUSTIN LEE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2b78f6b9f7666ad0",
+    "latitude": 35.9821900000029,
+    "longitude": -86.5515813152853,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AUSTIN LEE DR & ROCK SPRINGS RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: ROCK SPRINGS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e42328c73cc07e7a",
+    "latitude": 35.83728099999999,
+    "longitude": -86.77131031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PEYTONSVILLE TRINITY RD & MEEKS RD, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: MEEKS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f2cf82b69a67fd2",
+    "latitude": 35.848583000001696,
+    "longitude": -86.42228131528142,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MALL CIRCLE  DR & N FRONTAGE RD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N FRONTAGE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "44522b58d9631377",
+    "latitude": 35.999643999999996,
+    "longitude": -84.0916763152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RIDGEWALK LN & CARPENTER RD, KNOXVILLE; city: KNOXVILLE; cross street: CARPENTER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "950549359e94484c",
+    "latitude": 35.00920628433708,
+    "longitude": -86.88971726465051,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PLEASANT HILL  RD & ROBIN HOLLOW RD, ARDMORE, GILES County; city: ARDMORE; cross street: ROBIN HOLLOW RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80978839981a5907",
+    "latitude": 35.129246,
+    "longitude": -85.23647331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELEVATED VIEW & NORTHPOINT BLVD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: NORTHPOINT BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2c8fc5818e140bc3",
+    "latitude": 35.92974300000001,
+    "longitude": -86.28347831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FARMINGTON  RD & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f8a5d23f4101b14c",
+    "latitude": 35.639261,
+    "longitude": -88.36023231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CHURCH ST E & SPUR DR, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: SPUR DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "13cc3bda692be183",
+    "latitude": 35.8646396897437,
+    "longitude": -86.35736574446351,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GOLD VALLEY DR & ALLEY ALY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ALLEY ALY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8d00f4055b15f5f1",
+    "latitude": 35.687508,
+    "longitude": -86.98427731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HONEY FARM WAY & MASON BEE DR, COLUMBIA, MAURY County; city: COLUMBIA; cross street: MASON BEE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8de409d480e988a5",
+    "latitude": 35.051673,
+    "longitude": -85.04932631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MCKEE RD & UNIVERSITY DR, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: UNIVERSITY DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4389dac24f63b7bd",
+    "latitude": 35.868052000000006,
+    "longitude": -86.34766531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LIONHEART DR & HIGGINS LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: HIGGINS LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "127065b43bd0eb27",
+    "latitude": 35.84635900000309,
+    "longitude": -86.39655831528391,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W MAIN ST & NW BROAD ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: NW BROAD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6f1ee009007a80ec",
+    "latitude": 35.620180999999995,
+    "longitude": -84.48912331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED RD & OAKLAND RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: OAKLAND RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "004a19f2307d4216",
+    "latitude": 35.8566575671174,
+    "longitude": -86.36274089132972,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HANOVER ST & BROWN DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: BROWN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bf8c525be98aa440",
+    "latitude": 35.84384299999999,
+    "longitude": -86.44562431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SAINT ANDREWS DR & OLD FORT PKWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: OLD FORT PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72851833eebcdcd7",
+    "latitude": 35.052983,
+    "longitude": -85.0510263152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COLCORD DR & APISON PIKE, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: APISON PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "312489727ca3e4a9",
+    "latitude": 35.51044499999999,
+    "longitude": -86.45709431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PALMER DR & N MAIN ST, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: N MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efe9e42ee710b863",
+    "latitude": 35.60525399999819,
+    "longitude": -87.83996131528284,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD HWY 13  S & RIVERSIDE DR, LINDEN, PERRY County; city: LINDEN; cross street: RIVERSIDE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5602b4e7375fcdbd",
+    "latitude": 35.9503669128987,
+    "longitude": -86.64803261271742,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BURBERRY GLEN BLVD & ROCKY FORK RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: ROCKY FORK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a42e5a07d8a1a725",
+    "latitude": 35.043465,
+    "longitude": -88.26988531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 57 & WHEELER LN, COUNCE, HARDIN County; city: COUNCE; cross street: WHEELER LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "674f38e94152ace3",
+    "latitude": 35.04348399999999,
+    "longitude": -85.04627531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COLLEGE DR E & SUNKIST TER, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: SUNKIST TER",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c614bb3688ade6fb",
+    "latitude": 35.6731108758788,
+    "longitude": -85.7793126543855,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD MORRISON  RD & OLD VIOLA RD, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: OLD VIOLA RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "235f544c11cf33bc",
+    "latitude": 35.72654,
+    "longitude": -84.36756831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARDING MACHINE RD & VYTRON RD, LOUDON; city: LOUDON; cross street: VYTRON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9e0b5cca9a8f9fbb",
+    "latitude": 35.62046099999999,
+    "longitude": -87.83419431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US-412 & TN-13, LOBELVILLE, PERRY County; city: LOBELVILLE; cross street: TN-13",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0b676ed237e13809",
+    "latitude": 35.84512500000001,
+    "longitude": -86.38473431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N HIGHLAND AVE & E MAIN ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: E MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db73999b548edc65",
+    "latitude": 35.19036,
+    "longitude": -88.64571231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 64  W & SULPHUR SPRINGS ROAD, SELMER, MCNAIRY County; city: SELMER; cross street: SULPHUR SPRINGS ROAD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6d92cda41663678c",
+    "latitude": 35.67255699999999,
+    "longitude": -88.83232831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VANN DR & N HIGHLAND AVE, JACKSON, MADISON County; city: JACKSON; cross street: N HIGHLAND AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f31c75c063050da1",
+    "latitude": 35.38346699999999,
+    "longitude": -84.29767031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FAIRVIEW RD & SCOTT MANSION RD, TELLICO PLAINS, MONROE County; city: TELLICO PLAINS; cross street: SCOTT MANSION RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53f197cd33f243ff",
+    "latitude": 35.884556,
+    "longitude": -86.3582633152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PITTS LN & DEJARNETTE LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: DEJARNETTE LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "68db8cb4c0a7cad8",
+    "latitude": 35.86616993951059,
+    "longitude": -86.34748448645271,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILLOWBROOK DR & MILWALKEE CT, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MILWALKEE CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9200bf716fd07663",
+    "latitude": 35.86599999999999,
+    "longitude": -86.69467531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAWKS LANDING DR & MURFREESBORO RD, TRIUNE, WILLIAMSON County; city: TRIUNE; cross street: MURFREESBORO RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "70d301fc39233263",
+    "latitude": 35.048969,
+    "longitude": -85.07756931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WELLESLEY DR & BILL REED RD, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: BILL REED RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9bbd5d2e5f193ca",
+    "latitude": 35.90458499999999,
+    "longitude": -84.42491331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W ELDERBERRY ST & EASTBERRY RD, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: EASTBERRY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8ef96d0a782df86c",
+    "latitude": 35.099467999999995,
+    "longitude": -85.18252231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WATERSTONE DR & WEBB RD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WEBB RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d0f7e4994197b61",
+    "latitude": 35.052492,
+    "longitude": -85.04988731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNIVERSITY DR & MCKEE DR, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: MCKEE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "14d073ef7435939d",
+    "latitude": 35.946806,
+    "longitude": -84.8700013152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTCHESTER DR & CHESTNUT HILL RD, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: CHESTNUT HILL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ed10fc4041c1290",
+    "latitude": 35.977139,
+    "longitude": -86.56317231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PRESIDENT PL & CEDAR GROVE RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: CEDAR GROVE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "165baec4d04717e9",
+    "latitude": 35.890691,
+    "longitude": -86.56789431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONEWOOD DR & ALMAVILLE RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: ALMAVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "99fb03662e97057c",
+    "latitude": 35.976634000000004,
+    "longitude": -86.56837131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W SAM RIDLEY PKWY & INDUSTRIAL BLVD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: INDUSTRIAL BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5532d1eab7a5da94",
+    "latitude": 35.669743999999994,
+    "longitude": -88.85246331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VANN DR & EMPORIUM DR, JACKSON, MADISON County; city: JACKSON; cross street: EMPORIUM DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21a0ac97d7739bc0",
+    "latitude": 35.82775900000001,
+    "longitude": -86.43552231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RIVER ROCK BLVD & RIVERSTONE DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: RIVERSTONE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1de7b8b5ca9b2cd",
+    "latitude": 35.756379529567795,
+    "longitude": -84.04216246647252,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W LAMAR ALEXANDER PKWY & WILLIAM BLOUNT DR, MARYVILLE; city: MARYVILLE; cross street: WILLIAM BLOUNT DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "53b5742d522ec41d",
+    "latitude": 35.995857,
+    "longitude": -86.48964831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARK RD & JEFFERSON PIKE, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: JEFFERSON PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "98429c870a1a9f34",
+    "latitude": 35.62389799999999,
+    "longitude": -88.4070303152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROAD ST S & COOK ST, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: COOK ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ef82ffe6188cce35",
+    "latitude": 35.043355,
+    "longitude": -88.26981031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STHY 57 & WHEELER LN, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: WHEELER LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "119e95f1c8e2a9b1",
+    "latitude": 35.939468999997004,
+    "longitude": -86.65575431528713,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRADFIELD  DR & YORK RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: YORK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "551859a3850831c5",
+    "latitude": 35.06825085590099,
+    "longitude": -85.0978359934885,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: APISON  PIKE & PATTENTOWN RD, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: PATTENTOWN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38f1fd713e595a1c",
+    "latitude": 35.8320579999985,
+    "longitude": -86.37213631528194,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EAGLE ST & RIVIERA DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: RIVIERA DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d9349954557724d8",
+    "latitude": 35.605575999999985,
+    "longitude": -84.43454631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAKHILL DR & HAWKINS RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: HAWKINS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1f717e72cc430a0f",
+    "latitude": 35.860916,
+    "longitude": -86.3673883152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAZELWOOD ST & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0006666e8e60f1e0",
+    "latitude": 35.9416061825085,
+    "longitude": -86.47128051195303,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FLORENCE RD & GEORGE FRANKLIN RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: GEORGE FRANKLIN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7a2195a7706b93bc",
+    "latitude": 35.8543286828403,
+    "longitude": -86.35423494597022,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GREENLAND DR & N RUTHERFORD BLVD, MURFREESBORO; city: MURFREESBORO; cross street: N RUTHERFORD BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5c6645c53518eb3",
+    "latitude": 35.598198999999994,
+    "longitude": -84.51516231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEW HWY 68 & BILDERBACK HEIGHTS, SWEETWATER, MONROE County; city: SWEETWATER; cross street: BILDERBACK HEIGHTS",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1004e6f5ec3cfc9c",
+    "latitude": 35.95388799999999,
+    "longitude": -84.14805231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HARDIN VALLEY  RD & SOUTHERN SHADE BLVD, KNOXVILLE; city: KNOXVILLE; cross street: SOUTHERN SHADE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7630170c57ee4944",
+    "latitude": 35.935528,
+    "longitude": -86.2880203152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD ORCHARD  DR & BARLOW LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: BARLOW LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd6ca611a327f375",
+    "latitude": 35.8433132292229,
+    "longitude": -86.37796457622221,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E VINE ST & S BILBRO AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S BILBRO AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5224657e9376e3a3",
+    "latitude": 35.82865999999999,
+    "longitude": -86.36023131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROOKFIELD DR & SHERRILL BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SHERRILL BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c1262ba6c851c1d5",
+    "latitude": 35.098314,
+    "longitude": -85.18441631528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PRESERVE  DR & ZEPHYR LANE, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: ZEPHYR LANE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc83e7993ad27514",
+    "latitude": 35.837830000002285,
+    "longitude": -86.44218631528202,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONEHEDGE DR & CASON LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: CASON LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "964456804930d817",
+    "latitude": 35.210610999999,
+    "longitude": -84.85631931528452,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PAUL HUFF  PKWY  NW & FREEDOM PARKWAY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: FREEDOM PARKWAY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f670a8f8f52cb589",
+    "latitude": 35.60521000000081,
+    "longitude": -87.83967831528192,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD HWY 13  S & RIVERSIDE DR, LINDEN, PERRY County; city: LINDEN; cross street: RIVERSIDE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "568e3d18cb07d866",
+    "latitude": 35.925937999999995,
+    "longitude": -84.55251131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PANSY HILL  RD & SWAN POND RD, HARRIMAN, ROANE County; city: HARRIMAN; cross street: SWAN POND RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b734a41594893bd0",
+    "latitude": 35.934727,
+    "longitude": -86.28096831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD ORCHARD  DR & BARLOW LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: BARLOW LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9b0b02fa84b9b13f",
+    "latitude": 35.97755099999999,
+    "longitude": -86.67034731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WHITNEY PARK DR & KIDD RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: KIDD RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8bc6e5cf2e905f98",
+    "latitude": 35.7971159999974,
+    "longitude": -86.906656315286,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: THOMPSON STATION  RD E & US HWY31, THOMPSONS STATION, WILLIAMSON County; city: THOMPSONS STATION; cross street: US HWY31",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6aa0f9f8b57fd89",
+    "latitude": 35.56432100000001,
+    "longitude": -87.66848531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 412  E & ASPEN RD, LINDEN, PERRY County; city: LINDEN; cross street: ASPEN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "80fd8e605f2ee79e",
+    "latitude": 35.010891000003404,
+    "longitude": -86.8782973152857,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST & DRIVERS LN, ARDMORE, GILES County; city: ARDMORE; cross street: DRIVERS LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8c3320be0174b223",
+    "latitude": 35.743627000000004,
+    "longitude": -86.93896531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CROSSINGS CIR & COLUMNS WAY, SPRING HILL, MAURY County; city: SPRING HILL; cross street: COLUMNS WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e89eef30d371b28d",
+    "latitude": 35.839674,
+    "longitude": -86.44412531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONETRACE DR & STONEHEDGE DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: STONEHEDGE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "59a3f672255ba00d",
+    "latitude": 35.811725000002596,
+    "longitude": -86.3709503152824,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S RUTHERFORD BLVD & SE BROAD ST, MURFREESBORO; city: MURFREESBORO; cross street: SE BROAD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a38c8a9e5ff11431",
+    "latitude": 35.216332,
+    "longitude": -88.21865331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINHOOK DR & BRAVE ST, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: BRAVE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7d20d1f450d8faf5",
+    "latitude": 35.6179371676458,
+    "longitude": -88.80720160036411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEXINGTON AVE & WHITEHALL ST, JACKSON, MADISON County; city: JACKSON; cross street: WHITEHALL ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "806c87f616d52f1f",
+    "latitude": 35.865339000000006,
+    "longitude": -86.69492031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAWKS LANDING DR & MURFREESBORO RD, ARRINGTON, WILLIAMSON County; city: ARRINGTON; cross street: MURFREESBORO RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7a1d743d74616ad",
+    "latitude": 35.074597,
+    "longitude": -88.5636293152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 57  W & MCMAHAN RD, EASTVIEW, MCNAIRY County; city: EASTVIEW; cross street: MCMAHAN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "16780c4472ac4342",
+    "latitude": 35.82446499999998,
+    "longitude": -86.44964331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BENJAMIN DR & MOLLY TRL, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MOLLY TRL",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a1866f6a334e550",
+    "latitude": 35.864233000000006,
+    "longitude": -86.47128531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PUCKETT CREEK XING & THUNDER GULCH WAY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: THUNDER GULCH WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "db1704446800fd54",
+    "latitude": 35.7736039654673,
+    "longitude": -86.91837377908222,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAIN ST & NASDAQ ST, SPRING HILL, WILLIAMSON County; city: SPRING HILL; cross street: NASDAQ ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4e567bd7d7f7b087",
+    "latitude": 35.85437000000001,
+    "longitude": -86.36873031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GREENLAND  DR & GUNNERSON AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GUNNERSON AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cd10da3e5f1a59c2",
+    "latitude": 35.22646999999999,
+    "longitude": -88.21597431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WAYNE  RD & BELL LN, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: BELL LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c4ed9b687b77bc92",
+    "latitude": 35.857236999999984,
+    "longitude": -86.4312153152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N THOMPSON LN & MEDICAL CENTER PKWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MEDICAL CENTER PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d30605854ca83dc1",
+    "latitude": 35.97759400000001,
+    "longitude": -86.6704493152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WHITNEY PARK DR & KIDD RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: KIDD RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a488177a688d627e",
+    "latitude": 35.955358000000096,
+    "longitude": -86.85879231528233,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ECHO LN & ALPINE CT, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: ALPINE CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a1813d98444ffe64",
+    "latitude": 35.400117,
+    "longitude": -84.35692031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD STATE RD & EVERHART RD, TELLICO PLAINS, MONROE County; city: TELLICO PLAINS; cross street: EVERHART RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d0517819a254ccaa",
+    "latitude": 35.016321715716195,
+    "longitude": -85.31861163766622,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TARLTON AVE & W 33RD ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: W 33RD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3d383c5ce0f95afa",
+    "latitude": 35.639635,
+    "longitude": -88.3637473152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E CHURCH ST & ROY PRUITT RD, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: ROY PRUITT RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "87610a8c6e47e632",
+    "latitude": 35.859004,
+    "longitude": -84.0657173152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: I 140 & KELLER BEND RD, KNOXVILLE; city: KNOXVILLE; cross street: KELLER BEND RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a7b937949d1e6caf",
+    "latitude": 35.23021599999999,
+    "longitude": -85.09764031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SEQUOYAH ACCESS RD & IGOU FERRY RD, SODDY DAISY, HAMILTON County; city: SODDY DAISY; cross street: IGOU FERRY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1611f3558377f750",
+    "latitude": 35.942735,
+    "longitude": -85.03587531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MILLER  AVE & STANLEY ST, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: STANLEY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "070f9815b83c06fb",
+    "latitude": 35.963799,
+    "longitude": -86.69304231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SUNSET  RD & BENINGTON PLACE, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: BENINGTON PLACE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3370cb5c8e5e8bec",
+    "latitude": 35.49511999999999,
+    "longitude": -84.3905263152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: USHY 411 & INDUSTRIAL PARK RD, MADISONVILLE, MONROE County; city: MADISONVILLE; cross street: INDUSTRIAL PARK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac0710327e833a03",
+    "latitude": 35.89158200000001,
+    "longitude": -86.56718031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MANDARIN CT & ALMAVILLE RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: ALMAVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "226fe10a4d4876a7",
+    "latitude": 35.844379000001695,
+    "longitude": -86.47079531528502,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FORTRESS BLVD & STATE HWY 96, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: STATE HWY 96",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e83253f35d1cf4aa",
+    "latitude": 35.85266000000001,
+    "longitude": -86.37240231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DIVISION ST & MIDDLE TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MIDDLE TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "27cd3b0a001c4f3f",
+    "latitude": 35.868682,
+    "longitude": -86.35147631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N RUTHERFORD BLVD & WILLOWBROOK DR, MURFREESBORO; city: MURFREESBORO; cross street: WILLOWBROOK DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7795a04020f682ce",
+    "latitude": 35.978838624775385,
+    "longitude": -85.04207136294062,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 127 & MATHERLY ST, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: MATHERLY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea8ed12531980bbc",
+    "latitude": 35.6170119999965,
+    "longitude": -88.79780631528251,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 70 BYP E & PHILLIPS ST, JACKSON, MADISON County; city: JACKSON; cross street: PHILLIPS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d5a6405303754a9",
+    "latitude": 35.792587,
+    "longitude": -88.78896931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD MEDINA RD & GRAVES LOOP RD EXT, MEDINA, MADISON County; city: MEDINA; cross street: GRAVES LOOP RD EXT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6a1f60c584fb875b",
+    "latitude": 35.690468,
+    "longitude": -88.38678931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTH INDUSTRIAL  DR & STATE HWY 22, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: STATE HWY 22",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9fe6edd3646b559",
+    "latitude": 35.864798999999,
+    "longitude": -86.51083931528773,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS  PKWY & WESTLAWN BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: WESTLAWN BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4334952508d916f6",
+    "latitude": 35.1892247573136,
+    "longitude": -88.2435117028576,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 128 & PHELPS RD, SAVANNA, HARDIN County; city: SAVANNA; cross street: PHELPS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1f1dc70405c6aa16",
+    "latitude": 35.904536635749906,
+    "longitude": -84.42504123647232,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: EASTBERRY RD & W ELDERBERRY ST, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: W ELDERBERRY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "786306b8514dc057",
+    "latitude": 35.96405,
+    "longitude": -86.75732531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RAINTREE PKWY & WATERFALL RD, BRENTWOOD, WILLIAMSON County; city: BRENTWOOD; cross street: WATERFALL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "df118b0368313f6c",
+    "latitude": 35.65128133887801,
+    "longitude": -85.81129467102181,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VERVILLA  RD & STATE HWY 55 BUS, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: STATE HWY 55 BUS",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "400e43281ce8889d",
+    "latitude": 35.2425489999969,
+    "longitude": -88.22531231528552,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLIFTON RD & BARKER DR, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: BARKER DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5bfd538cf9fe2f2c",
+    "latitude": 35.8702726148726,
+    "longitude": -86.35294705418232,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N  RUTHERFORD BLVD & NORRIS LN, MURFREESBORO; city: MURFREESBORO; cross street: NORRIS LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8be3d5e2fb9b937c",
+    "latitude": 35.73594099999999,
+    "longitude": -88.86823131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PASSMORE LN & ABRAHAM DR, JACKSON, MADISON County; city: JACKSON; cross street: ABRAHAM DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1453ff08c2eea166",
+    "latitude": 35.95333300000001,
+    "longitude": -85.03036631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N MAIN ST & BURNETT ST, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: BURNETT ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6b5c3dd9f98332d9",
+    "latitude": 35.1941869999972,
+    "longitude": -88.23685431528042,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 69 AVE & HIGGINS DR, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: HIGGINS DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae16e8f03d07e79d",
+    "latitude": 35.0994678976559,
+    "longitude": -85.18252255765732,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WATERSTONE DR & WEBB RD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WEBB RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "aac5513098f5010f",
+    "latitude": 35.82759,
+    "longitude": -86.3860813152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & HOUSTON DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: HOUSTON DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f61f5436797d6dd6",
+    "latitude": 35.99039,
+    "longitude": -86.67625531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CANONBURY DR & KEMBERTON DR E, NASHVILLE, DAVIDSON County; city: NASHVILLE; cross street: KEMBERTON DR E",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e72ab225b2c2833a",
+    "latitude": 35.3723390000038,
+    "longitude": -86.23075331528761,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CEDAR LN & CEDAR LANE VILLAGE DR, TULLAHOMA, COFFEE County; city: TULLAHOMA; cross street: CEDAR LANE VILLAGE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "756a17ab1bea2778",
+    "latitude": 35.606925999999994,
+    "longitude": -84.30331331528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAK GROVE RD & OLD LOUDON RD, TELLICO PLAINS, MONROE County; city: TELLICO PLAINS; cross street: OLD LOUDON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3b56889ba97730a1",
+    "latitude": 35.81409500000001,
+    "longitude": -86.8939623152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CRITZ LN & US HWY 31, THOMPSONS STATION, WILLIAMSON County; city: THOMPSONS STATION; cross street: US HWY 31",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3413d3bcf0170740",
+    "latitude": 35.824461,
+    "longitude": -86.44964331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BENJAMIN DR & MOLLY TRL, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MOLLY TRL",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b76d78d9a6bfee6",
+    "latitude": 35.871674999999996,
+    "longitude": -86.37043331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N TENNESSEE BLVD & E NORTHFIELD BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: E NORTHFIELD BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "15a3d83f8f81c1be",
+    "latitude": 35.987140999999994,
+    "longitude": -86.55207431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GENIE LN & OLD NASHVILLE HWY, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: OLD NASHVILLE HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "05a1a08a228e54df",
+    "latitude": 35.84449399999999,
+    "longitude": -86.44569831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SAINT ANDREWS DR & OLD FORT PKWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: OLD FORT PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0e97311569640cea",
+    "latitude": 35.942030999999986,
+    "longitude": -85.03453431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MILLER AVE & STANLEY ST, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: STANLEY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd7d371a52a52104",
+    "latitude": 35.958317,
+    "longitude": -86.69274531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ERLINGER DR & SISTER CT, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: SISTER CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bc1ea9bc8956b265",
+    "latitude": 35.13782200000001,
+    "longitude": -85.24541931528782,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTHPOINT BLVD & HWY 153, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: HWY 153",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c103b34933f8a159",
+    "latitude": 35.260898999999995,
+    "longitude": -85.01868331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GAMBLE RD & RUNYAN RD, OOLTEWAH, HAMILTON County; city: OOLTEWAH; cross street: RUNYAN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a54200f1ca02ce89",
+    "latitude": 35.8202094299087,
+    "longitude": -88.76542415184633,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MILAN HWY & HOPE HILL CEMETERY RD, MEDINA, GIBSON County; city: MEDINA; cross street: HOPE HILL CEMETERY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d460d7212fb20171",
+    "latitude": 35.986177,
+    "longitude": -86.6691023152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTCOTT LN & MACAULEY LN, NOLENSVILLE, DAVIDSON County; city: NOLENSVILLE; cross street: MACAULEY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a7e8353206706a9",
+    "latitude": 35.852936,
+    "longitude": -86.3925263152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N MAPLE ST & POLK ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: POLK ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "85f83d830eaca70f",
+    "latitude": 35.87202299999999,
+    "longitude": -86.37341031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E NORTHFIELD BLVD & N TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "68ae9bed3a236d39",
+    "latitude": 35.864447999999996,
+    "longitude": -86.47154831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PUCKETT CREEK XING & THUNDER GULCH WAY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: THUNDER GULCH WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2c8476273a108a27",
+    "latitude": 35.842597000000005,
+    "longitude": -86.39273631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S CHURCH ST & NW BROAD ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: NW BROAD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a105a144595ff4f5",
+    "latitude": 35.987140999999994,
+    "longitude": -86.55207431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GENIE LN & OLD NASHVILLE HWY, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: OLD NASHVILLE HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5fbd776573deeae3",
+    "latitude": 35.849731999999996,
+    "longitude": -86.39093431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N SPRING ST & OLIVE ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: OLIVE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6058e63ea67f54b8",
+    "latitude": 35.77005900000001,
+    "longitude": -86.92008031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BELSHIRE VILLAGE DR & BESS BLVD, SPRING HILL, WILLIAMSON County; city: SPRING HILL; cross street: BESS BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c751aaf470437c3e",
+    "latitude": 35.48780299999999,
+    "longitude": -86.08960131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N WOODLAND ST & WOODBURY HWY, MANCHESTER, COFFEE County; city: MANCHESTER; cross street: WOODBURY HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0665a63e7e6898e5",
+    "latitude": 35.9462519999961,
+    "longitude": -86.57984531528221,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MONTGOMERY WAY & LEE RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: LEE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c64b15bc2ec8a3e8",
+    "latitude": 35.044224,
+    "longitude": -88.26617931528409,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED RD & STHY 57, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: STHY 57",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5ad01daf6321b625",
+    "latitude": 35.61692200000001,
+    "longitude": -88.84927531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AIRWAYS BLVD & WESTOVER RD, JACKSON, MADISON County; city: JACKSON; cross street: WESTOVER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cf63e27b49da5e89",
+    "latitude": 35.1383770000039,
+    "longitude": -85.24495031528042,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTHPOINT BLVD & HWY 153, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: HWY 153",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f4ad8c8234439b94",
+    "latitude": 35.80128199999999,
+    "longitude": -84.25458231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E BROADWAY & HALL ST, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: HALL ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "36b0467a06fa25f3",
+    "latitude": 35.91087744178001,
+    "longitude": -86.8134015256758,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CLOVERCROFT RD & MURFREESBORO RD, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: MURFREESBORO RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c108c186e62ff2bc",
+    "latitude": 35.81528099999999,
+    "longitude": -84.0299803152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOUISVILLE RD & JEFFRIES CT, LOUISVILLE, BLOUNT County; city: LOUISVILLE; cross street: JEFFRIES CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f2bebbee9058ae30",
+    "latitude": 35.87244499999999,
+    "longitude": -88.7486663152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S 1ST ST & DENTON FLY RD, MILAN, GIBSON County; city: MILAN; cross street: DENTON FLY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b0e425c1e0aa697c",
+    "latitude": 35.86597299999999,
+    "longitude": -86.36693631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WENLON DR & N TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "754ac3e710871ecd",
+    "latitude": 35.82865999999999,
+    "longitude": -86.36023131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROOKFIELD DR & SHERRILL BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SHERRILL BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4c5023ad459cf68c",
+    "latitude": 35.60023100000121,
+    "longitude": -84.22434931528302,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TELLICO PORT  RD & HORNE  DR, VONORE, MONROE County; city: VONORE; cross street: HORNE  DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3feff9c2a67b3f3",
+    "latitude": 35.39082700000001,
+    "longitude": -86.24809331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N JACKSON ST & LEDFORD MILL RD, TULLAHOMA, COFFEE County; city: TULLAHOMA; cross street: LEDFORD MILL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4e4aff49092b538",
+    "latitude": 35.996201,
+    "longitude": -84.92322431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PEAVINE RD & ST GEORGE DR, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: ST GEORGE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7ba026b7ad7c82d",
+    "latitude": 35.21013000000001,
+    "longitude": -84.8551123152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FREEDOM PKWY NW & PAUL HUFF PKWY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: PAUL HUFF PKWY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2d20c17392534403",
+    "latitude": 35.4897750000007,
+    "longitude": -86.4179083152829,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEARNING  WAY & EAGLE BLVD, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: EAGLE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c21432517e62cfa6",
+    "latitude": 35.95567100000001,
+    "longitude": -86.69775031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DELAWARE DR & BENINGTON PL, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: BENINGTON PL",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cada10d0765472d4",
+    "latitude": 35.931903000002094,
+    "longitude": -86.88206031528763,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DEL RIO PIKE & MAGNOLIA DR, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: MAGNOLIA DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "de53bb9a55b5b419",
+    "latitude": 35.854436,
+    "longitude": -86.35394831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N RUTHERFORD BLVD & GREENLAND DR, MURFREESBORO; city: MURFREESBORO; cross street: GREENLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ec93ccf72952f7d3",
+    "latitude": 35.261603,
+    "longitude": -84.88096031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MOWERY CIR NW & MOWERY LN NW, CHARLESTON, BRADLEY County; city: CHARLESTON; cross street: MOWERY LN NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d7153d1b63adff51",
+    "latitude": 35.86698799999849,
+    "longitude": -86.45464731528581,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MEDICAL CENTER PKWY & ASBURY LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ASBURY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b9f1d607f4d8debc",
+    "latitude": 35.857596999999984,
+    "longitude": -86.39181931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N MAPLE ST & W HEMBREE ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: W HEMBREE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "912d193317bc5fbe",
+    "latitude": 35.965233,
+    "longitude": -86.67633631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NOLEN PARK CIR & NOLENSVILLE RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: NOLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5313fff8943196f6",
+    "latitude": 35.854909,
+    "longitude": -86.37293131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GREENLAND DR & MIDDLE TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MIDDLE TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f4abe165c90516dd",
+    "latitude": 35.95532899999999,
+    "longitude": -85.08471731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SPARTA HWY & HOWARD SPRINGS RD, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: HOWARD SPRINGS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "179aad8f18356b35",
+    "latitude": 35.855328,
+    "longitude": -86.37111631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & GREENLAND DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GREENLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "935f625cea7aa524",
+    "latitude": 35.011103,
+    "longitude": -85.10994531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAGIC MOUNTAIN DR & SHADOW PKWY, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: SHADOW PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "364f2923e87793a4",
+    "latitude": 35.03701199999791,
+    "longitude": -85.1487993152874,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OGLETREE AVE & COMMONS BLVD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: COMMONS BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7f668e33d25fdc73",
+    "latitude": 35.86769499999999,
+    "longitude": -86.34480231528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SNOW ST & JACKALOPE ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: JACKALOPE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58b8834b3d0e8d4f",
+    "latitude": 35.818484,
+    "longitude": -86.44328831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SPLITRAIL RD & PADDOCK DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: PADDOCK DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e9f5af8032f13977",
+    "latitude": 35.92976399999999,
+    "longitude": -86.28355931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FARMINGTON  RD & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "069915990cb4f326",
+    "latitude": 35.84635899999999,
+    "longitude": -86.39655831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W MAIN ST & N FRONT ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N FRONT ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc36410f0438decf",
+    "latitude": 35.92985899999999,
+    "longitude": -86.28355931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FARMINGTON RD & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5cf1d7e47693fad",
+    "latitude": 35.5795505432192,
+    "longitude": -84.21433063507521,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 360 & MCGHEE CARSON RD, VONORE, MONROE County; city: VONORE; cross street: MCGHEE CARSON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5ad7093d761b2cde",
+    "latitude": 35.97833399999999,
+    "longitude": -86.57394731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: INDUSTRIAL BLVD & TEAM BLVD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: TEAM BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "960ba8391c82f31d",
+    "latitude": 35.044001,
+    "longitude": -88.26679131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 57 WY & WHEELER LN, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: WHEELER LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1dc6f67b39743ae",
+    "latitude": 35.39273099999999,
+    "longitude": -86.24329831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEDFORD MILL  RD & N JACKSON ST, TULLAHOMA, COFFEE County; city: TULLAHOMA; cross street: N JACKSON ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "344c64a7da348ec5",
+    "latitude": 35.7002874411095,
+    "longitude": -85.78825669371811,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N CHANCERY ST & BOBBY RAY MEMORIAL PKWY, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: BOBBY RAY MEMORIAL PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "354bc9db3e180777",
+    "latitude": 35.81528099999999,
+    "longitude": -84.0299803152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LOUISVILLE RD & JEFFRIES CT, LOUISVILLE, BLOUNT County; city: LOUISVILLE; cross street: JEFFRIES CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ddf0ba1c6c0693b1",
+    "latitude": 35.84818599999819,
+    "longitude": -86.42445431528623,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARKET DR & N FRONTAGE RD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N FRONTAGE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1319b3d53aabefa3",
+    "latitude": 35.03585999999779,
+    "longitude": -85.14941031527964,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OGLETREE AVE & COMMONS BLVD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: COMMONS BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "759cc83636688108",
+    "latitude": 35.85924433468419,
+    "longitude": -86.3591438469289,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SCOTTLAND DR & WINDSOR ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: WINDSOR ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dedef0d3487d8adc",
+    "latitude": 35.8551227566032,
+    "longitude": -86.3854942807164,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ROBERTS ST & N MANLEY AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N MANLEY AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3a0d528c6198fba2",
+    "latitude": 35.91153099999979,
+    "longitude": -86.8300213152838,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S ROYAL OAKS  BLVD & RAND PL, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: RAND PL",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c70e03a7a16c109",
+    "latitude": 35.068615,
+    "longitude": -88.43285531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HIGHWAY 57 & HIGHWAY 224, MICHIE, MCNAIRY County; city: MICHIE; cross street: HIGHWAY 224",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3f862d069b9ed419",
+    "latitude": 35.624672,
+    "longitude": -84.45150331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEE HWY N & FAIRLANE DR, SWEETWATER, MONROE County; city: SWEETWATER; cross street: FAIRLANE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2cd0ff34f41a3c7",
+    "latitude": 35.855561,
+    "longitude": -86.3534133152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N RUTHERFORD BLVD & HALLS HILL PIKE, MURFREESBORO; city: MURFREESBORO; cross street: HALLS HILL PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "358b99631ebe8c5b",
+    "latitude": 35.826031,
+    "longitude": -86.35483931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: KENT PL & SYCAMORE CIR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SYCAMORE CIR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "142536bb00dedae2",
+    "latitude": 35.042186,
+    "longitude": -85.05536431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNIVERSITY DR & COLLEGE DR E, COLLEGEDALE, HAMILTON County; city: COLLEGEDALE; cross street: COLLEGE DR E",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b556b7b53a1d30c",
+    "latitude": 35.858642,
+    "longitude": -86.38268831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N HIGHLAND AVE & HIGHLAND TER, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: HIGHLAND TER",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "43d5041bfcce1b2f",
+    "latitude": 35.836664000000006,
+    "longitude": -86.7712783152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PEYTONSVILLE TRINITY RD & MEEKS RD, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: MEEKS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b5da682ee1ab4669",
+    "latitude": 35.202160000000006,
+    "longitude": -84.85383831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PAUL HUFF PKWY NW & N LEE HWY, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: N LEE HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58fa8224a06c3098",
+    "latitude": 35.495546,
+    "longitude": -84.36566431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEW STHY 68 & OLD TELLICO HWY N, MADISONVILLE, MONROE County; city: MADISONVILLE; cross street: OLD TELLICO HWY N",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62e95d03838e7bcd",
+    "latitude": 35.866929000000006,
+    "longitude": -86.45480931528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MEDICAL CENTER PKWY & ASBURY LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ASBURY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d47698175e345a24",
+    "latitude": 35.836392999999994,
+    "longitude": -86.37752731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BERRY PL & FIRST AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: FIRST AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2f6479f40e2dff52",
+    "latitude": 35.78931699999999,
+    "longitude": -84.2514383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 321 & ELM HILL ROAD, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: ELM HILL ROAD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "74df051330cc0bb6",
+    "latitude": 35.995874,
+    "longitude": -86.51884131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SAM RIDLEY  PKWY E & NOLAN DR, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: NOLAN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1b26f9cbf1961408",
+    "latitude": 35.098773,
+    "longitude": -85.18447731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PRESERVE DR & WEBB RD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WEBB RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ede38b8f0cf75709",
+    "latitude": 35.6747438892582,
+    "longitude": -86.60533991145911,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: US HWY 41  ALT & E PARKWAY DR, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: E PARKWAY DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "61aebb1f0635fc6e",
+    "latitude": 35.8546733639613,
+    "longitude": -86.37111944611362,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GREENLAND DR & MIDDLE TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MIDDLE TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9feaf87d1c36f93d",
+    "latitude": 35.01568429156331,
+    "longitude": -86.88234172365352,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PLEASANT HILL RD & USHWY 31, ARDMORE, GILES County; city: ARDMORE; cross street: USHWY 31",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d27b043a232c0419",
+    "latitude": 35.811562,
+    "longitude": -86.46070831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SAINT ANDREWS DR & GLENSIDE CT, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GLENSIDE CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c00db665b131a61f",
+    "latitude": 35.260433,
+    "longitude": -84.88258831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MOWERY CIR NW & MOWERY LN NW, CHARLESTON, BRADLEY County; city: CHARLESTON; cross street: MOWERY LN NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2531849229d96dba",
+    "latitude": 35.988377,
+    "longitude": -86.6824543152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TN-11 RD & BURKITT COMMONS AVE, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: BURKITT COMMONS AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0ab0f2c7cfa6ff6c",
+    "latitude": 35.82431100000001,
+    "longitude": -84.27520031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TOWN CREEK RD W & HWY 321 N, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: HWY 321 N",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0894ade16092983b",
+    "latitude": 35.82339499999999,
+    "longitude": -86.35856531528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HUNT ST & CYPRESS DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: CYPRESS DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0ad4932426a81d3f",
+    "latitude": 35.837045999999994,
+    "longitude": -86.38002531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CARVER AVE & MERCURY BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MERCURY BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fd75af4c00045a9e",
+    "latitude": 35.669724,
+    "longitude": -88.85257131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VANN  DR & STONEBRIDGE BLVD, JACKSON, MADISON County; city: JACKSON; cross street: STONEBRIDGE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2390499a97cbd481",
+    "latitude": 35.822496999999515,
+    "longitude": -86.44835031528062,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: AMBER GLEN DR & SUNLAND CT, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SUNLAND CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4001e00def1ea685",
+    "latitude": 35.970418,
+    "longitude": -86.81922031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TARTAN DR & MOORELAND BLVD, BRENTWOOD, WILLIAMSON County; city: BRENTWOOD; cross street: MOORELAND BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ed75431d13d0c09a",
+    "latitude": 35.48733599999999,
+    "longitude": -86.09010031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N WOODLAND ST & MCGUIRE ST, MANCHESTER, COFFEE County; city: MANCHESTER; cross street: MCGUIRE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eedbcd0fd9d17015",
+    "latitude": 35.62580947113331,
+    "longitude": -88.77381502867722,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FLEX  DR & NORTH PARKWAY, JACKSON, MADISON County; city: JACKSON; cross street: NORTH PARKWAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a486edff6ac8e5a9",
+    "latitude": 35.61235099999998,
+    "longitude": -84.79854731528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NUCLER PLANT RD & WATTS BAR HWY, SPRING CITY, RHEA County; city: SPRING CITY; cross street: WATTS BAR HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8359951c0b333d93",
+    "latitude": 35.824215,
+    "longitude": -86.35295331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OBRIEN DR & MAYFAIR AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MAYFAIR AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1192acd9b91ea6b8",
+    "latitude": 35.1892247573136,
+    "longitude": -88.2435117028576,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 128 & PHELPS RD, SAVANNA, HARDIN County; city: SAVANNA; cross street: PHELPS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8bcba113dacd85e5",
+    "latitude": 35.853585,
+    "longitude": -86.36548031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CHAMPION WAY & GREENLAND DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GREENLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "334f36b58e01453a",
+    "latitude": 35.826688,
+    "longitude": -86.45111531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CASON TRL & LISBURN DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LISBURN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "17ba143517d5549a",
+    "latitude": 35.736531,
+    "longitude": -86.90763831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CYNTHIA LN & LORI ANNE DR, SPRING HILL, MAURY County; city: SPRING HILL; cross street: LORI ANNE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d2c71566c83e3de",
+    "latitude": 35.6712,
+    "longitude": -84.14109631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MORGANTON RD & LOU GODDARD LN, GREENBACK, BLOUNT County; city: GREENBACK; cross street: LOU GODDARD LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "967be7a1e575be51",
+    "latitude": 35.724585999999995,
+    "longitude": -84.33154131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GROVE ST & HWY 72 S, LOUDON; city: LOUDON; cross street: HWY 72 S",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "11a9fd2a2687d16e",
+    "latitude": 35.0155779162332,
+    "longitude": -86.85431257833311,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ARDMORE RIDGE RD & STEVENSON RD, ARDMORE, GILES County; city: ARDMORE; cross street: STEVENSON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5afbfb3e63dab124",
+    "latitude": 35.915786,
+    "longitude": -84.0844383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N PETERS RD & TOWN AND COUNTRY CIR, KNOXVILLE; city: KNOXVILLE; cross street: TOWN AND COUNTRY CIR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "734f8b4de81fb012",
+    "latitude": 35.82853599999999,
+    "longitude": -86.44607331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WINDEMERE DR & LAMBETH DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LAMBETH DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2a913af58a3eaee5",
+    "latitude": 35.62018200000001,
+    "longitude": -84.48894431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAKLAND RD & UNNAMED RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: UNNAMED RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ac754ec28690cb32",
+    "latitude": 35.856837,
+    "longitude": -86.43162831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N THOMPSON LN & MEDICAL CENTER PKWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MEDICAL CENTER PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e3bb452728720801",
+    "latitude": 35.999687,
+    "longitude": -84.92057131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STHY 101 & TOWN CENTRE DR, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: TOWN CENTRE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9ca40281f2696851",
+    "latitude": 35.8428390000022,
+    "longitude": -86.49442331528422,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS PKWY & FRANKLIN RD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: FRANKLIN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "589a8063f319b334",
+    "latitude": 35.8426999348943,
+    "longitude": -86.389721442121,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E STATE ST & S ACADEMY ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S ACADEMY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "58c2e6d711f54e95",
+    "latitude": 35.204228,
+    "longitude": -84.85085531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PAUL HUFF PKWY NW & N LEE HWY, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: N LEE HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a2eba69dd49cc8c",
+    "latitude": 35.128488,
+    "longitude": -85.23589131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ELEVATED VIEW & NORTHPOINT BLVD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: NORTHPOINT BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "225ba2d0d014b5ee",
+    "latitude": 35.962372,
+    "longitude": -86.49656631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NISSAN DR & SGT ASBURY HAWN WAY, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: SGT ASBURY HAWN WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fb5134a4facee158",
+    "latitude": 35.017440209852694,
+    "longitude": -85.32082346419612,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BEXLEY SQ & WILLIAMS ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WILLIAMS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "62bb95681756e1db",
+    "latitude": 35.89068100000001,
+    "longitude": -86.56784531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STONEWOOD  DR & STATE HWY 102, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: STATE HWY 102",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4104c2505e77cc2e",
+    "latitude": 35.885960999999995,
+    "longitude": -84.08232231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GETTYSVUE DR & WESTLAND DR, KNOXVILLE; city: KNOXVILLE; cross street: WESTLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "efb4a75dab109b32",
+    "latitude": 35.96372500000001,
+    "longitude": -86.69326231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BENINGTON PL & SUNSET RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: SUNSET RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b1ba84954da2f1a3",
+    "latitude": 35.953786,
+    "longitude": -86.60530931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: COOKS LN & ROCK SPRINGS RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: ROCK SPRINGS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3c8d2b434f1fa90d",
+    "latitude": 35.21092899999999,
+    "longitude": -84.8545273152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FREEDOM PKWY NW & PAUL HUFF PKWY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: PAUL HUFF PKWY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f4eff3d6e787c40e",
+    "latitude": 35.226516,
+    "longitude": -88.21288231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WAYNE RD & BELL LN, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: BELL LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "64f3e57749f9919e",
+    "latitude": 35.84092,
+    "longitude": -86.37956031528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CASTLE VIEW CT & E STATE ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: E STATE ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e66bbb492a8b89a",
+    "latitude": 35.62174,
+    "longitude": -84.49208931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAKLAND RD & I 75, SWEETWATER, MONROE County; city: SWEETWATER; cross street: I 75",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "88e711aaeea37d50",
+    "latitude": 35.017866,
+    "longitude": -85.32250931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OREO DR & WILLIAMS ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WILLIAMS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7b47dc907465e7ed",
+    "latitude": 35.8376031267338,
+    "longitude": -86.38390405840441,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MERCURY BLVD & SE BROAD ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SE BROAD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "83369b5c7a55adf4",
+    "latitude": 35.842583,
+    "longitude": -86.39276631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S CHURCH ST & SE BROAD ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SE BROAD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0385e3b99c48515f",
+    "latitude": 35.66981286045429,
+    "longitude": -85.78586621390963,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD MORRISON  RD & MUNCEY ST, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: MUNCEY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "28155310d478169c",
+    "latitude": 35.7942530000008,
+    "longitude": -88.78805831528341,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 45E  S & OLD MEDINA RD, MEDINA, GIBSON County; city: MEDINA; cross street: OLD MEDINA RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "40967a8e18c1962a",
+    "latitude": 35.883596,
+    "longitude": -86.3583723152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PITTS LN & DEJARNETTE LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: DEJARNETTE LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d1e228f643fe1f0f",
+    "latitude": 35.669729,
+    "longitude": -88.85386131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VANN DR & STONEBRIDGE BLVD, JACKSON, MADISON County; city: JACKSON; cross street: STONEBRIDGE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c0e0fae511ad2583",
+    "latitude": 35.833959,
+    "longitude": -86.37543231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & DIANA ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: DIANA ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "223a3ec34000d08d",
+    "latitude": 35.716167,
+    "longitude": -88.38979131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 22  N & LONGSOUGHT RD, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: LONGSOUGHT RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9630870befb981fd",
+    "latitude": 35.82468000000001,
+    "longitude": -84.27484631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 321  N & TOWN CREEK RD W, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: TOWN CREEK RD W",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "79328ad2144a15eb",
+    "latitude": 35.841242,
+    "longitude": -86.3875573152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E CASTLE ST & S MANEY AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S MANEY AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b2a9c8a06857204f",
+    "latitude": 35.01797100000001,
+    "longitude": -85.32245631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OREO DR & WILLIAMS ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WILLIAMS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c7bd1a5e2beddb02",
+    "latitude": 35.577914,
+    "longitude": -84.48896931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LEE HWY & HEAD OF CREEK RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: HEAD OF CREEK RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0c0083b86f35af30",
+    "latitude": 35.9039207509114,
+    "longitude": -84.13762781532331,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GOODYS LN & PARKSIDE DR, KNOXVILLE; city: KNOXVILLE; cross street: PARKSIDE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3755942be382b8c0",
+    "latitude": 35.946819,
+    "longitude": -84.87009231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTCHESTER DR & CHESTNUT HILL RD, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: CHESTNUT HILL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8eaaca43e66ca6d2",
+    "latitude": 35.8725927064042,
+    "longitude": -86.37073360022352,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E NORTHFIELD BLVD & N TENNESSEE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: N TENNESSEE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "21bcd6fcef1b39ac",
+    "latitude": 35.7906873362782,
+    "longitude": -86.36885385598882,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DISTRIBUTION DR & ELAM FARMS PKWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ELAM FARMS PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7b61dd8a0dba0d86",
+    "latitude": 35.153247,
+    "longitude": -85.18753531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FOLKNER RD & FAIRVIEW RD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: FAIRVIEW RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6cd18129808f742f",
+    "latitude": 35.860899999999994,
+    "longitude": -86.36738231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAZELWOOD ST & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a100e93676705dc",
+    "latitude": 35.97354099999998,
+    "longitude": -86.57561931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W SAM RIDLEY PKWY & EXPO DR, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: EXPO DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a570f43fe127c82",
+    "latitude": 35.902262,
+    "longitude": -84.42201531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LAWNVILLE RD & W RARITY RIDGE PKWY, KINGSTON, ROANE County; city: KINGSTON; cross street: W RARITY RIDGE PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "71038a1c6e21b96d",
+    "latitude": 35.2163929999989,
+    "longitude": -88.21905631527923,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PINHOOK DR & SQUAW ST, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: SQUAW ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "28d75f35d9d16e3e",
+    "latitude": 35.781172000000005,
+    "longitude": -84.28212431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W BROADWAY & HWY 11 W, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: HWY 11 W",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "82f6943ee153e9b2",
+    "latitude": 35.018175,
+    "longitude": -85.32246631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OREO DR & WILLIAMS ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WILLIAMS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "71f3870e080fb317",
+    "latitude": 35.885326000000006,
+    "longitude": -84.08193131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: GETTYSVUE WAY & WESTLAND DR, KNOXVILLE; city: KNOXVILLE; cross street: WESTLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a9a87dbcbc750f58",
+    "latitude": 35.910518999999994,
+    "longitude": -88.76591831528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: REASONS BLVD & CANTRELL ST, MILAN, GIBSON County; city: MILAN; cross street: CANTRELL ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0ed43a5e922cd868",
+    "latitude": 35.86548700000001,
+    "longitude": -86.69483431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAWKS LANDING DR & MURFREESBORO RD, TRIUNE, WILLIAMSON County; city: TRIUNE; cross street: MURFREESBORO RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "dfa637f71617f9be",
+    "latitude": 35.841123999999986,
+    "longitude": -86.3878953152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E CASTLE ST & S MANEY AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S MANEY AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8b5a5209a97f11b7",
+    "latitude": 35.44599,
+    "longitude": -88.61492031528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E MAIN ST & QUINCO DR, HENDERSON, CHESTER County; city: HENDERSON; cross street: QUINCO DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f6fea7c7a9af9463",
+    "latitude": 35.8107539999993,
+    "longitude": -88.80793431528613,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MEDINA HUMBOLDT HWY & RICHMOND DR, MEDINA, GIBSON County; city: MEDINA; cross street: RICHMOND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "420298453e21904f",
+    "latitude": 35.900198,
+    "longitude": -84.14559031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARKSIDE DR & LOVELL RD, KNOXVILLE; city: KNOXVILLE; cross street: LOVELL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "427277a1df6e33b2",
+    "latitude": 35.996037,
+    "longitude": -84.9231413152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SPRING LAKE DR & ST GEORGE DR, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: ST GEORGE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "38732caaae4d8ed8",
+    "latitude": 35.5402760575581,
+    "longitude": -86.452612405043,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 231  N & HURRICANE GROVE RD, SHELBYVILLE, BEDFORD County; city: SHELBYVILLE; cross street: HURRICANE GROVE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fc4411a483b0d2f4",
+    "latitude": 35.865576,
+    "longitude": -86.35259431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILLOWBROOK DR & N RUTHERFORD BLVD, MURFREESBORO; city: MURFREESBORO; cross street: N RUTHERFORD BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2167bb0f1ca110b1",
+    "latitude": 35.986402,
+    "longitude": -86.6685863152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WESTCOTT LN & MACAULEY LN, NASHVILLE, DAVIDSON County; city: NASHVILLE; cross street: MACAULEY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0bb55451203db193",
+    "latitude": 35.223490000000005,
+    "longitude": -84.88801831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARIE CIR NW & ALVIN CT NW, HOPEWELL, BRADLEY County; city: HOPEWELL; cross street: ALVIN CT NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0443d0c2b611b38f",
+    "latitude": 35.843705,
+    "longitude": -86.37306431528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & E MAIN ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: E MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a89a54e55b0968e2",
+    "latitude": 35.824132999999996,
+    "longitude": -86.43467531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PECAN RIDGE DR & BRIAR BEND DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: BRIAR BEND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "54173a9577013fa9",
+    "latitude": 35.635444,
+    "longitude": -88.82868831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W FOREST AVE & LAMBUTH BLVD, JACKSON, MADISON County; city: JACKSON; cross street: LAMBUTH BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3290df1764f88491",
+    "latitude": 35.04425899999999,
+    "longitude": -88.26594231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 57 & WHEELER LN, COUNCE, HARDIN County; city: COUNCE; cross street: WHEELER LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b46b1a1e52f8a458",
+    "latitude": 35.223490000000005,
+    "longitude": -84.88801831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARIE CIR NW & LEE DR NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: LEE DR NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8c568f18a4bf1cab",
+    "latitude": 35.816528999999996,
+    "longitude": -86.43184631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RIVER ROCK BLVD & NEW SALEM HWY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: NEW SALEM HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7310f7cf30763f99",
+    "latitude": 35.904542000000006,
+    "longitude": -84.42502731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W ELDERBERRY ST & EASTBERRY RD, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: EASTBERRY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "962041bb0745f4ad",
+    "latitude": 35.679171999997706,
+    "longitude": -85.77030331528422,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E COLVILLE ST & E END DR, MCMINNVILLE, WARREN County; city: MCMINNVILLE; cross street: E END DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "732df5bee6afc615",
+    "latitude": 35.742785999999995,
+    "longitude": -88.8683943152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NEHEMIAH DR & ABRAHAM DR, JACKSON, MADISON County; city: JACKSON; cross street: ABRAHAM DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "740538f392260b1c",
+    "latitude": 35.90107,
+    "longitude": -84.40402631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BROADBERRY AVE & GALLAHER RD, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: GALLAHER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "47e450abb495437e",
+    "latitude": 35.47338899999999,
+    "longitude": -88.69732031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: USHY 45  N & WILSON SCHOOL RD, HENDERSON, CHESTER County; city: HENDERSON; cross street: WILSON SCHOOL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae0f4800265bda98",
+    "latitude": 35.98606600000001,
+    "longitude": -86.67746531528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BURKITT PLACE DR & CANONBURY DR, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: CANONBURY DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8528211473392057",
+    "latitude": 35.74263799999999,
+    "longitude": -86.94129431528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CROSSINGS BLVD & MAIN ST, SPRING HILL, MAURY County; city: SPRING HILL; cross street: MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50d938f850f681b3",
+    "latitude": 35.647894,
+    "longitude": -88.78905731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DR F E WRIGHT DR & NORTH PKWY, JACKSON, MADISON County; city: JACKSON; cross street: NORTH PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ae7cfdd47af096d2",
+    "latitude": 35.878819,
+    "longitude": -86.66205131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SEDONA WOODS TRL & NOLENSVILLE RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: NOLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4d341c689a4c451e",
+    "latitude": 35.959954999998786,
+    "longitude": -86.58147331528232,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MONTGOMERY WAY & ROCK SPRINGS RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: ROCK SPRINGS RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c55a27a8197fc334",
+    "latitude": 35.921110999999996,
+    "longitude": -86.56585531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MORTON LN & JERICHO ST, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: JERICHO ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52e7bf0b2be3e866",
+    "latitude": 35.854688,
+    "longitude": -86.36701631528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OLD LASCASSAS RD & ROCKY LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ROCKY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c9e531eb0bf51ff6",
+    "latitude": 35.96551000000001,
+    "longitude": -86.67600631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NOLEN PARK CIR & NOLENSVILLE RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: NOLENSVILLE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "48d3d1cd5c2df5a8",
+    "latitude": 35.99474099999999,
+    "longitude": -86.52415131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED RD & NOLAN DR, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: NOLAN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a4303559437790a7",
+    "latitude": 35.854179,
+    "longitude": -84.5411203152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DECATUR HWY & WALKER WAY, KINGSTON, ROANE County; city: KINGSTON; cross street: WALKER WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e6231464912699a7",
+    "latitude": 35.93623799999999,
+    "longitude": -86.69335531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HOLSTEIN DR & CLOVERCROFT RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: CLOVERCROFT RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "cc9964e5f5f190de",
+    "latitude": 35.999687,
+    "longitude": -84.92057131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STHY 101 WY & TOWN CENTRE DR, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: TOWN CENTRE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eff01770a39bbb51",
+    "latitude": 35.814295,
+    "longitude": -86.89737631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED RD & COLUMBIA PIKE, THOMPSONS STATION, WILLIAMSON County; city: THOMPSONS STATION; cross street: COLUMBIA PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "10b128d090ac595b",
+    "latitude": 35.53952400000001,
+    "longitude": -84.33061031528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: USHY 411 & WAYMAN RD, MADISONVILLE, MONROE County; city: MADISONVILLE; cross street: WAYMAN RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5318fd8e89e68a4c",
+    "latitude": 35.260471,
+    "longitude": -88.63189431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 45 N & NEW SALEM RD, BETHEL SPRINGS, MCNAIRY County; city: BETHEL SPRINGS; cross street: NEW SALEM RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb4d1f9d10f8f7a5",
+    "latitude": 35.017703,
+    "longitude": -85.32256731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OREO DR & WILLIAMS ST, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: WILLIAMS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bb29bf356395a034",
+    "latitude": 35.486715000000004,
+    "longitude": -86.0766843152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MCMINNVILLE HWY & OLD BUSHY BRANCH RD, MANCHESTER, COFFEE County; city: MANCHESTER; cross street: OLD BUSHY BRANCH RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "52943d60fe92d13d",
+    "latitude": 35.905735753955184,
+    "longitude": -84.43039199670162,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAMILTON RD & FALLBERRY ST, OAK RIDGE, ROANE County; city: OAK RIDGE; cross street: FALLBERRY ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1536cd7144fc4a1c",
+    "latitude": 35.867385463721085,
+    "longitude": -86.38837364187552,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E NORTHFIELD BLVD & MEMORIAL BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MEMORIAL BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1ed51d4f0c25913a",
+    "latitude": 35.71951999999999,
+    "longitude": -84.3628783152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAREMONT PKWY & LOUDON HWY, LOUDON; city: LOUDON; cross street: LOUDON HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "642675a2e2c2f0e7",
+    "latitude": 35.868866000001596,
+    "longitude": -86.42184231528552,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W COLLEGE ST & GARRISON DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GARRISON DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb8837b7f29f44ec",
+    "latitude": 35.91153099999979,
+    "longitude": -86.8300213152838,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S ROYAL OAKS  BLVD & RAND PL, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: RAND PL",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e010566f09c47f61",
+    "latitude": 35.994785,
+    "longitude": -86.5241583152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NOLAN DR & E SAM RIDLEY PKWY, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: E SAM RIDLEY PKWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "11f3522e25610c46",
+    "latitude": 35.2101300000005,
+    "longitude": -84.8551123152879,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FREEDOM PKWY  NW & PAUL HUGG PKWY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: PAUL HUGG PKWY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eb28fdb2527a8384",
+    "latitude": 35.8255126889996,
+    "longitude": -86.36491194928472,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRADYVILLE  PIKE & MINERVA DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MINERVA DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "b966b26944b13a22",
+    "latitude": 35.938797,
+    "longitude": -84.09564331528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N CEDAR BLUFF RD & BOB GRAY RD, KNOXVILLE; city: KNOXVILLE; cross street: BOB GRAY RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d3ee753ae9c49670",
+    "latitude": 35.86548999999999,
+    "longitude": -86.35293931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILLOWBROOK DR & N RUTHERFORD BLVD, MURFREESBORO; city: MURFREESBORO; cross street: N RUTHERFORD BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "763abd0d127798f2",
+    "latitude": 35.963947999999995,
+    "longitude": -86.69314731528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: SUNSET  RD & BENINGTON PLACE, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: BENINGTON PLACE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6961de4ff5829b45",
+    "latitude": 35.858974870885405,
+    "longitude": -86.35836105431652,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WINDSOR ST & SCOTTLAND DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: SCOTTLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9803b44a686969d2",
+    "latitude": 35.876212999999986,
+    "longitude": -86.35269431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HERRING XING & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "004b5f97e59be9bf",
+    "latitude": 35.13791200000199,
+    "longitude": -85.24530031528252,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTHPOINT BLVD & HWY 153, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: HWY 153",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c2cb6f8e5c9fc8d2",
+    "latitude": 35.01856375610761,
+    "longitude": -85.32013114966551,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: WILLIAMS  ST & OREO DR, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: OREO DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "84d70bd80fec0d67",
+    "latitude": 35.8663130000034,
+    "longitude": -86.46422531527972,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FORTRESS BLVD & JOHN R RICE BLVD, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: JOHN R RICE BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9a0d245eab786984",
+    "latitude": 35.61965499999999,
+    "longitude": -84.49430531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: UNNAMED CONSTRUCTION RD & OAKLAND RD, SWEETWATER, MONROE County; city: SWEETWATER; cross street: OAKLAND RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "23c6d7dba0e33d1d",
+    "latitude": 35.9094929999993,
+    "longitude": -86.82882631528811,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: S ROYAL OAKS  BLVD & OAK MEADOW DR, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: OAK MEADOW DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1a986b6c4792f81d",
+    "latitude": 35.690388,
+    "longitude": -88.38338731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: NORTH INDUSTRIAL DR & BROAD ST N, LEXINGTON, HENDERSON County; city: LEXINGTON; cross street: BROAD ST N",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8a7f7f258c6066d8",
+    "latitude": 35.995918,
+    "longitude": -86.51875531528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: STATE HWY 266 & THREET INDUSTRIAL RD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: THREET INDUSTRIAL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "12aff5fab8cb847c",
+    "latitude": 35.84323400000001,
+    "longitude": -86.35605431528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CITY VIEW DR & ALUMNI DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ALUMNI DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "34907715a890ef08",
+    "latitude": 35.827848,
+    "longitude": -86.3856763152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLE TENNESSEE BLVD & FORREST POINTE DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: FORREST POINTE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8e0987757175e24b",
+    "latitude": 35.834484,
+    "longitude": -86.3716153152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: DIANA ST & MARS ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MARS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7f15b9077da3625",
+    "latitude": 35.76759,
+    "longitude": -86.92280631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BELSHIRE WAY & BELSHIRE VILLAGE DR, SPRING HILL, WILLIAMSON County; city: SPRING HILL; cross street: BELSHIRE VILLAGE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6e37d18a6065db07",
+    "latitude": 35.87214300000001,
+    "longitude": -86.35670031528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E NORTHFIELD BLVD & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "22917e551b276562",
+    "latitude": 35.801407999999995,
+    "longitude": -84.25440531528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HALL ST & HWY 11 E, LENOIR CITY, LOUDON County; city: LENOIR CITY; cross street: HWY 11 E",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "667f91f77d5abe6c",
+    "latitude": 35.21064399999919,
+    "longitude": -84.85640831528741,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PAUL HUFF PKWY  NW & FREEDOM PKWY NW, CLEVELAND, BRADLEY County; city: CLEVELAND; cross street: FREEDOM PKWY NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1dece7d972b70559",
+    "latitude": 35.6177740000023,
+    "longitude": -87.84365831527921,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HILL ST & TOWER ST, LINDEN, PERRY County; city: LINDEN; cross street: TOWER ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "eae7afd37494e533",
+    "latitude": 35.372632000000394,
+    "longitude": -86.2019323152849,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E GRIZZARD  ST & BIRCH ALY, TULLAHOMA, COFFEE County; city: TULLAHOMA; cross street: BIRCH ALY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d6dfd9c1e9a42603",
+    "latitude": 35.2421150000011,
+    "longitude": -88.23777731528062,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CRAVENS RD & BOWEN DR, SAVANNAH, HARDIN County; city: SAVANNAH; cross street: BOWEN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "a641f98834237517",
+    "latitude": 35.930876163356395,
+    "longitude": -85.48751114966211,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TAFT CHURCH RD & SPENCER HWY, SPARTA, WHITE County; city: SPARTA; cross street: SPENCER HWY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "6ce9ef61fb493078",
+    "latitude": 35.976634000000004,
+    "longitude": -86.56837131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W SAM RIDLEY PKWY & INDUSTRIAL BLVD, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: INDUSTRIAL BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "ea9e9ae55252702a",
+    "latitude": 35.626001842422696,
+    "longitude": -88.77050137090332,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FLEX DR & COTTON GROVE RD, JACKSON, MADISON County; city: JACKSON; cross street: COTTON GROVE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c86fbb80ea553866",
+    "latitude": 35.933081,
+    "longitude": -86.8807043152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HILLSBORO RD & INDEPENDENCE SQUARE, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: INDEPENDENCE SQUARE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1d263b78f74f0f64",
+    "latitude": 35.620447999999996,
+    "longitude": -87.8346183152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TN-13 & E MAIN ST, LINDEN, PERRY County; city: LINDEN; cross street: E MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1c17fd13ff43406e",
+    "latitude": 35.958324999999995,
+    "longitude": -86.69294131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ERLINGER DR & UNIVERSE CT, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: UNIVERSE CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "c3acbc7644eab188",
+    "latitude": 35.466747,
+    "longitude": -86.08735231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: OAK DR & STHY 55, MANCHESTER, COFFEE County; city: MANCHESTER; cross street: STHY 55",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fdc21ae79b498c1c",
+    "latitude": 35.223490000000005,
+    "longitude": -84.88801831528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARIE CIR NW & ALVIN CT NW, HOPEWELL, BRADLEY County; city: HOPEWELL; cross street: ALVIN CT NW",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "49447d0637619311",
+    "latitude": 35.86715127084779,
+    "longitude": -86.45546732232462,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MEDICAL CENTER PKWY & ASBURY LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: ASBURY LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "0a079eeb53bdc4fd",
+    "latitude": 35.934195,
+    "longitude": -86.88029831528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HILLSBORO RD & JOEL CHEEK BLVD, FRANKLIN, WILLIAMSON County; city: FRANKLIN; cross street: JOEL CHEEK BLVD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bbb0dac4bdce4d41",
+    "latitude": 35.987807,
+    "longitude": -86.6660403152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: TIDMARSH  ST & FREWIN ST, NASHVILLE, DAVIDSON County; city: NASHVILLE; cross street: FREWIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "f90614a3641de540",
+    "latitude": 35.15858899999999,
+    "longitude": -88.5794313152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MARCUS J WRIGHT MEMORIAL  HWY & MULBERRY AVE, SELMER, MCNAIRY County; city: SELMER; cross street: MULBERRY AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d902dc88503b5eb4",
+    "latitude": 35.98250399999999,
+    "longitude": -86.66742931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MIDDLEWICK LN & KIRKWALL DR, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: KIRKWALL DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "1470e25f08c18c8d",
+    "latitude": 35.866074,
+    "longitude": -86.69467331528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HAWKS LANDING DR & MURFREESBORO RD, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: MURFREESBORO RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "d41a6e8a1b992ce9",
+    "latitude": 35.98029699999999,
+    "longitude": -86.68667431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAUPIN RD & ALAMEDA AVE, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: ALAMEDA AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e24f7757a0e77e86",
+    "latitude": 35.152976,
+    "longitude": -85.1875493152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FOLKNER RD & FAIRVIEW RD, CHATTANOOGA, HAMILTON County; city: CHATTANOOGA; cross street: FAIRVIEW RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5c5c2b7aecd67682",
+    "latitude": 35.7861350000027,
+    "longitude": -86.4019303152798,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: VETERANS PKWY & S CHURCH ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S CHURCH ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "00d3ba2e573f185b",
+    "latitude": 35.736514,
+    "longitude": -86.90760631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CYNTHIA LN & LORI ANNIE DR, SPRING HILL, MAURY County; city: SPRING HILL; cross street: LORI ANNIE DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "afb7354556a715f8",
+    "latitude": 35.930025999999984,
+    "longitude": -86.28306131528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: FARMINGTON  RD & LASCASSAS PIKE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: LASCASSAS PIKE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8cb8911ec1f354ab",
+    "latitude": 35.845146,
+    "longitude": -86.38471231528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: N HIGHLAND AVE & E MAIN ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: E MAIN ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7ae075e08a97a5b4",
+    "latitude": 35.930128,
+    "longitude": -85.04201231528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LANTANA RD & FORD ST, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: FORD ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "fbae3b9a2d94ccdd",
+    "latitude": 35.62343815188349,
+    "longitude": -84.09728630716852,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BRICK MILL  RD & LANIER RD, MARYVILLE, BLOUNT County; city: MARYVILLE; cross street: LANIER RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bce1b252c5198eac",
+    "latitude": 35.9594350000012,
+    "longitude": -86.65967631527973,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: CREEKSIDE DR & COWAN DR, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: COWAN DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "9970c4e7eae8fd74",
+    "latitude": 35.958339,
+    "longitude": -86.69297631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ERLINGER DR & SISTER CT, NOLENSVILLE, WILLIAMSON County; city: NOLENSVILLE; cross street: SISTER CT",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "4a909dacee60fcf1",
+    "latitude": 35.84125,
+    "longitude": -86.38754631528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: E CASTLE ST & S MANEY AVE, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: S MANEY AVE",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e7aaafa509006dc4",
+    "latitude": 35.93016,
+    "longitude": -85.04160131528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: LANTANA RD & DORTON RD, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: DORTON RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "51e24fb78a63ae41",
+    "latitude": 35.831956000000005,
+    "longitude": -86.37520431528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: ATLAS ST & MARS ST, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: MARS ST",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5896cd99e1d72aea",
+    "latitude": 35.864375,
+    "longitude": -86.47110731528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PUCKETT CREEK XING & THUNDER GULCH WAY, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: THUNDER GULCH WAY",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5fdfe007d83c5c41",
+    "latitude": 35.719669419835995,
+    "longitude": -84.32460097592242,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 72  S & VONORE RD, LOUDON; city: LOUDON; cross street: VONORE RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "7fb2c69da0151593",
+    "latitude": 35.972941000000006,
+    "longitude": -85.04935331528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 70  N & OBED RIVER PARK DR, CROSSVILLE, CUMBERLAND County; city: CROSSVILLE; cross street: OBED RIVER PARK DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "04fac4416c6917ee",
+    "latitude": 35.85296699999999,
+    "longitude": -86.3598313152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: BLUE RAIDER DR & GREENLAND DR, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: GREENLAND DR",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e2bc2e6323603498",
+    "latitude": 35.987326,
+    "longitude": -86.44062731528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: W JEFFERSON PIKE & I 840 EXIT RAMP, SMYRNA, RUTHERFORD County; city: SMYRNA; cross street: I 840 EXIT RAMP",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "bab1aadd21f010b8",
+    "latitude": 35.90015199999999,
+    "longitude": -84.14598931528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: PARKSIDE DR & LOVELL RD, KNOXVILLE; city: KNOXVILLE; cross street: LOVELL RD",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "8894e1a15c242250",
+    "latitude": 35.82096,
+    "longitude": -86.44516931528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: MAYLON DR & CASON LN, MURFREESBORO, RUTHERFORD County; city: MURFREESBORO; cross street: CASON LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

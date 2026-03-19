@@ -1,0 +1,20 @@
+[
+  {
+    "id": "982921590adc9f4b",
+    "latitude": 33.4780361,
+    "longitude": -114.7096283152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "72b72043b14c62fc",
+    "latitude": 32.98035829999999,
+    "longitude": -117.2714383152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: illinois/field_report_202507119",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

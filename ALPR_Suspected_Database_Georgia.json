@@ -1,0 +1,101 @@
+[
+  {
+    "id": "418b06409520fa6a",
+    "latitude": 34.073893999999996,
+    "longitude": -83.91851631528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "28ec480193bee8ed",
+    "latitude": 34.9626089,
+    "longitude": -83.76568171528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "07d1fa4e3dc7ea08",
+    "latitude": 34.88632129999999,
+    "longitude": -83.94153081528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "717a72e245fc0dfb",
+    "latitude": 34.8861243,
+    "longitude": -83.9414814152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5a147cde1a7c692d",
+    "latitude": 34.65859820000001,
+    "longitude": -83.0885483152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "e372afff20e7ea2b",
+    "latitude": 34.9190405,
+    "longitude": -83.72965441528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "5f148e819de5530b",
+    "latitude": 33.41005990000001,
+    "longitude": -83.09297661528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "50bdaf728d8a75d2",
+    "latitude": 33.3384621,
+    "longitude": -83.16694871528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "3e8f2fe950aa4dab",
+    "latitude": 34.9398339,
+    "longitude": -83.74266501528412,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "2818d7954fcb0713",
+    "latitude": 34.93383219999999,
+    "longitude": -83.84946671528411,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  },
+  {
+    "id": "018efe57efa6de65",
+    "latitude": 34.8712318,
+    "longitude": -83.9670832152841,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "state: georgia/deflock_email",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

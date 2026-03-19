@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f85157426e925696",
+    "latitude": 34.9987728970081,
+    "longitude": -88.25086509182191,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 57 & MIMOSA LN, COUNCE, HARDIN County; city: COUNCE; cross street: MIMOSA LN",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

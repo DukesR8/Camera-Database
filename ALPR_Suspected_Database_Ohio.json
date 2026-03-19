@@ -1,0 +1,11 @@
+[
+  {
+    "id": "00af8e03c56ece19",
+    "latitude": 39.3298836,
+    "longitude": -82.08384611528413,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: RT 33 & HWY 50; cross street: HWY 50; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]

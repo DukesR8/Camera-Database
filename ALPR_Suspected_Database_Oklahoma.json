@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f2fbc0038ba3d289",
+    "latitude": 33.13564730000001,
+    "longitude": -96.07438021528414,
+    "type": "ALPR_CAMERA_SUSPECTED",
+    "description": "address: HWY 67 & MCDONOUGH LINE RD; cross street: MCDONOUGH LINE RD; state: illinois",
+    "direction": null,
+    "timestamp": "2026-03-19T00:24:17Z"
+  }
+]
