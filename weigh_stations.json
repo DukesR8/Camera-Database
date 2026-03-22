@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sample-ws-001",
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "type": "WEIGH_STATION",
+    "subtype": "open",
+    "street": "Demo — I-70 eastbound",
+    "pubMillis": 1740000000000
+  },
+  {
+    "id": "sample-ws-002",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "type": "WEIGH_STATION",
+    "subtype": "closed",
+    "street": "Demo — I-5 corridor",
+    "pubMillis": 1740000000000
+  },
+  {
+    "id": "sample-ws-003",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "type": "WEIGH_STATION",
+    "subtype": "monitor",
+    "street": null,
+    "pubMillis": 1740000000000
+  }
+]
