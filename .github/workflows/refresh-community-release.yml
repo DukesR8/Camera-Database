@@ -1,0 +1,48 @@
+# Created by Dukes
+# When tiles/ changes on main, rebuild community_map.json.gz, merge overrides into each
+# regional *.json.gz (same segment_id as editor), update manifest.json, and clobber-upload
+# everything to release speedlimits-v1 (unchanged URLs for the app).
+
+name: Refresh community speed pack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tiles/**"
+  workflow_dispatch:
+
+concurrency:
+  group: speedlimits-v1-community
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build community pack, patch regionals, write manifest
+        env:
+          SOURCE_MANIFEST_URL: https://github.com/${{ github.repository }}/releases/download/speedlimits-v1/manifest.json
+          MERGE_INTO_REGIONAL_PACKS: "1"
+        run: python3 scripts/build_community_release.py
+
+      - name: Upload to release speedlimits-v1
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          if [ ! -f dist/community_map.json.gz ]; then
+            echo "dist/community_map.json.gz missing" >&2
+            exit 1
+          fi
+          assets=(dist/manifest.json dist/*.json.gz)
+          gh release upload speedlimits-v1 "${assets[@]}" --clobber
