@@ -113,7 +113,7 @@ def release_assets_base(manifest_url: str) -> str:
 
 def local_tile_keys() -> list[str]:
     """Return sorted tile keys that actually exist as .json.gz files on disk."""
-    return sorted(p.stem for p in TILES_DIR.glob("*.json.gz"))
+    return sorted(p.name[:-8] for p in TILES_DIR.glob("*.json.gz"))
 
 
 def collect_segment_overrides() -> dict[int, dict]:
@@ -172,8 +172,9 @@ def merge_overrides_into_location(loc: dict, overrides: dict[int, dict]) -> int:
 
 def write_location_gz(loc: dict, path: Path) -> int:
     raw = json.dumps(loc, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
-    with gzip.open(path, "wb", mtime=0) as gz:
-        gz.write(raw)
+    with open(path, "wb") as f:
+        with gzip.GzipFile(fileobj=f, mode="wb", mtime=0) as gz:
+            gz.write(raw)
     return path.stat().st_size
 
 
@@ -285,8 +286,9 @@ def main() -> int:
     DIST_DIR.mkdir(parents=True, exist_ok=True)
     pack_path = DIST_DIR / filename
     raw = json.dumps(loc, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
-    with gzip.open(pack_path, "wb", mtime=0) as gz:
-        gz.write(raw)
+    with open(pack_path, "wb") as f:
+        with gzip.GzipFile(fileobj=f, mode="wb", mtime=0) as gz:
+            gz.write(raw)
 
     gz_size = pack_path.stat().st_size
     file_size_mb = round(gz_size / 1_048_576.0, 4)
