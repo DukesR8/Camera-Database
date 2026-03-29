@@ -28,10 +28,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build community pack, patch regionals, write manifest
+      - name: Build community pack and write manifest
         env:
           SOURCE_MANIFEST_URL: https://github.com/${{ github.repository }}/releases/download/speedlimits-v1/manifest.json
-          MERGE_INTO_REGIONAL_PACKS: "1"
+          MERGE_INTO_REGIONAL_PACKS: "0"
         run: python3 scripts/build_community_release.py
 
       - name: Upload to release speedlimits-v1
